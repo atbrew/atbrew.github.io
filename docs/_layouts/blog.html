@@ -13,22 +13,25 @@
 
             <p class="blog-post-list">
                 {% for post in site.posts %}
-
                 {% if post.draft != true %}
-                <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
-                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
-                {{ post.title }}
-                </a>
-                {% if post.blurb != true %}
-                  <p>
-                  {{ post.blurb}}
-                  </p>
-                {% endif %}
-                <br />
 
-                {% endif %}
+                <div class="card">
+                  <h3><b>{{ post.date | date: "%-m/%-d/%y" }} :: <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
+                      {{ post.title }}
+                </a></b></h3>
+                  {% if post.og_image %}
+                  <img src="{{ post.og_image }}" alt="blog" style="width:100%">
+                  {% endif %}
+                  <div class="container">
 
-                {% endfor %}
+
+                    {% if post.blurb != true %}
+                    <p>{{ post.blurb}}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
             </p>
         </div>
     </div>

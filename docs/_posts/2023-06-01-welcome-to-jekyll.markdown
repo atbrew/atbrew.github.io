@@ -2,11 +2,11 @@
 layout: post
 title:  "Back in the water"
 date:   2023-06-02 10:00:40
-blurb: "Returning to old things will often bring new found learning and joy"
+blurb: "Dont forget what you loved, just because others things have displaced them. "
 og_image: /assets/img/content/first-post/back-in-the-water.jpeg
 ---
 
-<img src="{{ "/assets/img/content/first-post/back-in-the-water.jpeg" | absolute_url }}" alt="liffey swim" class="post-pic"/>
+<img src="{{ "/assets/img/content/first-post/back-in-the-water.jpeg" | absolute_url }}" alt="Liffey swim" class="post-pic"/>
 <br />
 <br />
 
