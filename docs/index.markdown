@@ -7,7 +7,7 @@ profile_picture:
 
 <p>
 
-Hi Im <b>Dr. Anthony Brew</b>, a product and technology professional with experience shipping software across various domains, including academia, start-ups, scale-ups, and enterprise businesses. 
+Im <b>Dr. Anthony Brew</b>, a product and technology professional with [experience](cv.html) shipping software across various domains, including academia, start-ups, scale-ups, and enterprise businesses. 
 
 </p>
 <p>
