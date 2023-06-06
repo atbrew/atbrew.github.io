@@ -37,7 +37,7 @@ Our team setups are way more complicated than the above and so this would not be
 
 <p>
 
-<b>Now that you know a bit about me, lets set the context for this website. This website is primarily for "me"</b>. I plan to use it to develop my thinking and share my personal projects.
+Now that you know a bit about me, lets set the context for this website. This website is <b>primarily for "me"</b>. I plan to use it to develop my thinking and share my personal projects.
 As an scientist by trade, Im currently exploring ways that AI software can enabling teams alignment and hence enhance their productivity.
 If what you find here is useful that's great, I'd love to hear from you to understand what you found interesting or useful.
 </p>
