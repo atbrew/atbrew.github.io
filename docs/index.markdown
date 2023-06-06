@@ -1,3 +1,10 @@
+---
+layout: home
+profile_picture:
+  src: /assets/img/profile-pic.jpg
+  alt: website picture
+---
+
 <p>I'm <b>Dr. Anthony Brew</b>, an experienced product and technology professional. I'm passionate about enabling teams to collaborate in developing innovative software products in high-uncertainty domains.</p>
 
 <p>In my opinion a clear and unambiguous <b>purpose</b> is the central ingredient for empowered and effective teamwork. When purpose is supported by a thoughtfully designed <b>organizational setup</b> and refined <b>team processes</b>, it minimizes friction among team members.</p>
