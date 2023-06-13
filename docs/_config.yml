@@ -41,7 +41,6 @@ header:
     - name: About
       slug: /     # <-- index.md
     - name: Projects  # <-- projects.md
-      slug: projects.md
     - name: Posts  # <-- posts.md
     - name: CV  # <-- whatever.md
     - name: Links
