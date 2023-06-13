@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Work
+title: Personal Projects
 slug: /work
 items:
   - title: Deploying 2010 in 2023
