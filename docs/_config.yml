@@ -44,6 +44,7 @@ header:
       slug: projects.md
     - name: Posts  # <-- posts.md
     - name: CV  # <-- whatever.md
+    - name: Links
 
 footer:
   show_powered_by: false
