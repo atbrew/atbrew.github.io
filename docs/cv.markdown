@@ -15,8 +15,9 @@ Machine Learning, Software Development, Product Management, Cross-Functional Tea
 
 ## Experience
 
-### Senior Manager Generative AI
-<u>Shutterstock :: Dublin</u> July 2023 - Present
+### Senior Manager, Generative AI
+**Shutterstock - Dublin, Ireland**
+*July 2023 - Present*
 
 Leading the full-stack generative core AI team which is responsible for  delivering Shutterstocks responsible AI Image creation and modification tools that make Shutterstock's massive catalogue infinite. 
 
@@ -25,8 +26,8 @@ Our generative core team delivers a text-to-image offering as a single shot text
 The generative core team also delivers platform AI Image editing capabilities such as background removal, image upscaling and image segmentation that are consumed by other teams across Shutterstock (e.g. image editing in [PicMonkey](https://www.picmonkey.com/))
 
 ### VP of AI & Engineering
-Streetbees :: London & Lisbon (Remote)
-Oct 2021 - July 2023
+**Streetbees :: London & Lisbon (Remote)**
+*Oct 2021 - July 2023*
 
 Streetbees is a multi-award-winning Marketing AI SaaS service built on AWS that enables brands such as Pepsico and Unilever to connect with 3.5 Million customers "in the moment" of consumption through an AI-driven mobile chatbot survey and data processing system.
 
@@ -40,8 +41,8 @@ Some examples observed since the change:
 The release of ChatGPT in November 2022 enabled my team to build a fully automated end-to-end survey curation, quality assurance, one-shot encoding, and report writing product that that has been released as [Streetbees-X](https://www.streetbees.com/SBX).
 
 ### Head of NLP Centre of Excellence
-Zalando :: Berlin (Remote)
-Jul 2020 - Oct 2021
+**Zalando :: Berlin (Remote)**
+*Jul 2020 - Oct 2021*
 
 Zalando wished to expedite moving near-term research innovation from the Zalando research team so that the business would have more immediate benefit, and Zalando research could focus on blue skies research. Four Centres of AI Excellence were planned to focus on enabling and seeding other Zalando teams with near and mid-term innovations. This is where recent advances in the state of the art (e.g., in NLP) would have immediate and near-term (1-5 year) impact.
 
@@ -52,8 +53,8 @@ Some accomplishments include:
 - Led product discovery, architecture, and early implementation of our core customer feedback analysis product "classlytics". Classlytics was GDPR compliant by design enabling multilingual search and message routing of customer feedback for 18 languages from over 40 different customer journey touchpoints (e.g., return slips & online feedback forms). The product safety inspection team used it as a high recall (95%+) human in the loop automated escalation tool to forward safety concerns to their manual inspection team to expedite the removal of potentially unsafe products from Zalando.
 
 ### Board Member
-Zalando
-May 2018 - Jun 2020 (2 years 2 months)
+**Zalando**
+*May 2018 - Jun 2020 (2 years 2 months)*
 
 German companies are "co-determined," that is, they are led by a board of directors that is split between shareholder representatives and employee representatives. I was invited to apply for a vacant position on the board given my background in machine learning and technology that was deemed to be highly complementary to the wider board structure.
 
@@ -64,8 +65,8 @@ I was one of 3 elected employees on the 8-seat supervisory board of Zalando char
 - Raised issues with the process and the algorithmic evaluation of employees, which helped to drive change in the bi-annual employee appraisal process.
 
 ### Head of Customer Data Platform
-Zalando
-Jan 2016 - Jul 2020 (4 years 7 months)
+**Zalando**
+*Jan 2016 - Jul 2020 (4 years 7 months)*
 
 Zalando is the largest fashion e-commerce platform in Europe. In 2015, Zalando aimed to rapidly expand its technical workforce. It did this by opening new technology hubs in Dublin & Helsinki. The Zalando Dublin site was set up to be a data science innovation hub, known as the Fashion Insights Centre. Three departments were set up on the site: the fashion content platform to provide insights into the latest trends in fashion, the smart product platform to enable deep and rich metadata about products onboarded onto the platform, and the customer data platform to provide a 360-degree view of customers interacting with the platform. The core challenge for all these departments was to integrate into the wider Zalando business.
 
@@ -82,8 +83,8 @@ Some accomplishments include:
 #### Lead Applied Scientist (Jan 2016 - Feb 2017)
 
 ### Lead Applied Scientist
-IBM
-Apr 2012 - Jan 2016 (3 years 10 months)
+**IBM**
+*Apr 2012 - Jan 2016 (3 years 10 months)*
 
 Lead Applied Scientist in the IBM SmartCloud division responsible for invention, optimization, and delivery of machine learning software to optimize and simplify IT Network monitoring.
 
@@ -99,7 +100,7 @@ Metrics Management:
 - Continuous Improvement was enabled by "pluggable" independently testable extensions. Using this, we doubled the number of anomaly methods provided by the system (e.g., adding memory leak detectors) and reduced the false alerts raised by the system by 50%.
 
 ### Data Scientist / Software Engineer
-Swrve
-June 2011 - Mar 2012
+**Swrve**
+*June 2011 - Mar 2012*
 
 Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based on tracking event streams. Implemented front-end UX in Ruby & JQuery, backend in Java with a Redis, Cassandra, and MySQL storage layer, hosted on Amazon EC2.
