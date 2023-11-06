@@ -22,7 +22,7 @@ Machine Learning, Software Development, Product Management, Team Leadership, Sys
 **Shutterstock - Dublin, Ireland**
 *July 2023 - Present*
 
-Leads the full-stack generative AI team to deliver Shutterstock's AI-powered image creation tools, enhancing the platform's extensive catalogue. Spearheads the development of a text-to-image offering, available both as a standalone service and integrated into a chat-based design assistant, leveraging multiple Text-To-Image models to optimize user experience. Oversees AI image editing features, including background removal, upscaling, and segmentation, utilized across Shutterstock's suite of products.
+Leads the full-stack generative AI team to deliver Shutterstock's AI-powered image creation tools, making the platform's extensive catalogue infinite. This involves the development of a text-to-image offering, available both as a standalone service and integrated into a chat-based design assistant, leveraging multiple internal and external Text-To-Image models to optimize user experience. Oversees AI image editing capabilities, including background removal, upscaling, and segmentation, utilized across Shutterstock's suite of products.
 
 ### VP of AI & Engineering
 **Streetbees - London & Lisbon (Remote)**
