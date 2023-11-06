@@ -15,9 +15,18 @@ Machine Learning, Software Development, Product Management, Cross-Functional Tea
 
 ## Experience
 
+### Senior Manager Generative AI
+<u>Shutterstock :: Dublin</u> July 2023 - Present
+
+Leading the full-stack generative core AI team which is responsible for  delivering Shutterstocks responsible AI Image creation and modification tools that make Shutterstock's massive catalogue infinite. 
+
+Our generative core team delivers a text-to-image offering as a single shot text-to-image [offering](https://www.shutterstock.com/ai-image-generator) and as a chat based design assistant. This product blends the challenges presented in any user facing ML product (such as RLHF loops) on individual image interactions, but also poses unique recomendation style problems as we select and enable the best text-to-image model through prompt re-writing and model selections (from multiple Text-To-Image models)   
+
+The generative core team also delivers platform AI Image editing capabilities such as background removal, image upscaling and image segmentation that are consumed by other teams across Shutterstock (e.g. image editing in [PicMonkey](https://www.picmonkey.com/))
+
 ### VP of AI & Engineering
 Streetbees :: London & Lisbon (Remote)
-Oct 2021 - Present
+Oct 2021 - July 2023
 
 Streetbees is a multi-award-winning Marketing AI SaaS service built on AWS that enables brands such as Pepsico and Unilever to connect with 3.5 Million customers "in the moment" of consumption through an AI-driven mobile chatbot survey and data processing system.
 
@@ -28,7 +37,7 @@ Some examples observed since the change:
 - A 365% increase in automated codes discovered by extending automatic coding to include images (not just text) in a move to a multimodal two-tower classification paradigm.
 - A 75% reduction in QA time on fraudulent image submission based on algorithms identifying 80% of near duplicate image submissions and screen captures as part of a review recommendation engine.
 
-The release of ChatGPT in November 2022 enabled my team to build a fully automated end-to-end survey curation, quality assurance, one-shot encoding, and report writing product that was presented to the StreetBees board. A full working prototype has been released to beta customers, and the company is now moving from large agency-style contracts to a full SaaS offering based on the innovations and technology our team developed.
+The release of ChatGPT in November 2022 enabled my team to build a fully automated end-to-end survey curation, quality assurance, one-shot encoding, and report writing product that that has been released as [Streetbees-X](https://www.streetbees.com/SBX).
 
 ### Head of NLP Centre of Excellence
 Zalando :: Berlin (Remote)
