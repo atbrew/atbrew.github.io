@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "atbrew-github-io"
+version = "0.1.0"
+description = ""
+authors = ["Anthony Brew <atbrew@gmail.com>"]
+readme = "README.md"
+packages = [{include = "atbrew"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+markdown2 = "^2.4.10"
+pdfkit = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
