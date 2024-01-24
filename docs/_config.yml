@@ -19,11 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Dont Neg Me Out
-email: your-email@example.com
+email: atbrew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the personal websire of Anthony Brew.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -38,11 +36,12 @@ plugins:
 
 header:
   pages:
-    - name: About
+    - name: Intro
       slug: /     # <-- index.md
+    - name: About
+    - name: Career  # <-- whatever.md
     - name: Projects  # <-- projects.md
     - name: Posts  # <-- posts.md
-    - name: CV  # <-- whatever.md
     - name: Links
 
 footer:

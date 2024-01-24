@@ -1,6 +1,6 @@
 # Anthony Brew
 **Email:** atbrew@gmail.com | **Tel:** +353 87 917 9799 | [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT)  
-*Formats:* long-form \[[html](http://dontnegmeout.com/cv-long.html) | [pdf](http://dontnegmeout.com/cv-long.pdf)\] , (this doc)short form  \[[html](http://dontnegmeout.com/cv.html) \| [pdf](http://dontnegmeout.com/cv.pdf)\] 
+*Formats:* long-form \[[html](http://dontnegmeout.com/cv-long.html) | [pdf](http://dontnegmeout.com/cv-long.pdf)\] , (this doc)short form  \[[html](http://dontnegmeout.com/career.html) \| [pdf](http://dontnegmeout.com/cv.pdf)\] 
 
 
 
