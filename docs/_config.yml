@@ -40,6 +40,7 @@ header:
       slug: /     # <-- index.md
     - name: About
     - name: Career  # <-- whatever.md
+      slug: /cv
     - name: Projects  # <-- projects.md
     - name: Posts  # <-- posts.md
     - name: Links

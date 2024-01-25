@@ -1,6 +1,6 @@
 # Anthony Brew
 **Email:** atbrew@gmail.com | **Tel:** +353 87 917 9799 | [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT)  
-*Formats:* (this doc) long-form \[[html](http://dontnegmeout.com/cv-long.html) | [pdf](http://dontnegmeout.com/cv-long.pdf)\] , short form  \[[html](http://dontnegmeout.com/career.html) \| [pdf](http://dontnegmeout.com/cv.pdf)\]
+*Formats:* (this doc) long-form \[[html](http://dontnegmeout.com/cv-long.html) | [pdf](http://dontnegmeout.com/cv-long.pdf)\] , short form  \[[html](http://dontnegmeout.com/cv.html) \| [pdf](http://dontnegmeout.com/cv.pdf)\]
 
 ## Summary
 Empathy focused product and technology leader with 20 years experience across academia, start-ups, scale-ups, and enterprise businesses in cross-functional software delivery teams that leverage machine learning. Hands-on experience as an individual engineering and scientific contributor combined with 8-year experience spanning team, department, and organizational leadership roles. Through active problem solving and teamwork, he and his teams have published, patented, invented, built, and extended intelligent software products that have enabled millions of users and multiple organizations.
