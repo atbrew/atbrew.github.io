@@ -36,14 +36,16 @@ plugins:
 
 header:
   pages:
-    - name: Intro
+    - name: '&#128075; Intro'
       slug: /     # <-- index.md
-    - name: About
-    - name: Career  # <-- whatever.md
+    - name: '&#129300; Who I am'
+      slug: /about
+    - name: '&#128119; What Ive worked on'  # <-- whatever.md
       slug: /cv
-    - name: Projects  # <-- projects.md
-    - name: Posts  # <-- posts.md
-    - name: Links
+    - name: '✏️ Writing'  # <-- posts.md
+      slug: /posts
+    - name: '&#128214; Reading'
+      slug: /links
 
 footer:
   show_powered_by: false

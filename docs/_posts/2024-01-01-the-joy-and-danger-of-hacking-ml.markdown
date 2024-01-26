@@ -4,6 +4,7 @@ title:  "A joys and dangers of hacking machine learning"
 date:   2024-01-24 10:00:40
 blurb: "The rise of uncertainty engineering"
 og_image: /assets/img/content/uncertain/uncertainty_engineering_wide.png
+published: true
 ---
 
 <img src="{{ "/assets/img/content/uncertain/uncertainty_engineering_wide.png" | absolute_url }}" alt="Liffey swim" class="post-pic"/>
