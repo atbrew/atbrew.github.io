@@ -4,7 +4,7 @@ title:  "Push yourself outside your comfort zone"
 date:   2024-01-24 10:00:40
 blurb: "Pushing yourself beyond your boundaries"
 og_image: /assets/img/content/chess/chess_wide.png
-published: true
+published: false
 ---
 
 <img src="{{ "/assets/img/content/chess/chess_wide.png" | absolute_url }}" alt="Liffey swim" class="post-pic"/>
