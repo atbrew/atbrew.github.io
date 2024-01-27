@@ -1,5 +1,5 @@
 <h1 style="color:red">  HEALTH WARNING </h1>
-<span style="color:red"> I write to think. What's written here is to a degree for me. But I believe it can help others understand me better and that's why I share it. This alligns with one of my core principles to **Be who I am 100% of the time**, what you see is what you get! </span>
+<span style="color:red"> I write to think. What's written here is to a degree for me to fromalise my thinking. I believe it can help others understand me better and that's why I share it, and by sharing it I spend more time thinking about what I share. This alligns with one of my core principles to **Be who I am 100% of the time**, what you see is what you get! </span>
 
 # &#129300; Who I am
 
