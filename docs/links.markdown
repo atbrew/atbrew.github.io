@@ -4,6 +4,10 @@ layout: home
 ---
 
 
+# Books
+These are books that Ive recent read and why and how they have influenced my thinking.  
+
+- [The power of habit](https://amzn.to/3vTP9jX) This is a really nice book that provides some insights into how our brain works and how we "internalise habits", moving repeated actions from cognisant thought to "automatic thought". Fascinating observations on how these then go on to manifest themselves at an organisational level and at a societal level.  
 
 # Blogs 
 These are blogs that I currently actively read or find useful
