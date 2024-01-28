@@ -1,5 +1,5 @@
 <h1 style="color:red">  HEALTH WARNING </h1>
-<span style="color:red"> I write to think. What's written here is to a degree for me to formalise my thinking. I believe it can help others understand me better and that's why I share it, and by sharing it I spend more time thinking about what I share. This aligns with one of my core principles to **Be who I am 100% of the time**, what you see is what you get! </span>
+<span style="color:red"> I write to think. What's written here is to formalise my thinking. I believe it can help others understand me better and that's why I share it, and by sharing it I spend more time thinking about what I share. This aligns with one of my core principles to **Be who I am 100% of the time**, what you see is what you get! </span>
 
 # &#129300; Who I am
 
@@ -14,7 +14,13 @@ In my lagging values, to a degree I don't particularly care the final destinatio
 
 
 # My Principles
-My principles are drawn mostly from education both formal and through work and built out from my personal experiences. 
+My principles are drawn mostly from education both formal and through work and built out from my personal experiences.
+
+The ones I have documented so far are 
+- [Invest continually in family](#invest-continually-in-family)
+- [Invest time to maximize the long term](#invest-time-to-maximize-the-long-term)
+- [Always understand why](#always-understand-why)
+- [Stop, reflect and explicitly redirect](#stop-reflect-and-explicitly-redirect)
 
 ### Invest Continually in Family
 One of my weaknesses is I don’t spend enough time learning about others, because I’m more interested in getting shit done.  To a degree that’s understandable in a work context, but for me my family is a part of my life that will always be with me. 
@@ -26,7 +32,7 @@ A simple view is to drop down to the activities that the kids want to do (video 
 ### Invest time to maximize the long term
 I like to dabble and experiment. But my long term goal is to have a sustainable source of income that does not require my attention. So I will continue to spike and play with business ideas and projects that I think will help me get to a place where I can build a small business. I’m not looking to build the next Google or Apple. I’d rather avoid using debt to fund this. I want to be the digital equivalent of my grandparents and great-grandparents and have a business that can generate revenue with little to no input from myself. This is so that I can maximize the time I have with my children and hopefully one day my grandchildren, and importantly invest in their passions.
 
-### Always Understand Why. 
+### Always Understand Why 
 I’m a strong disbeliever in “busy-work”. Most of the hard work we need to do is not activity, but understanding why we need to act. This fits into three categories, career goals, work itself and learning.
 
 For me in a work context this aligns with what I term “the red thread” principle, which is basically any bit of work aligns upwards in some form to team mission, which ladders into organizational goals and ultimately company strategy. I find that taking the time to articulate this significantly helps drive bottom up alignment and ultimately breeds more autonomous teams.  When work does not fit the red thread it's often a clear indicator that either strategy is incomplete (and that’s worth thinking about!) or we should question why we are doing something. There are many great resources that help build and drive this, personally I’ve found [good strategy / bad strategy](https://amzn.to/4bdA7p8) by Rumsfeld to be useful in formulating strategy, [amplitudes north star framework](https://amplitude.com/books/north-star) and a lot of the writing of [John Cutler](https://cutlefish.substack.com/) useful in thinking about different time horizons. As we break down a problem or strategic goal I find Amazons working backwards process as outlined in [Shipping Greatness](https://amzn.to/3OjKXQG) to be the most effective way to stay focused on why. 
@@ -43,6 +49,14 @@ This is for two reasons
 
 2/ **Your learning a different lesson that what you signed up for**: Often when we make a change, what we learn is not what we expected to learn. This is not necessarily a bad thing, but it’s important to recognise and decide. With some fore-thought and second order thinking these alternative learnings will be less of a surprise. And when you are "in it", its worth asking, even thought I didn't choose this, "Is this the learning I want to make?" And while I rebase, "How can I extract as much learning out of the current situation as possible?" 
 
+# All dimensions matter
+I have three sets of trios. 
+1. Autonomy,Mastery and Purpose
+2. People, Product and Technology
+
+I have to a degree, over indexed on Purpose and Product. This is because my principle [starting with why](#always-understand-why-) usually drives me to the top of the funnel and my weakness to "get going" leaves me to think the other two will resolve themselves naturally. This in my experince is not true. While we may believe with enough will power and detrminiation, we can carve out autonomy beware that in many dysfunctional organisations this simple is not under your control. Be very wary to ensure you will be able to build the trust that truly enables this. It might not even be with your boss, but needed at several reporting levels up! Mastery is also at risk, while purpose might be clear the standards that you set might not be met, the ways of working messy. For example, I strongly allign with mission focused cross-functional teams where the overhead of inter-team communication is minimised. I find working in functionally split orgs hard, so while the purpose is clear mastery of cross functinal capabilities is missing, and so it can mean it's not for me. 
+
+Similarly, with an overfocus on Product, I've seen eye watering technical debt to the level that moving fast is simply not possible for the tech team. I've also been in situations where my senior leadership has had alternative world views on how to get the most out of our team and their motivations. This clash of carrot vs stick and top down versus bottom up is often not possible to change and so understanding if all the components of my trios is in place is importnat to me.     
 
 # My Goals
 I (currently) have the following high goals. Keep an eye on my [rambling](posts) to see what I'm doing. 
