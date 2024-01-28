@@ -49,9 +49,9 @@ This is for two reasons
 
 2/ **Your learning a different lesson that what you signed up for**: Often when we make a change, what we learn is not what we expected to learn. This is not necessarily a bad thing, but it’s important to recognise and decide. With some fore-thought and second order thinking these alternative learnings will be less of a surprise. And when you are "in it", its worth asking, even thought I didn't choose this, "Is this the learning I want to make?" And while I rebase, "How can I extract as much learning out of the current situation as possible?" 
 
-# All dimensions matter
-I have three sets of trios. 
-1. Autonomy,Mastery and Purpose
+### All dimensions matter
+I have two sets of values that form trios that matter to me. 
+1. Autonomy, Mastery and Purpose
 2. People, Product and Technology
 
 I have to a degree, over indexed on Purpose and Product. This is because my principle [starting with why](#always-understand-why-) usually drives me to the top of the funnel and my weakness to "get going" leaves me to think the other two will resolve themselves naturally. This in my experince is not true. While we may believe with enough will power and detrminiation, we can carve out autonomy beware that in many dysfunctional organisations this simple is not under your control. Be very wary to ensure you will be able to build the trust that truly enables this. It might not even be with your boss, but needed at several reporting levels up! Mastery is also at risk, while purpose might be clear the standards that you set might not be met, the ways of working messy. For example, I strongly allign with mission focused cross-functional teams where the overhead of inter-team communication is minimised. I find working in functionally split orgs hard, so while the purpose is clear mastery of cross functinal capabilities is missing, and so it can mean it's not for me. 
