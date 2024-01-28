@@ -14,9 +14,28 @@ In my lagging values, to a degree I dont particularly care the final destination
 
 
 # My Principles
-The following are a continual set of principles that I am refining over time. The reflect how I operate as a person, as such I hope they inform a little on what I'm like.  
+My principles are drawn mostly from education both formal and through work and built out from my personal experiences. 
 
-## Stop, reflect, and explicitly redirect.
+### Invest Continually in Family
+One of my weaknesses is I don’t spend enough time learning about others, because I’m more interested in getting shit done.  To a degree that’s understandable in a work context, but for me my family is a part of my life that will always be with me. 
+
+For this reason I like to ensure I always have one activity going on with all of the kids and myself. This is because I am naturally drawn to activities and when I share activities with the kids I spend time with them and we learn more about each other. 
+
+A simple view is to drop down to the activities that the kids want to do (video games & youtube!). However this is not my intention, I want them to “invest in their passions” and so part of that is enabling them to discover these and if possible join them for a part of the ride. 
+
+### Invest time to maximize the long term
+I like to dabble and experiment. But my long term goal is to have a sustainable source of income that does not require my attention. So I will continue to spike and play with business ideas and projects that I think will help me get to a place where I can build a small business. I’m not looking to build the next Google or Apple. I’d rather avoid using debt to fund this. I want to be the digital equivalent of my grandparents and great grandparents and have a business that can generate revenue with little to no input from myself. This is so that I can maximize the time I have with my children and hopefully one day my grandchildren, and importantly invest in their passions.
+
+### Always Understand Why. 
+I’m a strong disbeliever in “busy-work”. Most of the hard work we need to do is not activity, but understanding why we need to act. This fits into three categories, career goals, work itself and learning.
+
+For me in a work context this aligns with what I term “the red thread” principle, which is basically any bit of work aligns upwards in some form to team mission, which ladders into organizational goals and ultimately company strategy. I find that taking the time to articulate this significantly helps drive bottom up alignment and ultimately breeds more autonomous teams.  When work doesn’t fit the red thread its often a clear indicator that either strategy is incomplete (and that’s worth thinking about!) or we should question why we are doing something. There are many great resources that help build and drive this, personally I’ve found [good strategy / bad strategy](https://amzn.to/4bdA7p8) by Rumsfeld to be useful in formulating strategy, [amplitudes north star framework](https://amplitude.com/books/north-star) and a lot of the writing of [John Cutler](https://cutlefish.substack.com/) useful in thinking about different time horizons. As we break down a problem or strategic goal I find Amazons working backwards process as outlined in [Shipping Greatness](https://amzn.to/3OjKXQG) to be the most effective way to stay focused on why. 
+ With career goals it’s something I’m currently spending a bit more time reflecting on at the moment (as of 2024). I’ve been lucky to date to be in jobs that naturally keep me learning and pay the bills. Im beginning to reflect and consider what is the exact type of learning that I’m looking for.  
+
+With learning goals I’m also getting sharper, not all learning needs to be “in work” (however it is a great place to get most of your learning given the natural time commitment). For example, I'm currently building an automated chess set, and so that is driving me to learn Computer Aided Design (for our 3D printer) and basic electronics (to control motors and electro-magnets from a raspberry pi).  The learning is stickier because I have a clear goal/why and focusing on it keeps me on track.
+
+
+### Stop, reflect, and explicitly redirect.
 In life I implicitly position myself to learn certain things. This positioning is usually based on what feels good or to tactically adjust for a current irritation. This often works well. How-ever what can happen is that the learnings I thought I'd have is not a pronounced as I would like and more often than not I need to learn alternative things. As such for larger changes I now take a little longer to think them through, and try to force myself to see multiple paths before picking one. This is not to get away from trusting my gut, but to make sure that my choices are fully concious and rational. I need to do this for two reasons
 
 This is for two reasons 
