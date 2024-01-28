@@ -21,6 +21,8 @@ The ones I have documented so far are
 - [Invest time to maximize the long term](#invest-time-to-maximize-the-long-term)
 - [Always understand why](#always-understand-why)
 - [Stop, reflect and explicitly redirect](#stop-reflect-and-explicitly-redirect)
+- [All dimensions matter](#all-dimensions-matter)
+- [Be who I am 100% of the time](#be-who-i-am-100-of-the-time)
 
 ### Invest Continually in Family
 One of my weaknesses is I don’t spend enough time learning about others, because I’m more interested in getting shit done.  To a degree that’s understandable in a work context, but for me my family is a part of my life that will always be with me. 
@@ -57,6 +59,9 @@ I have two sets of values that form trios that matter to me.
 I have to a degree, over indexed on Purpose and Product. This is because my principle [starting with why](#always-understand-why-) usually drives me to the top of the funnel and my weakness to "get going" leaves me to think the other two will resolve themselves naturally. This in my experince is not true. While we may believe with enough will power and detrminiation, we can carve out autonomy beware that in many dysfunctional organisations this simple is not under your control. Be very wary to ensure you will be able to build the trust that truly enables this. It might not even be with your boss, but needed at several reporting levels up! Mastery is also at risk, while purpose might be clear the standards that you set might not be met, the ways of working messy. For example, I strongly allign with mission focused cross-functional teams where the overhead of inter-team communication is minimised. I find working in functionally split orgs hard, so while the purpose is clear mastery of cross functinal capabilities is missing, and so it can mean it's not for me. 
 
 Similarly, with an overfocus on Product, I've seen eye watering technical debt to the level that moving fast is simply not possible for the tech team. I've also been in situations where my senior leadership has had alternative world views on how to get the most out of our team and their motivations. This clash of carrot vs stick and top down versus bottom up is often not possible to change and so understanding if all the components of my trios is in place is importnat to me.     
+
+### Be who I am 100% of the time
+In an office space you will probably hear me laugh. I am a big characture and I wear my heart on my sleeve. I will obviously adapt to situations (like I will wear a shirt to dinner) but the underlying person is the same. The reason this principle is importnat to me is that I believe the best outcomes can be achieved when people trust each other. The easiest way I believe to build trust is to be genuine. I do struggle with pausing long enough to truly try to get to know people, but I believe by being myself 100% of the time it reduces the hurdle that could be removed by building familiarity (faster).   
 
 # My Goals
 I (currently) have the following high goals. Keep an eye on my [rambling](posts) to see what I'm doing. 
