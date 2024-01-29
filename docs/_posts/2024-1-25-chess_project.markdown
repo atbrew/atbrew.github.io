@@ -7,19 +7,19 @@ og_image: /assets/img/content/chess/chess_wide.png
 published: true
 ---
 
-<img src="{{ "/assets/img/content/chess/chess_wide.png" | absolute_url }}" alt="Liffey swim" class="post-pic"/>
+<img src="{{ "/assets/img/content/chess/chess_wide.png" | absolute_url }}" alt="Chess and electronics" class="post-pic"/>
 <br />
 <br />
 
-One of [my goals](/about/#my-goals) for 2024 is to blog 4 blog worthy projects. This is to stretch myself beyond my comfort zone and to learn something fun along the way. I've also always had an itch to "build something" real, tangible and touchable that uses software. The stars have beeb alligning for this project I feel. A spanish colleague before Christmas, convinced me that what (ahem) my kids needed was a 3-d printer.  
+One of [my goals](/about/#my-goals) for 2024 is to blog 4 blog worthy projects. This is to stretch myself beyond my comfort zone and to learn something fun along the way. I've also always had an itch to "build something" real, tangible and touchable that uses software. The stars have beeb aligning for this project I feel. A spanish colleague before Christmas, convinced me that what (ahem) my kids needed was a 3-d printer.  
 
-The lego set I loved the most as a child was obviously lego technic, and of the sets I recall most vividly was probably the simplist to build; a 2d plotter. I'm also always looking for projects where I can get the kids involed and excited. Now comes the last bit of the puzzle. My eldest son Ryan has got a fondness for chess, to the point I just don't have a hope at beating him.
+The lego set I loved the most as a child was obviously lego technic, and of the sets I recall most vividly was probably the simplest to build; a 2d plotter. I'm also always looking for projects where I can get the kids involved and excited. Now comes the last bit of the puzzle. My eldest son Ryan has got a fondness for chess, to the point I just don't have a hope at beating him.
 
-This leads me to my first project codenamed "Daddy". I'm going to try to build an automated chess board inspired by [square off](https://amzn.to/3SayIak). I intend to print component parts (I might end up buying them) to build a 2d plotter that will be controlled by a raspberry pi. On the arm instead of a pen I will put an electromagnet that will operate the chess peices from the underside of the board. Ive heard of hall efect transistors that will be able to identify where the pieces are lifted and placed down.
+This leads me to my first project codenamed "Daddy". I'm going to try to build an automated chess board inspired by [square off](https://amzn.to/3SayIak). I intend to print component parts (I might end up buying them) to build a 2d plotter that will be controlled by a raspberry pi. On the arm instead of a pen I will put an electromagnet that will operate the chess pieces from the underside of the board. I've heard of hall effect transistors that will be able to identify where the pieces are lifted and placed down.
 
-Now Ryan will be able to play against Daddy, and should I play against him I will have a button aptly named "what would Daddy do" to help me play the best move given my current position. 
+Now Ryan will be able to play against Daddy, and should I play against him, I will have a button aptly named "what would Daddy do" to help me play the best move given my current position. 
 
-# Ask the Robot overlorsd for a plan!
+# Ask the Robot overlords for a plan!
 Let's use chat GPT to help me come up with a project plan 
 
 ```
@@ -144,4 +144,4 @@ Based on your responses, I'll craft a structured plan that balances learning and
 
 This plan should give you a structured approach to your project. Each week's goal is achievable within 8-10 hours, allowing time for both hands-on work and learning. Remember, flexibility is key; some tasks may take longer than anticipated. Good luck with your project, and enjoy the process!
 
-Thank you AI overlord, onwards with learning!
+Thank you, AI overlord, onwards with learning!
