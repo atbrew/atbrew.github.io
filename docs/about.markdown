@@ -17,12 +17,34 @@ In my lagging values, to a degree I don't particularly care the final destinatio
 My principles are drawn mostly from education both formal and through work and built out from my personal experiences.
 
 The ones I have documented so far are 
+
+**On how to invest time**
 - [Invest continually in family](#invest-continually-in-family)
 - [Invest time to maximize the long term](#invest-time-to-maximize-the-long-term)
 - [Always understand why](#always-understand-why)
-- [Stop, reflect and explicitly redirect](#stop-reflect-and-explicitly-redirect)
+
+**On enabling authenticity**
 - [All dimensions matter](#all-dimensions-matter)
 - [Be who I am 100% of the time](#be-who-i-am-100-of-the-time)
+
+**On Learning**
+- [Fail Fast, Repeat Mindfully](#fail-fast-repeat-mindfully)
+- [Stop, reflect and explicitly redirect](#stop-reflect-and-explicitly-redirect)
+
+## On how to invest time
+We have a limited amount of time on earth, and every time we meet it might be the last. How should we carve out this time? What follows is some things that guide me.
+
+
+### Always Understand Why 
+I’m a strong disbeliever in “busy-work”. Most of the hard work we need to do is not activity, but understanding why we need to act. This fits into three categories, career goals, work itself and learning.
+
+For me in a work context this aligns with what I term “the red thread” principle, which is basically any bit of work aligns upwards in some form to team mission, which ladders into organizational goals and ultimately company strategy. I find that taking the time to articulate this significantly helps drive bottom up alignment and ultimately breeds more autonomous teams.  When work does not fit the red thread it's often a clear indicator that either strategy is incomplete (and that’s worth thinking about!) or we should question why we are doing something. There are many great resources that help build and drive this, personally I’ve found [good strategy / bad strategy](https://amzn.to/4bdA7p8) by Rumsfeld to be useful in formulating strategy, [amplitudes north star framework](https://amplitude.com/books/north-star) and a lot of the writing of [John Cutler](https://cutlefish.substack.com/) useful in thinking about different time horizons. As we break down a problem or strategic goal I find Amazons working backwards process as outlined in [Shipping Greatness](https://amzn.to/3OjKXQG) to be the most effective way to stay focused on why. 
+ With career goals it’s something I’m currently spending a bit more time reflecting on at the moment (as of 2024). I’ve been lucky to date to be in jobs that naturally keep me learning and pay the bills. I'm beginning to reflect and consider what is the exact type of learning that I’m looking for.  
+
+With learning goals I’m also getting sharper, not all learning needs to be “in work” (however it is a great place to get most of your learning given the natural time commitment). For example, I'm currently building an automated chess set, and so that is driving me to learn Computer Aided Design (for our 3D printer) and basic electronics (to control motors and electro-magnets from a raspberry pi).  The learning is stickier because I have a clear goal/why and focusing on it keeps me on track. 
+
+### Invest time to maximize the long term
+I like to dabble and experiment. But my long term goal is to have a sustainable source of income that does not require my attention. So I will continue to spike and play with business ideas and projects that I think will help me get to a place where I can build a small business. I’m not looking to build the next Google or Apple. I’d rather avoid using debt to fund this. I want to be the digital equivalent of my grandparents and great-grandparents and have a business that can generate revenue with little to no input from myself. This is so that I can maximize the time I have with my children and hopefully one day my grandchildren, and importantly invest in their passions.
 
 ### Invest Continually in Family
 One of my weaknesses is I don’t spend enough time learning about others, because I’m more interested in getting shit done.  To a degree that’s understandable in a work context, but for me my family is a part of my life that will always be with me. 
@@ -31,16 +53,30 @@ For this reason I like to ensure I always have one activity going on with all th
 
 A simple view is to drop down to the activities that the kids want to do (video games & youtube!). However, this is not my intention, I want them to “invest in their passions” and so part of that is enabling them to discover these and if possible join them for a part of the ride. 
 
-### Invest time to maximize the long term
-I like to dabble and experiment. But my long term goal is to have a sustainable source of income that does not require my attention. So I will continue to spike and play with business ideas and projects that I think will help me get to a place where I can build a small business. I’m not looking to build the next Google or Apple. I’d rather avoid using debt to fund this. I want to be the digital equivalent of my grandparents and great-grandparents and have a business that can generate revenue with little to no input from myself. This is so that I can maximize the time I have with my children and hopefully one day my grandchildren, and importantly invest in their passions.
+## On Authenticity
+Its tiring enough being me I don't have time to be someone else. While perhaps my over all principles cover this there are a few that I believe are more tightly coupled with just being me.
 
-### Always Understand Why 
-I’m a strong disbeliever in “busy-work”. Most of the hard work we need to do is not activity, but understanding why we need to act. This fits into three categories, career goals, work itself and learning.
+### Be who I am 100% of the time
+In an office space you will probably hear me laugh. I am a big characture and I wear my heart on my sleeve. I will obviously adapt to situations (like I will wear a shirt to dinner) but the underlying person is the same. The reason this principle is importnat to me is that I believe the best outcomes can be achieved when people trust each other. The easiest way I believe to build trust is to be genuine. I do struggle with pausing long enough to truly try to get to know people, but I believe by being myself 100% of the time it reduces the hurdle that could be removed by building familiarity (faster).   
 
-For me in a work context this aligns with what I term “the red thread” principle, which is basically any bit of work aligns upwards in some form to team mission, which ladders into organizational goals and ultimately company strategy. I find that taking the time to articulate this significantly helps drive bottom up alignment and ultimately breeds more autonomous teams.  When work does not fit the red thread it's often a clear indicator that either strategy is incomplete (and that’s worth thinking about!) or we should question why we are doing something. There are many great resources that help build and drive this, personally I’ve found [good strategy / bad strategy](https://amzn.to/4bdA7p8) by Rumsfeld to be useful in formulating strategy, [amplitudes north star framework](https://amplitude.com/books/north-star) and a lot of the writing of [John Cutler](https://cutlefish.substack.com/) useful in thinking about different time horizons. As we break down a problem or strategic goal I find Amazons working backwards process as outlined in [Shipping Greatness](https://amzn.to/3OjKXQG) to be the most effective way to stay focused on why. 
- With career goals it’s something I’m currently spending a bit more time reflecting on at the moment (as of 2024). I’ve been lucky to date to be in jobs that naturally keep me learning and pay the bills. I'm beginning to reflect and consider what is the exact type of learning that I’m looking for.  
 
-With learning goals I’m also getting sharper, not all learning needs to be “in work” (however it is a great place to get most of your learning given the natural time commitment). For example, I'm currently building an automated chess set, and so that is driving me to learn Computer Aided Design (for our 3D printer) and basic electronics (to control motors and electro-magnets from a raspberry pi).  The learning is stickier because I have a clear goal/why and focusing on it keeps me on track.
+### All dimensions matter
+I have two sets of values that form trios that matter to me. 
+1. Autonomy, Mastery and Purpose
+2. People, Product and Technology
+
+I have to a degree, over indexed on Purpose and Product. This is because my principle [starting with why](#always-understand-why-) usually drives me to the top of the funnel and my weakness to "get going" leaves me to think the other two will resolve themselves naturally. This in my experince is not true. While we may believe with enough will power and detrminiation, we can carve out autonomy beware that in many dysfunctional organisations this simple is not under your control. Be very wary to ensure you will be able to build the trust that truly enables this. It might not even be with your boss, but needed at several reporting levels up! Mastery is also at risk, while purpose might be clear the standards that you set might not be met, the ways of working messy. For example, I strongly allign with mission focused cross-functional teams where the overhead of inter-team communication is minimised. I find working in functionally split orgs hard, so while the purpose is clear mastery of cross functinal capabilities is missing, and so it can mean it's not for me. 
+
+Similarly, with an overfocus on Product, I've seen eye watering technical debt to the level that moving fast is simply not possible for the tech team. I've also been in situations where my senior leadership has had alternative world views on how to get the most out of our team and their motivations. This clash of carrot vs stick and top down versus bottom up is often not possible to change and so understanding if all the components of my trios is in place is important to me. As a leader, it's impossible to be authentic if you know the org that leads you doesn't believe in the values you aspire to. Don't hang around to make excuses for others, we have enough of our own inadequacies to deal with!       
+
+## On Learning
+As with everyone, I have a unique learning style. I prefer to learn by doing. This upsets others as they can see me as gun-ho, but I'm just trying to explore the terrain as quickly as possible. To others that see me moving slowly its probably because I've rushed in too fast before and I need to sense check where I'm headed. In either sense, I prefer brutal honest feedback than cheer-leading.
+
+### Seek Out Truth Seekers
+I've learnt that I make mistakes. But Ive also learnt my urge to move fast can be complimented naturally by those who move slower than me. My belief is their slowness helps me, and I believe I help them move on faster. This pairing is hard to find, typically the people I seek are experts in their field that are prepared to share their knowledge in human-readable-formats and I see that they hold themselves to a standard. They are diverse and each are great at something. Often they don't even know they are good at the things they are good at. I'm lucky that I have a rolladeck of folks who know more about, technology, science, product, project management and people than I do.  My expectation is they enjoy fighting their corner, put simply they have backbone. I hope that the challenge I give them strengthens their convictions and together we make better decisions.       
+
+### Fail Fast, Repeat Mindfully
+In personality tests, I have  repeatedly shown over the years to be a high red. To a degree that softening, but early tests showed me to be up there with Micheal O'Leary and Stalin. Now Ive also worked with Hi-Reds and observed their failure modes. The failure mode I observe is this, "We tried that and it didn't work". It feels like a good litmus test, but in reality many fast trys are not thought out well enough. This doesn't mean, dig deep and think stuff to death, if anything I think doing is often the best discovery. But when that discovery fails we can limit ourselves by saying we won't do that again, instead we should identify the failure modes and try-try again (if that's what you want).   
 
 
 ### Stop, reflect, and explicitly redirect.
@@ -51,17 +87,6 @@ This is for two reasons
 
 2/ **Your learning a different lesson that what you signed up for**: Often when we make a change, what we learn is not what we expected to learn. This is not necessarily a bad thing, but it’s important to recognise and decide. With some fore-thought and second order thinking these alternative learnings will be less of a surprise. And when you are "in it", its worth asking, even thought I didn't choose this, "Is this the learning I want to make?" And while I rebase, "How can I extract as much learning out of the current situation as possible?" 
 
-### All dimensions matter
-I have two sets of values that form trios that matter to me. 
-1. Autonomy, Mastery and Purpose
-2. People, Product and Technology
-
-I have to a degree, over indexed on Purpose and Product. This is because my principle [starting with why](#always-understand-why-) usually drives me to the top of the funnel and my weakness to "get going" leaves me to think the other two will resolve themselves naturally. This in my experince is not true. While we may believe with enough will power and detrminiation, we can carve out autonomy beware that in many dysfunctional organisations this simple is not under your control. Be very wary to ensure you will be able to build the trust that truly enables this. It might not even be with your boss, but needed at several reporting levels up! Mastery is also at risk, while purpose might be clear the standards that you set might not be met, the ways of working messy. For example, I strongly allign with mission focused cross-functional teams where the overhead of inter-team communication is minimised. I find working in functionally split orgs hard, so while the purpose is clear mastery of cross functinal capabilities is missing, and so it can mean it's not for me. 
-
-Similarly, with an overfocus on Product, I've seen eye watering technical debt to the level that moving fast is simply not possible for the tech team. I've also been in situations where my senior leadership has had alternative world views on how to get the most out of our team and their motivations. This clash of carrot vs stick and top down versus bottom up is often not possible to change and so understanding if all the components of my trios is in place is importnat to me.     
-
-### Be who I am 100% of the time
-In an office space you will probably hear me laugh. I am a big characture and I wear my heart on my sleeve. I will obviously adapt to situations (like I will wear a shirt to dinner) but the underlying person is the same. The reason this principle is importnat to me is that I believe the best outcomes can be achieved when people trust each other. The easiest way I believe to build trust is to be genuine. I do struggle with pausing long enough to truly try to get to know people, but I believe by being myself 100% of the time it reduces the hurdle that could be removed by building familiarity (faster).   
 
 # My Goals
 I (currently) have the following high goals. Keep an eye on my [rambling](posts) to see what I'm doing. 
