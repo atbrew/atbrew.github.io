@@ -1,9 +1,9 @@
-# Anthony Brew
+# Dr. Anthony Brew
 **Email:** atbrew@gmail.com | **Tel:** +353 87 917 9799 | [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT)  
-*Formats:* (this doc) long-form \[[html](http://dontnegmeout.com/cv-long.html) | [pdf](http://dontnegmeout.com/cv-long.pdf)\] , short form  \[[html](http://dontnegmeout.com/cv.html) \| [pdf](http://dontnegmeout.com/cv.pdf)\]
+*Formats:* (this doc) long-form [[html](http://dontnegmeout.com/cv-long.html) | [pdf](http://dontnegmeout.com/cv-long.pdf)] , short form  [[html](http://dontnegmeout.com/cv.html) | [pdf](http://dontnegmeout.com/cv.pdf)]
 
 ## Summary
-Empathy focused product and technology leader with 20 years experience across academia, start-ups, scale-ups, and enterprise businesses in cross-functional software delivery teams that leverage machine learning. Hands-on experience as an individual engineering and scientific contributor combined with 8-year experience spanning team, department, and organizational leadership roles. Through active problem solving and teamwork, he and his teams have published, patented, invented, built, and extended intelligent software products that have enabled millions of users and multiple organizations.
+**Researcher, engineer, and technology leader** with 20 years of experience across academia, startups, scale-ups, and enterprises. Proven track record in guiding cross-functional teams, from small expert units (<10) to large multi-department structures (~60), to deliver state-of-the-art applied science product suites that minimize uncertainty and drive continuous customer impact. A hands-on leader who combines deep technical expertise with strategic direction, enabling teams to own and execute product visions autonomously. Products span recommender systems in e-commerce, generative AI, audience targeting in advertising, text and image processing across domains, and IT infrastructure monitoring—all designed to maximize impactful product innovation via organic team-led invention.
 
 ## Skills
 Machine Learning, Software Development, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
@@ -16,15 +16,18 @@ Machine Learning, Software Development, Product Management, Cross-Functional Tea
 
 ## Experience
 
-### Senior Manager, Generative AI
-**Shutterstock - Dublin, Ireland**
+### Senior Manager, Generative AI  
+**Shutterstock - Dublin, Ireland**  
 *July 2023 - Present*
 
-Leading the full-stack generative core AI team which is responsible for  delivering Shutterstocks responsible AI Image creation and modification tools that make Shutterstock's massive catalogue infinite. 
+Leading the Generative Experience AI team to develop Shutterstock's AI-powered image creation and editing tools, transforming its media catalog into an infinite resource. Transitioned a DALL-E 2-based beta suite into a dedicated credits-based licensing model, leveraging models from OpenAI, Google, Amazon, and in-house Diffusion systems. The product has driven 70%+ monthly retention and rapidly growing market share, comparable to other major media types on Shutterstock. Key achievements include:
 
-Our generative core team delivers a text-to-image offering as a single shot text-to-image [offering](https://www.shutterstock.com/ai-image-generator) and as a chat based design assistant. This product blends the challenges presented in any user facing ML product (such as RLHF loops) on individual image interactions, but also poses unique recomendation style problems as we select and enable the best text-to-image model through prompt re-writing and model selections (from multiple Text-To-Image models)   
+- **Model Optimization**: Developed techniques to maximize the connection between user intent and their written prompts through prompt rewriting and translation, improving conversion rates by up to 30% compared to external vendors.
 
-The generative core team also delivers platform AI Image editing capabilities such as background removal, image upscaling and image segmentation that are consumed by other teams across Shutterstock (e.g. image editing in [PicMonkey](https://www.picmonkey.com/))
+- **Automatic Model Routing**: Delivered an automated text-to-image recommendation system that leverages contextual data (such as user prompts) to select the best text-to-image generators, increasing conversion rates by over 10% while maintaining fixed costs.
+
+- **Safety and Indemnity**: Rolled out novel automated safety and indemnity protection mechanisms that achieved ~100% recall for core brand integrity areas (e.g. child safety), while maintaining high precision to avoid impacting non-violating users.
+
 
 ### VP of AI & Engineering
 **Streetbees :: London & Lisbon (Remote)**
