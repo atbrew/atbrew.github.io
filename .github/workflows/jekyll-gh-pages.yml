@@ -48,7 +48,7 @@ jobs:
           destination: ./_site
       - name: Convert CV to PDF
         run: |
-          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css ./docs/_site/assets/css/main.css
+          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css ._site/assets/css/main.css
       - name: Upload artifacts
         uses: actions/upload-pages-artifact@v3
 
