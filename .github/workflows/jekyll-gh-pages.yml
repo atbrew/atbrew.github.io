@@ -37,7 +37,7 @@ jobs:
           pip install markdown2 pdfkit
       - name: Convert Long CV to PDF
         run: |
-          python ./src/convert_markdown_to_pdf_in_place.py --input docs/cv-long.markdown
+          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv-long.markdown
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
