@@ -39,9 +39,6 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install markdown2 pdfkit
-      - name: Convert CV to PDF
-        run: |
-          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css ./docs/assets/css/custom.css
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
@@ -49,6 +46,9 @@ jobs:
         with:
           source: ./docs
           destination: ./_site
+      - name: Convert CV to PDF
+        run: |
+          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css ./docs/_site/assets/css/main.css
       - name: Upload artifacts
         uses: actions/upload-pages-artifact@v3
 
