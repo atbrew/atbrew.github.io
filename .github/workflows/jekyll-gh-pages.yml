@@ -46,6 +46,14 @@ jobs:
         with:
           source: ./docs
           destination: ./_site
+      - name: List Directory Structure
+        run: |
+          echo "Current working directory:"
+          pwd
+          echo "Directory structure:"
+          tree -L 3 # Lists directories up to 3 levels deep
+          # Alternatively, use `ls -R` for a simpler output
+          # ls -R
       - name: Convert CV to PDF
         run: |
           python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css ._site/assets/css/main.css
