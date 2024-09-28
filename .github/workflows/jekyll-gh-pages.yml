@@ -42,6 +42,9 @@ jobs:
       - name: Convert Long CV to PDF
         run: |
           python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv-long.markdown
+      - name: Convert Short CV to PDF
+        run: |
+          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
