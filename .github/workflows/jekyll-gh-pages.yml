@@ -57,6 +57,11 @@ jobs:
       - name: Convert CV to PDF
         run: |
           python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css ./_site/assets/css/main.css
+      - name: Re-Build with Jekyll (to get CSS)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
       - name: Upload artifacts
         uses: actions/upload-pages-artifact@v3
 
