@@ -3,16 +3,18 @@
 *Formats:* (this doc) long-form [[html](http://dontnegmeout.com/cv-long.html) | [pdf](http://dontnegmeout.com/cv-long.pdf)] , short form  [[html](http://dontnegmeout.com/cv.html) | [pdf](http://dontnegmeout.com/cv.pdf)]
 
 ## Summary
-**Researcher, engineer, and technology leader** with 20 years of experience across academia, startups, scale-ups, and enterprises. Proven track record in guiding cross-functional teams, from small expert units (<10) to large multi-department structures (~60), to deliver state-of-the-art applied science product suites that minimize uncertainty and drive continuous customer impact. A hands-on leader who combines deep technical expertise with strategic direction, enabling teams to own and execute product visions autonomously. Products span recommender systems in e-commerce, generative AI, audience targeting in advertising, text and image processing across domains, and IT infrastructure monitoring—all designed to maximize impactful product innovation via organic team-led invention.
+**Researcher, engineer, and technology leader** with >20 years of experience across academia, startups, scale-ups, and enterprises. Proven track record in technically guiding cross-functional teams, from small expert units (<10) to multi-department structures (>50), to deliver state-of-the-art AI enabled product suites which minimize technical and scientific uncertainty and while driving continuous customer impact.
 
-## Skills
-Machine Learning, Software Development, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
+## Skills / Experience
+- Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
+- Generative AI (text & image), Recommender Systems, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control     
+ 
 
 ## Education
-- University College Dublin, Post Doc, Machine Learning Industrialization, 2010 - 2011
-- University College Dublin, Doctor of Philosophy, Machine Learning, 2006 - 2010
-- Trinity College Dublin, Master of Science, High Performance Computing, 2002 - 2003
-- Trinity College Dublin, Bachelor of Arts, Mathematics, 1998 - 2002
+- University College Dublin, Post Doc, Machine Learning :: Comercialization, 2010 - 2011
+- University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010
+- Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003
+- Trinity College Dublin, Bachelor of Art :: Mathematics, 1998 - 2002
 
 ## Experience
 
@@ -20,7 +22,9 @@ Machine Learning, Software Development, Product Management, Cross-Functional Tea
 **Shutterstock - Dublin, Ireland**  
 *July 2023 - Present*
 
-Leading the Generative Experience AI team to develop Shutterstock's AI-powered image creation and editing tools, transforming its media catalog into an infinite resource. Transitioned a DALL-E 2-based beta suite into a dedicated credits-based licensing model, leveraging models from OpenAI, Google, Amazon, and in-house Diffusion systems. The product has driven 70%+ monthly retention and rapidly growing market share, comparable to other major media types on Shutterstock. Key achievements include:
+Shutterstock is a two-sided marketplace which enabled contributors to sell images. Generative AI is a disruptor to this business model.
+
+I lead the Generative Experience AI team, enabling  Shutterstock to deliver state-of-the-art AI-powered image creation and editing tools in effect transforming its huge media catalog into an infinite resource. Transitioned a DALL-E 2-based beta suite into a dedicated credits-based licensing model, optimally leveraging models from OpenAI, Google, Amazon, and in-house Diffusion systems. The product has driven 70%+ monthly retention and rapidly growing market share, surpassing other major media types served by Shutterstock. Key achievements include:
 
 - **Model Optimization**: Developed techniques to maximize the connection between user intent and their written prompts through prompt rewriting and translation, improving conversion rates by up to 30% compared to external vendors.
 

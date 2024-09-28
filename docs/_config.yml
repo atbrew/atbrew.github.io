@@ -41,7 +41,7 @@ header:
     - name: '&#129300; Who I am'
       slug: /about
     - name: "&#128119; What I've done"  # <-- whatever.md
-      slug: /cv
+      slug: /cv-long
     - name: '✏️ Writing'  # <-- posts.md
       slug: /posts
     - name: '&#128214; Reading'
