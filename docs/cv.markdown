@@ -1,6 +1,6 @@
 # Dr. Anthony Brew
 **Email:** atbrew@gmail.com | **Tel:** +353 87 917 9799 | [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
-
+### <u>Summary:</u>
 **Researcher, engineer, and technology leader** with >20 years of experience across academia, startups, scale-ups, and enterprises. Proven track record in technically guiding cross-functional teams, from small expert units (<10) to multi-department structures (>50), to deliver state-of-the-art AI enabled product suites which minimize technical and scientific uncertainty and while driving continuous customer impact.
 
 **_Soft Skills:_** Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
@@ -8,13 +8,9 @@
 **_Hard Skills:_** Generative AI, Recommender Systems, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
  
 
-**_Formal Education:_**
-1. University College Dublin, Post Doc, Machine Learning :: Comercialization, 2010 - 2011
-2. University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010
-3. Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003 
-4. Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
+**_Formal Education:_** University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011; University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010; Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003; Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
 
-### Experience
+### <u>Experience</u>
 
 ### Senior Manager, Generative AI  
 **Shutterstock - Dublin, Ireland**  
