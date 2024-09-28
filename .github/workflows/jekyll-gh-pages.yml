@@ -28,6 +28,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # Specify the Python version you need
+      - name: Install Dependencies
+        run: |
+          pip install markdown2 pdfkit
+      - name: Convert Long CV to PDF
+        run: |
+          python ./src/convert_markdown_to_pdf_in_place.py --input docs/cv-long.markdown
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
