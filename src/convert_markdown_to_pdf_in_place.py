@@ -3,9 +3,10 @@
 import markdown2
 import pdfkit
 import argparse
+import os
 
 
-def markdown_to_pdf(markdown_file_path):
+def markdown_to_pdf(markdown_file_path, css_file_path=None):
     # Extract the file name without the extension
     file_name = markdown_file_path.rsplit('.', 1)[0]
 
@@ -14,14 +15,72 @@ def markdown_to_pdf(markdown_file_path):
         markdown_text = md_file.read()
         html_text = markdown2.markdown(markdown_text)
 
-    # Convert the HTML to a PDF file
-    pdfkit.from_string(html_text, file_name + '.pdf')
+    # Read CSS content if provided
+    css_content = ""
+    if css_file_path:
+        with open(css_file_path, 'r') as css_file:
+            css_content = css_file.read()
+            print(css_content)
+    else:
+        css_content = """
+            body {
+                font-family: Arial, sans-serif;
+                font-size: 12pt;
+            }
+            h1 {
+                font-size: 24pt;
+                color: #333;
+                border-bottom: 2px solid #ccc;
+            }
+            h2 {
+                font-size: 20pt;
+                color: #444;
+                border-bottom: 1px solid #ccc;
+            }
+            h3 {
+                font-size: 18pt;
+                color: #555;
+            }
+            p {
+                margin-bottom: 15px;
+            }
+        """
+
+    # Create a temporary HTML file with embedded CSS
+    html_file_path = file_name + '.html'
+    with open(html_file_path, 'w') as html_file:
+        html_file.write(f'''
+        <html>
+        <head>
+            <style>
+                {css_content}
+            </style>
+        </head>
+        <body>
+            {html_text}
+        </body>
+        </html>
+        ''')
+
+    # Convert the HTML file to a PDF file with additional options
+    options = {
+        'quiet': '',
+        'no-outline': None,
+        'encoding': "UTF-8",
+        'enable-local-file-access': None
+    }
+
+    pdfkit.from_file(html_file_path, file_name + '.pdf', options=options)
+
+    # Optionally, remove the temporary HTML file after conversion
+    os.remove(html_file_path)
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Convert a Markdown file to a PDF.')
+    parser = argparse.ArgumentParser(description='Convert a Markdown file to a PDF with optional custom styles.')
     parser.add_argument('--input', '-i', required=True, help='The Markdown file to convert.')
+    parser.add_argument('--css', '-c', help='The CSS file for styling (optional).')
 
     args = parser.parse_args()
 
-    markdown_to_pdf(args.input)
+    markdown_to_pdf(args.input, args.css)

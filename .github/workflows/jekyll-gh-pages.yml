@@ -39,12 +39,9 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install markdown2 pdfkit
-      - name: Convert Long CV to PDF
+      - name: Convert CV to PDF
         run: |
-          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv-long.markdown
-      - name: Convert Short CV to PDF
-        run: |
-          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown
+          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css ./docs/assets/css/custom.css
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll

@@ -21,7 +21,7 @@
 title: Dont Neg Me Out
 email: atbrew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal websire of Anthony Brew.
+  This is the personal website of Anthony Brew.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -41,7 +41,7 @@ header:
     - name: '&#129300; Who I am'
       slug: /about
     - name: "&#128119; What I've done"  # <-- whatever.md
-      slug: /cv-long
+      slug: /cv
     - name: '✏️ Writing'  # <-- posts.md
       slug: /posts
     - name: '&#128214; Reading'
