@@ -15,7 +15,7 @@
 - Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003
 - Trinity College Dublin, Bachelor of Art :: Mathematics, 1998 - 2002
 
-## Experience
+### Experience
 
 ### Senior Manager, Generative AI  
 **Shutterstock - Dublin, Ireland**  
