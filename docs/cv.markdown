@@ -1,19 +1,26 @@
 # Dr. Anthony Brew
 **Email:** atbrew@gmail.com | **Tel:** +353 87 917 9799 | [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
-### <u>Summary:</u>
+
+
+
 **Researcher, engineer, and technology leader** with >20 years of experience across academia, startups, scale-ups, and enterprises. Proven track record in technically guiding cross-functional teams, from small expert units (<10) to multi-department structures (>50), to deliver state-of-the-art AI enabled product suites which minimize technical and scientific uncertainty and while driving continuous customer impact.
 
-**_Soft Skills:_** Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
+<hr/>
 
-**_Hard Skills:_** Generative AI, Recommender Systems, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
- 
+**<u>Overview</u>** 
 
-**_Formal Education:_** University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011; University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010; Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003; Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
+***Soft Skills:*** Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
-### <u>Experience</u>
+***Hard Skills:*** Generative AI, Recommender Systems, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
 
-### Senior Manager, Generative AI  
-**Shutterstock - Dublin, Ireland**  
+***Formal Education:*** University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011; University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010; Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003; Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
+
+<hr/>
+
+**<u>Experience</u>**
+
+**Senior Manager, Generative AI**  
+***Shutterstock - Dublin, Ireland***  
 *July 2023 - Present*
 
 Shutterstock is a two-sided marketplace which enables contributors to sell images. Generative AI is a disruptor to this business model.
@@ -27,8 +34,8 @@ I lead the Generative Experience AI team, enabling  Shutterstock to deliver stat
 - **Safety and Indemnity**: Rolled out novel automated safety and indemnity protection mechanisms that achieved ~100% recall for core brand integrity areas (e.g. child safety), while maintaining high precision to avoid impacting non-violating users.
 
 
-### VP of AI & Engineering
-**Streetbees :: London & Lisbon (Remote)**
+**VP of AI & Engineering**  
+***Streetbees :: London & Lisbon (Remote)***   
 *Oct 2021 - July 2023*
 
 Streetbees is a multi-award-winning Marketing AI SaaS service built on AWS that enables brands such as Pepsico and Unilever to connect with 3.5 Million customers "in the moment" of consumption through an AI-driven mobile chatbot survey and data processing system.
@@ -42,8 +49,8 @@ Some examples observed since the change:
 
 The release of ChatGPT in November 2022 enabled my team to build a fully automated end-to-end survey curation, quality assurance, one-shot encoding, and report writing product that that has been released as [Streetbees-X](https://www.streetbees.com/SBX).
 
-### Head of NLP Centre of Excellence
-**Zalando :: Berlin (Remote)**
+**Head of NLP Centre of Excellence**   
+***Zalando :: Berlin (Remote)***  
 *Jul 2020 - Oct 2021*
 
 Zalando wished to expedite moving near-term research innovation from the Zalando research team so that the business would have more immediate benefit, and Zalando research could focus on blue skies research. Four Centres of AI Excellence were planned to focus on enabling and seeding other Zalando teams with near and mid-term innovations. This is where recent advances in the state of the art (e.g., in NLP) would have immediate and near-term (1-5 year) impact.
@@ -54,8 +61,8 @@ Some accomplishments include:
 - Two leads from the center now lead new teams based on work they developed in the center (a new customer reviews applied science and engineering team & a new semantic search applied science and engineering team).
 - Led product discovery, architecture, and early implementation of our core customer feedback analysis product "classlytics". Classlytics was GDPR compliant by design enabling multilingual search and message routing of customer feedback for 18 languages from over 40 different customer journey touchpoints (e.g., return slips & online feedback forms). The product safety inspection team used it as a high recall (95%+) human in the loop automated escalation tool to forward safety concerns to their manual inspection team to expedite the removal of potentially unsafe products from Zalando.
 
-### Board Member
-**Zalando**
+**Board Member**  
+***Zalando SE***  
 *May 2018 - Jun 2020 (2 years 2 months)*
 
 German companies are "co-determined," that is, they are led by a board of directors that is split between shareholder representatives and employee representatives. I was invited to apply for a vacant position on the board given my background in machine learning and technology that was deemed to be highly complementary to the wider board structure.
@@ -66,8 +73,8 @@ I was one of 3 elected employees on the 8-seat supervisory board of Zalando char
 - Participated in strategic offsites and round tables with Kinnevik and Nike.
 - Raised issues with the process and the algorithmic evaluation of employees, which helped to drive change in the bi-annual employee appraisal process.
 
-### Head of Customer Data Platform
-**Zalando**
+**Head of Customer Data Platform**   
+***Zalando***  
 *Jan 2016 - Jul 2020 (4 years 7 months)*
 
 Zalando is the largest fashion e-commerce platform in Europe. In 2015, Zalando aimed to rapidly expand its technical workforce. It did this by opening new technology hubs in Dublin & Helsinki. The Zalando Dublin site was set up to be a data science innovation hub, known as the Fashion Insights Centre. Three departments were set up on the site: the fashion content platform to provide insights into the latest trends in fashion, the smart product platform to enable deep and rich metadata about products onboarded onto the platform, and the customer data platform to provide a 360-degree view of customers interacting with the platform. The core challenge for all these departments was to integrate into the wider Zalando business.
@@ -79,13 +86,13 @@ Some accomplishments include:
 - Our audience generation tools were used by ZMS, Zalon, and Markets teams for reach and performance-based campaign targeting. Some early campaigns outperformed legacy systems by 40x. We also developed a full customer segmentation model known as Z-types in collaboration with ZMS, which features in Zalando's 2017 annual report. For example, Z-Types were leveraged by G-Star to reach 8 Million Users selling 35K items.
 - Our cross-device graph replaced the marketing team's user association model for advertising attribution, leading to a 40% increase in attributed sales. We also integrated this into Zalando's A/B testing platform with double-digit de-noising for tests that leveraged cookies.
 
-#### Head of Department (Jan 2019 - July 2020)
-#### Engineering and Applied Science Manager (April 2017 - Jan 2019)
-#### Senior Product Manager (Feb 2017 - April 2017)
-#### Lead Applied Scientist (Jan 2016 - Feb 2017)
+**Head of Department (Jan 2019 - July 2020)**
+**Engineering and Applied Science Manager (April 2017 - Jan 2019)**  
+**Senior Product Manager (Feb 2017 - April 2017)**  
+**Lead Applied Scientist (Jan 2016 - Feb 2017)**  
 
-### Lead Applied Scientist
-**IBM**
+**Lead Applied Scientist**  
+***IBM***  
 *Apr 2012 - Jan 2016 (3 years 10 months)*
 
 Lead Applied Scientist in the IBM SmartCloud division responsible for invention, optimization, and delivery of machine learning software to optimize and simplify IT Network monitoring.
@@ -101,8 +108,8 @@ Metrics Management:
 - This yielded a 1000X improvement in disk IO (3.5 GB writes per interval reduced to 3.5 MB per interval) and a 40X speed up (5 minutes per interval reduced to 7 seconds) with a 2.5 X reduction in memory footprint (70GB reduced to 20GB).
 - Continuous Improvement was enabled by "pluggable" independently testable extensions. Using this, we doubled the number of anomaly methods provided by the system (e.g., adding memory leak detectors) and reduced the false alerts raised by the system by 50%.
 
-### Data Scientist / Software Engineer
-**Swrve**
+**Data Scientist / Software Engineer**  
+***Swrve***  
 *June 2011 - Mar 2012*
 
 Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based on tracking event streams. Implemented front-end UX in Ruby & JQuery, backend in Java with a Redis, Cassandra, and MySQL storage layer, hosted on Amazon EC2.
