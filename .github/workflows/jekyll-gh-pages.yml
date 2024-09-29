@@ -39,25 +39,12 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install markdown2 pdfkit
+      - name: Convert CV to PDF
+        run: |
+          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css ./docs/assets/css/cv.css
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./docs
-          destination: ./_site
-      - name: List Directory Structure
-        run: |
-          echo "Current working directory:"
-          pwd
-          echo "Directory structure:"
-          tree -L 3 # Lists directories up to 3 levels deep
-          # Alternatively, use `ls -R` for a simpler output
-          # ls -R
-      - name: Convert CV to PDF
-        run: |
-          python ./src/convert_markdown_to_pdf_in_place.py --input ./docs/cv.markdown --css-dir ./_site/assets/css/
-      - name: Re-Build with Jekyll (to get CSS)
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./docs

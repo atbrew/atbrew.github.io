@@ -5,7 +5,7 @@ import pdfkit
 import argparse
 import os
 
-def markdown_to_pdf(markdown_file_path, css_dir=None):
+def markdown_to_pdf(markdown_file_path, css_file_path=None):
     # Extract the file name without the extension
     file_name = markdown_file_path.rsplit('.', 1)[0]
 
@@ -16,13 +16,11 @@ def markdown_to_pdf(markdown_file_path, css_dir=None):
 
     # Read CSS content from all files in the specified directory
     css_content = ""
-    if css_dir and os.path.isdir(css_dir):
-        for css_file in os.listdir(css_dir):
-            if css_file.endswith('.css'):
-                with open(os.path.join(css_dir, css_file), 'r') as css_file:
-                    css_content += css_file.read() + "\n"
+    if css_file_path:
+        with open(css_file_path, 'r') as css_file:
+            css_content = css_file.read()
         if css_content:
-            print("CSS content loaded from directory:", css_dir)
+            print("CSS content loaded from :", css_file_path)
             print(css_content)
     else:
         css_content = """
@@ -82,8 +80,8 @@ def markdown_to_pdf(markdown_file_path, css_dir=None):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Convert a Markdown file to a PDF with optional custom styles.')
     parser.add_argument('--input', '-i', required=True, help='The Markdown file to convert.')
-    parser.add_argument('--css-dir', '-c', help='The directory containing CSS files for styling (optional).')
+    parser.add_argument('--css', '-c', help='The CSS files for styling (optional).')
 
     args = parser.parse_args()
 
-    markdown_to_pdf(args.input, args.css_dir)
+    markdown_to_pdf(args.input, args.css)
