@@ -16,9 +16,9 @@
 **Shutterstock - Dublin, Ireland**  
 *July 2023 - Present*
 
-Shutterstock is a two-sided marketplace which enabled contributors to sell images. Generative AI is a disruptor to this business model.
+Shutterstock is a two-sided marketplace which enables contributors to sell images. Generative AI is a disruptor to this business model.
 
-I lead the Generative Experience AI team, enabling  Shutterstock to deliver state-of-the-art AI-powered image creation and editing tools in effect transforming its huge media catalog into an infinite resource. Transitioned a DALL-E 2-based beta suite into a dedicated credits-based licensing model, optimally leveraging models from OpenAI, Google, Amazon, and in-house Diffusion systems. The product has driven 70%+ monthly retention and rapidly growing market share, surpassing other major media types served by Shutterstock. Key achievements include:
+I lead the Generative Experience AI team, enabling  Shutterstock to deliver state-of-the-art AI-powered image creation and editing tools in effect transforming its huge media catalog into an infinite resource. We transitioned a DALL-E 2 based Beta suite into a dedicated credits-based licensing model, optimally leveraging models from OpenAI, Google, Amazon, and in-house Diffusion systems. The product has driven 70%+ monthly retention and rapidly growing market share, surpassing other major media types served by Shutterstock. This is enabled by cohesive UX & functional integration into Shutterstock.com as well as the following core machine learning driven capabilities:
 
 - **Model Optimization**: Developed techniques to maximize the connection between user intent and their written prompts through prompt rewriting and translation, improving conversion rates by up to 30% compared to external vendors.
 
