@@ -9,11 +9,11 @@
 
 **<u>Overview</u>** 
 
-***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
+***Formal Education:*** University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011; University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010; Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003; Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
 
 ***Hard Skills:*** Generative AI, Recommender Systems, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
 
-***Formal Education:*** University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011; University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010; Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003; Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
+***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
 <hr/>
 
