@@ -67,6 +67,11 @@ def markdown_to_pdf(markdown_file_path, css_file_path=None):
     # Convert the HTML file to a PDF file with additional options
     options = {
         'quiet': '',
+        'page-size': 'A4',
+        'margin-top': '0.75in',
+        'margin-right': '0.75in',
+        'margin-bottom': '0.75in',
+        'margin-left': '0.75in',
         'no-outline': None,
         'encoding': "UTF-8",
         'enable-local-file-access': None

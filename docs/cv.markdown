@@ -7,9 +7,9 @@
 
 <hr/>
 
-**<u>Overview</u>** 
+#### <u>Overview</u> 
 
-***Soft Skills:*** Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
+***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
 ***Hard Skills:*** Generative AI, Recommender Systems, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
 
@@ -25,13 +25,13 @@
 
 Shutterstock is a two-sided marketplace which enables contributors to sell images. Generative AI is a disruptor to this business model.
 
-I lead the Generative Experience AI team, enabling  Shutterstock to deliver state-of-the-art AI-powered image creation and editing tools in effect transforming its huge media catalog into an infinite resource. We transitioned a DALL-E 2 based Beta suite into a dedicated credits-based licensing model, optimally leveraging models from OpenAI, Google, Amazon, and an internal Stable-Diffusion deployment. The product has driven 70%+ monthly retention and rapidly growing market share, surpassing other major media types served by Shutterstock. This is enabled by cohesive UX & functional integration into Shutterstock.com as well as the following core machine learning driven capabilities:
+I lead the Generative Experience AI team, enabling  Shutterstock to deliver state-of-the-art Generative AI-powered image creation and editing tools, that transform Shutterstocks immense but limited media catalog into an infinite resource. We have transitioned from a DALL-E 2 based Beta suite into a profitable dedicated credits-based licensing model that strategically leverages models from OpenAI, Google, Amazon, a partnership with Databricks and an internal Stable-Diffusion deployment. The product-suite has driven a 70%+ monthly retention and rapidly growing market share, surpassing other significant media types served by Shutterstock. This has been enabled by cohesive UX & functional integration into Shutterstock.com accelerated by the following strategic machine learning driven capabilities:
 
-- **Model Optimization**: Developed techniques to maximize the connection between user intent and their written prompts through prompt rewriting and translation, improving conversion rates by up to 30% compared to external vendors.
+- **Generative Model Optimization**: Developed and deployed techniques to maximize the connection between user intent and their written prompts through prompt rewriting and translation, improving conversion rates by up to 30% compared to external vendors.
 
-- **Automatic Model Routing**: Delivered an automated text-to-image recommendation system that leverages contextual data (such as user prompts) to select the best text-to-image generators, increasing conversion rates by over 10% while maintaining fixed costs.
+- **Generative Model Recomendations**: Delivered an automated text-to-image recommendation system that leverages contextual data (such as user prompts) to select the best text-to-image generators, increasing conversion rates by over 10% while maintaining fixed costs.
 
-- **Safety and Indemnity**: Rolled out novel automated safety and indemnity protection mechanisms that achieved ~100% recall for core brand integrity areas (e.g. child safety), while maintaining high precision to avoid impacting non-violating users.
+- **Safety and Indemnity**: Rolled out novel automated safety and indemnity protection mechanisms that have achieved ~100% recall for core brand integrity areas (e.g. child safety), while maintaining high precision to avoid impacting non-violating users.
 
 
 **VP of AI & Engineering**  
