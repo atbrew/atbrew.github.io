@@ -34,7 +34,6 @@ jobs:
           node-version: '16'  # Specify the Node.js version you want to use
       - name: Install Roboto
         run: |
-          npm install
           npm install @fontsource/roboto  # Install the Roboto font package
       - name: Setup Python
         uses: actions/setup-python@v4
