@@ -7,7 +7,7 @@
 
 <hr/>
 
-#### <u>Overview</u> 
+**<u>Overview</u>** 
 
 ***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
