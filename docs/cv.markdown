@@ -38,9 +38,9 @@ My team enables Shutterstock to deliver state-of-the-art Generative AI-powered i
 ***Streetbees :: London & Lisbon (Remote)***   
 *Oct 2021 - July 2023*
 
-Streetbees is Series-B funded award-winning Marketing AI SaaS service built that enables brands such as Pepsico and Unilever to understand market trends by agrregating insights from 3.5 Million customers "in-the-moment" of consumption through an AI-driven mobile chatbot platform.
+Streetbees is Series-B funded award-winning Marketing AI SaaS service built that enables brands such as Pepsico and Unilever to understand market trends by aggregating insights from > 3.5 Million customers (Bees) "in-the-moment" of consumption through an AI-driven mobile chatbot platform.
 
-I directed the 50+ technology organization made up 3 [stream-alligned](https://teamtopologies.com/key-concepts) departments; i; acquisition, ii; annotation and iii; reporting. Each department had an engineering manager, software developers, applied science, DevOps, QA, and data analysts with a product lead (reporting into the CPO). I was accountable for the technical and scientific direction for each tribe to enable autonomous execution.
+I directed the 50+ technology organization made up 3  [stream-alligned](https://teamtopologies.com/key-concepts) departments; i; acquisition, ii; annotation and iii; reporting. Each department had an engineering manager, software developers, applied science, DevOps, QA, and data analysts with a product lead (reporting into the CPO). I was accountable for the technical and scientific direction for each tribe to enable autonomous execution.
 
 Some core achievements that our teams acheived in line with our applied science strategy;
 
@@ -48,7 +48,7 @@ Some core achievements that our teams acheived in line with our applied science 
 
 - **Annotation:** Manual coding costs where reduced by >60% through the (re-)implementation of cross-modality deep-learning image and text classification system from a naive text-only based shallow nueral network. This was achieved due to a 365% increase in automated codes discovered by extending automatic coding to include images using a multimodal two-tower based classification paradigm.
 
-- **Reporting:** The general release of GPT-3 enabled full automation of the end-to-end survey curation, quality assurance, one-shot encoding, to also include automated research report writing based on the surveys we collected and annoated. Our product enabled client requirements and survey deliver to drop from > 2 weeks to days. [Streetbees-X](https://www.streetbees.com/SBX).
+- **Reporting:** The general release of GPT-3 enabled full automation of the end-to-end survey curation, quality assurance, one-shot encoding, to also include automated research report writing based on the surveys we collected and annoated. Our product enabled client requirements and survey deliver to drop from > 2 weeks to days. This innovation led to a wider company pivot (away from syndicated survey's) to the green-field rapid deployment product we created [Streetbees-X](https://www.streetbees.com/SBX).
 
 
 **Head of NLP Centre of Excellence**   
