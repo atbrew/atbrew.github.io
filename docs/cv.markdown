@@ -11,7 +11,7 @@
 
 ***Formal Education:*** University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011; University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010; Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003; Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
 
-***Hard Skills:*** Generative AI, Recommender Systems, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
+***Hard Skills:*** Generative AI, Recommender Systems, Automated Content Moderation, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
 
 ***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
@@ -25,29 +25,31 @@
 
 Shutterstock is a two-sided marketplace which enables contributors to sell images. Generative AI is a disruptor to this business model.
 
-I lead the Generative Experience AI team, enabling  Shutterstock to deliver state-of-the-art Generative AI-powered image creation and editing tools, that transform Shutterstocks immense but limited media catalog into an infinite resource. We have transitioned from a DALL-E 2 based Beta suite into a profitable dedicated credits-based licensing model that strategically leverages models from OpenAI, Google, Amazon, a partnership with Databricks and an internal Stable-Diffusion deployment. The product-suite has driven a 70%+ monthly retention and rapidly growing market share, surpassing other significant media types served by Shutterstock. This has been enabled by cohesive UX & functional integration into Shutterstock.com accelerated by the following strategic machine learning driven capabilities:
+My team enables Shutterstock to deliver state-of-the-art Generative AI-powered image creation and editing tools which transform Shutterstocks immense but limited media catalog into an infinite resource. We have transitioned from a single model DALL-E 2 based &beta;-suite into a profitable dedicated credits-based licensing model that strategically leverages multiple text-to-image models from OpenAI, Google, Amazon, a Databricks partnership and an internal Stable-Diffusion deployment to deliver the best text-to-image generator on the web that treats image creators equitably. Our product-suite has driven a 70%+ monthly retention and is driving rapid market share growth, surpassing other significant media types served by Shutterstock. This has been enabled by cohesive UX & functional integration into Shutterstock.com accelerated by the following technical machine learning strategy:
 
-- **Generative Model Optimization**: Developed and deployed techniques to maximize the connection between user intent and their written prompts through prompt rewriting and translation, improving conversion rates by up to 30% compared to external vendors.
+- **Generative Model Optimization**: We have developed and deployed techniques to maximize the connection between user-intent and their written prompts through automated prompt refinement and parameter selection, improving conversion rates by up to 30% on some vendor supplied models.
 
-- **Generative Model Recomendations**: Delivered an automated text-to-image recommendation system that leverages contextual data (such as user prompts) to select the best text-to-image generators, increasing conversion rates by over 10% while maintaining fixed costs.
+- **Generative Model Recomendations**: We have delivered an automated text-to-image recommendation system that leverages contextual data (such as user prompts) to select the best text-to-image generators, increasing conversion rates by over 10% while maintaining fixed costs. This was enabled by deploying an in-house testing system that enables traffic routing/testing system at the user-input/prompt level speeding up validation time by ~100%.  
 
-- **Safety and Indemnity**: Rolled out novel automated safety and indemnity protection mechanisms that have achieved ~100% recall for core brand integrity areas (e.g. child safety), while maintaining high precision to avoid impacting non-violating users.
+- **Safety and Indemnity**: We have rolled out novel automated safety and indemnity moderation mechanisms that have achieved ~100% recall for core brand integrity areas (e.g. child safety), while maintaining high precision to avoid impacting non-violating users.
 
 
 **VP of AI & Engineering**  
 ***Streetbees :: London & Lisbon (Remote)***   
 *Oct 2021 - July 2023*
 
-Streetbees is a multi-award-winning Marketing AI SaaS service built on AWS that enables brands such as Pepsico and Unilever to connect with 3.5 Million customers "in the moment" of consumption through an AI-driven mobile chatbot survey and data processing system.
+Streetbees is Series-B funded award-winning Marketing AI SaaS service built that enables brands such as Pepsico and Unilever to understand market trends by agrregating insights from 3.5 Million customers "in-the-moment" of consumption through an AI-driven mobile chatbot platform.
 
-In May 2022, my management portfolio was expanded from AI and data engineering to cover the entire 50+ technology organization. This is composed of senior engineering managers, tech leads, software developers, applied science, DevOps, QA, and data analysts. In collaboration with product leadership, we restructured the product and tech org into 3 cross-functional mission-oriented tribes. I helped set product, technical, and scientific direction for each tribe to enable autonomous execution.
+I directed the 50+ technology organization made up 3 [stream-alligned](https://teamtopologies.com/key-concepts) departments; i; acquisition, ii; annotation and iii; reporting. Each department had an engineering manager, software developers, applied science, DevOps, QA, and data analysts with a product lead (reporting into the CPO). I was accountable for the technical and scientific direction for each tribe to enable autonomous execution.
 
-Some examples observed since the change:
-- Manual coding costs reduced by 60% through implementation of task realignment and online precision and recall monitoring of the crowd workforce combined with full automation of the train-deploy machine learning annotation system.
-- A 365% increase in automated codes discovered by extending automatic coding to include images (not just text) in a move to a multimodal two-tower classification paradigm.
-- A 75% reduction in QA time on fraudulent image submission based on algorithms identifying 80% of near duplicate image submissions and screen captures as part of a review recommendation engine.
+Some core achievements that our teams acheived in line with our applied science strategy;
 
-The release of ChatGPT in November 2022 enabled my team to build a fully automated end-to-end survey curation, quality assurance, one-shot encoding, and report writing product that that has been released as [Streetbees-X](https://www.streetbees.com/SBX).
+- **Aquisition:** We enabled a 75% reduction in QA time on fraudulent image submission based on algorithms identifying 80% of near duplicate image submissions and screen captures as part of a review recommendation engine.
+
+- **Annotation:** Manual coding costs where reduced by >60% through the (re-)implementation of cross-modality deep-learning image and text classification system from a naive text-only based shallow nueral network. This was achieved due to a 365% increase in automated codes discovered by extending automatic coding to include images using a multimodal two-tower based classification paradigm.
+
+- **Reporting:** The general release of GPT-3 enabled full automation of the end-to-end survey curation, quality assurance, one-shot encoding, to also include automated research report writing based on the surveys we collected and annoated. Our product enabled client requirements and survey deliver to drop from > 2 weeks to days. [Streetbees-X](https://www.streetbees.com/SBX).
+
 
 **Head of NLP Centre of Excellence**   
 ***Zalando :: Berlin (Remote)***  
