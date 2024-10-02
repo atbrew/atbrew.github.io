@@ -38,17 +38,17 @@ My team enables Shutterstock to deliver state-of-the-art Generative AI-powered i
 ***Streetbees :: London & Lisbon (Remote)***   
 *Oct 2021 - July 2023*
 
-Streetbees is Series-B funded award-winning Marketing AI SaaS service built that enables brands such as Pepsico and Unilever to understand market trends by aggregating insights from > 3.5 Million customers (Bees) "in-the-moment" of consumption through an AI-driven mobile chatbot platform.
+Streetbees is Series-B funded Marketing AI SaaS service that enables brands such as Pepsico and Unilever to understand market trends by aggregating insights from > 3.5 Million customers (Bees) "in-the-moment" of consumption. This is enabled via an AI-driven mobile chatbot platform which drives open-form surveys, automated annotation of survey responses and ML driven market insights based on the collected data.
 
-I directed the 50+ technology organization made up 3  [stream-alligned](https://teamtopologies.com/key-concepts) departments; i; acquisition, ii; annotation and iii; reporting. Each department had an engineering manager, software developers, applied science, DevOps, QA, and data analysts with a product lead (reporting into the CPO). I was accountable for the technical and scientific direction for each tribe to enable autonomous execution.
+I led the overall technology organization (>50) made up 3  [stream-alligned](https://teamtopologies.com/key-concepts) teams; i; acquisition, ii; annotation and iii; reporting. Each team had an engineering manager, leads, software developers, data science/machine learning, DevOps, QA, and data analysts with an embedded product lead. I was ultimately accountable for the technical and scientific direction for the overall organization and for each team to enable autonomous execution.
 
-Some core achievements that our teams acheived in line with our applied science strategy;
+The following are some notable achievements my teams achieved in line with our applied science strategy;
 
-- **Aquisition:** We enabled a 75% reduction in QA time on fraudulent image submission based on algorithms identifying 80% of near duplicate image submissions and screen captures as part of a review recommendation engine.
+- **Aquisition:** We enabled a 75% reduction in human moderation time needed for fraudulent image submission based on algorithms that automatically identified > 80% of near duplicate image submissions and screen captures as part of a review recommendation engine.
 
-- **Annotation:** Manual coding costs where reduced by >60% through the (re-)implementation of cross-modality deep-learning image and text classification system from a naive text-only based shallow nueral network. This was achieved due to a 365% increase in automated codes discovered by extending automatic coding to include images using a multimodal two-tower based classification paradigm.
+- **Annotation:** Manual coding costs where additionally reduced by >60% through the (re-)implementation of cross-modality deep-learning image and text classification system enhancing a  legacy text-only classification system. This was achieved due to a 365% increase in automated codes discovered using a multimodal two-tower based classification paradigm to review the complete survey submission.
 
-- **Reporting:** The general release of GPT-3 enabled full automation of the end-to-end survey curation, quality assurance, one-shot encoding, to also include automated research report writing based on the surveys we collected and annoated. Our product enabled client requirements and survey deliver to drop from > 2 weeks to days. This innovation led to a wider company pivot (away from syndicated survey's) to the green-field rapid deployment product we created [Streetbees-X](https://www.streetbees.com/SBX).
+- **Reporting:**  GPT-3's release enabled complete automation of the end-to-end survey curation & delivery, quality assurance, one-shot encoding, to also include automated research report writing based on the surveys we collected and annotated. The resulting product enabled client requirements and survey delivery to drop from > 2 weeks to days. This innovation led to a complete company pivot (away from syndicated survey's) to the green-field rapid deployment product we created [Streetbees-X](https://www.streetbees.com/SBX).
 
 
 **Head of NLP Centre of Excellence**   
