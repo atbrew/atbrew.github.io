@@ -55,47 +55,44 @@ The following are some notable achievements my teams achieved in line with our a
 ***Zalando :: Berlin (Remote)***  
 *Jul 2020 - Oct 2021*
 
-Zalando wished to expedite moving near-term research innovation from the Zalando research team so that the business would have more immediate benefit, and Zalando research could focus on blue skies research. Four Centres of AI Excellence were planned to focus on enabling and seeding other Zalando teams with near and mid-term innovations. This is where recent advances in the state of the art (e.g., in NLP) would have immediate and near-term (1-5 year) impact.
+Zalando set up four Centres of AI Excellence to drive focus on enabling and seeding other Zalando teams with innovations from rapidly developing fields such as NLP. 
 
-I set up and led the first of the new centers, the NLP Centre of Excellence. I provided technical, product, and scientific leadership for the nascent Natural Language Processing (NLP) Centre of Excellence. Our initial cross-functional team of 10 was made up of 3 senior researchers, 2 senior product managers, 3 data engineers, and a data analyst. The team was planned to grow to >20. I set and communicated the strategic product, technical, and scientific direction in collaboration with my product, science, and technology team. The department seeded new teams across Zalando by hiring and building pre-baked teams with leaders to take those teams forward. The department also built a foundational NLP platform product which acted as an anchor to enable continual research in the center.
+I led the first of the new centers, the NLP Centre of Excellence. I was accountable for the technical, product, and scientific direction of the centre of excellence. An expert cross-functional team of 10 was made up of 3 senior researchers, 2 senior product managers, 3 data engineers, and a data analyst. Our goal as a department was to support and seed new technology teams across Zalando by facilitating the hiring and building of new teams with leaders & technical teams to take the incubated technologies forward.
 
 Some accomplishments include:
-- Two leads from the center now lead new teams based on work they developed in the center (a new customer reviews applied science and engineering team & a new semantic search applied science and engineering team).
-- Led product discovery, architecture, and early implementation of our core customer feedback analysis product "classlytics". Classlytics was GDPR compliant by design enabling multilingual search and message routing of customer feedback for 18 languages from over 40 different customer journey touchpoints (e.g., return slips & online feedback forms). The product safety inspection team used it as a high recall (95%+) human in the loop automated escalation tool to forward safety concerns to their manual inspection team to expedite the removal of potentially unsafe products from Zalando.
+
+- **Platform Capabilities** We developed and delivered a GDPR-compliant multilingual customer feedback search and message routing tool that injested data containing 18 languages from over 40 different customer journey touch-points (e.g., return slips & online feedback forms) effectively capturing all of Zalandos customer feedback in a single platform.
+
+- **Team Incubation** We incubated an automated moderation team for product safety based feedback from customer returns built on a [state-of-the-art](https://arxiv.org/pdf/2210.14363) research developed by the center.  It had a high recall (95%+) human in the loop automated escalation tool to forward safety concerns to their manual inspection team to expedite the removal of potentially unsafe products from Zalando.
+
+- **Product Led Scientific Advances** We developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) that enabled easy discovery of new categories of product risks that made themselves present in the data. The team also developed one of the first [zero-shot classification](https://kishaloyhalder.github.io/pdfs/tars_coling2020.pdf) techniques built on top of the transformer archticture and contributed into the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open source NLP project which was initially developed by Zalando research.
 
 **Board Member**  
 ***Zalando SE***  
-*May 2018 - Jun 2020 (2 years 2 months)*
+*May 2018 - Jun 2020*
 
-German companies are "co-determined," that is, they are led by a board of directors that is split between shareholder representatives and employee representatives. I was invited to apply for a vacant position on the board given my background in machine learning and technology that was deemed to be highly complementary to the wider board structure.
-
-I was one of 3 elected employees on the 8-seat supervisory board of Zalando charged with fiduciary care of the company. I participated in quarterly board meetings and ensured due diligence was applied to significant Zalando policy changes, investment, divestments, reviewing executive-level promotions and remuneration, and partaking in strategic investor and key brand relationship meetings. For example:
-- Oversaw the divestment in the Brieselang Logistics site, Zalando inhouse fashion brand, Kickz, Bread & Butter, and the closure of the Lisbon technology hub.
-- Oversaw the expansion of the board from the 3 original founders to 5.
-- Participated in strategic offsites and round tables with Kinnevik and Nike.
-- Raised issues with the process and the algorithmic evaluation of employees, which helped to drive change in the bi-annual employee appraisal process.
+One of 3 employees representative who sat on the 8-seat supervisory board of Zalando charged with fiduciary care of the company. Along with my peers on the board we were accountable to ensure due diligence was applied to significant Zalando policy changes, investment, divestment's, reviewing executive-level promotions and remuneration, and partook in strategic investor and key brand relationship engagements.
 
 **Head of Customer Data Platform**   
 ***Zalando***  
-*Jan 2016 - Jul 2020 (4 years 7 months)*
+*Jan 2016 - Jul 2020*
 
-Zalando is the largest fashion e-commerce platform in Europe. In 2015, Zalando aimed to rapidly expand its technical workforce. It did this by opening new technology hubs in Dublin & Helsinki. The Zalando Dublin site was set up to be a data science innovation hub, known as the Fashion Insights Centre. Three departments were set up on the site: the fashion content platform to provide insights into the latest trends in fashion, the smart product platform to enable deep and rich metadata about products onboarded onto the platform, and the customer data platform to provide a 360-degree view of customers interacting with the platform. The core challenge for all these departments was to integrate into the wider Zalando business.
+Zalando is the largest fashion e-commerce platform in Europe. In 2015, Zalando aimed to rapidly expand its technical workforce. It did this by opening new technology hubs in Dublin & Helsinki. 
 
-I was an early founding team member of the customer data platform and eventually became the head of applied science for that department. At the department's peak, I led a team of 25 managers, applied scientists, engineers, and product managers, enabling teams to leverage factual and predicted customer data to optimize customer experience. I helped propose, design, and build services that were integrated into the business processes of 4 Zalando business units: Lounge, Markets, Zalon, ZMS, and Fashion Store.
+I was a founding team member of the Customer Data Platform and became the Head of applied science for that department (being promoted up from Senior Scientist, to Manager to Head). I led a team of 25 made up of managers, applied scientists, engineers, and product managers. This was made up of three teams. 1/ Customer Preference Recomendations, 2/ Customer Price Predictions and 3/ Cross Device Graph.
+My teams built and integrated services across all of 4 Zalandos business units: Lounge, Markets, Zalon, ZMS, and Fashion Store.
 
 Some accomplishments include:
-- Our fashion attribute prediction services (e.g., category, brand, price) drove customer preference collection, recommendation carousels, personalized navigation, gift card recommendation, personalized newsletters, offsite targeted advertising, and as an implicit signal into search ranking.
-- Our audience generation tools were used by ZMS, Zalon, and Markets teams for reach and performance-based campaign targeting. Some early campaigns outperformed legacy systems by 40x. We also developed a full customer segmentation model known as Z-types in collaboration with ZMS, which features in Zalando's 2017 annual report. For example, Z-Types were leveraged by G-Star to reach 8 Million Users selling 35K items.
-- Our cross-device graph replaced the marketing team's user association model for advertising attribution, leading to a 40% increase in attributed sales. We also integrated this into Zalando's A/B testing platform with double-digit de-noising for tests that leveraged cookies.
 
-**Head of Department (Jan 2019 - July 2020)**
-**Engineering and Applied Science Manager (April 2017 - Jan 2019)**  
-**Senior Product Manager (Feb 2017 - April 2017)**  
-**Lead Applied Scientist (Jan 2016 - Feb 2017)**  
+- **Customer Preference Recomendations** Our fashion attribute recommendation services (e.g., category, brand, price) drove customer preference collection, recommendation carousels, personalized navigation, gift card recommendation, personalized newsletters, offsite targeted advertising, and as an implicit signal into search ranking. Each integration enabled by significant A/B test results that often demonstrated double-digit improvements in performance over existing solutions.
+
+- **Audience Targeting** Our predictive audience generation tools were used by ZMS, Zalon, and Markets teams for reach and performance-based campaign targeting. Some of our early campaigns outperformed legacy systems by 40x.
+
+- **X-Device Graph** Our cross-device graph replaced the marketing team's user association model for advertising attribution, leading to a 40% increase in attributed sales. We also integrated this into Zalando's A/B testing platform with double-digit de-noising for tests that leveraged cookies.
 
 **Lead Applied Scientist**  
 ***IBM***  
-*Apr 2012 - Jan 2016 (3 years 10 months)*
+*Apr 2012 - Jan 2016*
 
 Lead Applied Scientist in the IBM SmartCloud division responsible for invention, optimization, and delivery of machine learning software to optimize and simplify IT Network monitoring.
 
