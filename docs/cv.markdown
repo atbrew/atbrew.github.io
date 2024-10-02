@@ -42,7 +42,7 @@ Streetbees is Series-B funded Marketing AI SaaS service that enables brands such
 
 I led the overall technology organization (>50) made up 3  [stream-alligned](https://teamtopologies.com/key-concepts) teams; i; acquisition, ii; annotation and iii; reporting. Each team had an engineering manager, leads, software developers, data science/machine learning, DevOps, QA, and data analysts with an embedded product lead. I was ultimately accountable for the technical and scientific direction for the overall organization and for each team to enable autonomous execution.
 
-The following are some notable achievements my teams achieved in line with our applied science strategy;
+The following are some notable achievements my teams achieved in line with our technology & machine learning strategy;
 
 - **Aquisition:** We enabled a 75% reduction in human moderation time needed for fraudulent image submission based on algorithms that automatically identified > 80% of near duplicate image submissions and screen captures as part of a review recommendation engine.
 
