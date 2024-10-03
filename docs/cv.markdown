@@ -55,23 +55,23 @@ The following are some notable achievements my teams achieved in line with our t
 ***Zalando :: Berlin (Remote)***  
 *Jul 2020 - Oct 2021*
 
-Zalando set up four Centres of AI Excellence to drive focus on enabling and seeding other Zalando teams with innovations from rapidly developing fields such as NLP. 
+Zalando set up four Centres of AI Excellence to drive focus on enabling and seeding other Zalando teams with innovations from rapidly developing fields of (NLP, Image Processing, Econometrics and Forecasting). 
 
-I led the first of the new centers, the NLP Centre of Excellence. I was accountable for the technical, product, and scientific direction of the centre of excellence. An expert cross-functional team of 10 was made up of 3 senior researchers, 2 senior product managers, 3 data engineers, and a data analyst. Our goal as a department was to support and seed new technology teams across Zalando by facilitating the hiring and building of new teams with leaders & technical teams to take the incubated technologies forward.
+I helped to set up and led the NLP Centre of Excellence. I was accountable for the technical, product, and scientific direction of the centre of excellence. An expert cross-functional team of 10 was made up of senior researchers, senior product managers, senior data engineers, and a data analyst. The goal of out department was to support and seed new technology teams across Zalando by facilitating by building new teams with leaders & technical teams in place to take incubated technologies forward and drive further product focused research.
 
 Some accomplishments include:
 
-- **Platform Capabilities** We developed and delivered a GDPR-compliant multilingual customer feedback search and message routing tool that injested data containing 18 languages from over 40 different customer journey touch-points (e.g., return slips & online feedback forms) effectively capturing all of Zalandos customer feedback in a single platform.
+- **Platform Capabilities** We developed and delivered a GDPR-compliant multilingual customer feedback search and message routing tool injested data from 18 languages from over 40 different customer journey touch-points (e.g., return slips & online feedback forms) effectively capturing all of Zalandos customer feedback in a single platform.
 
-- **Team Incubation** We incubated an automated moderation team for product safety based feedback from customer returns built on a [state-of-the-art](https://arxiv.org/pdf/2210.14363) research developed by the center.  It had a high recall (95%+) human in the loop automated escalation tool to forward safety concerns to their manual inspection team to expedite the removal of potentially unsafe products from Zalando.
+- **Content Moderation** We incubated an automated moderation team for product safety based feedback from customer returns built on a [state-of-the-art](https://arxiv.org/pdf/2210.14363) research developed by the center.  It had a high recall (95%+) human in the loop automated escalation tool to forward safety concerns to their manual inspection team to expedite the removal of potentially unsafe products from Zalando.
 
-- **Product Led Scientific Advances** We developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) that enabled easy discovery of new categories of product risks that made themselves present in the data. The team also developed one of the first [zero-shot classification](https://kishaloyhalder.github.io/pdfs/tars_coling2020.pdf) techniques built on top of the transformer archticture and contributed into the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open source NLP project which was initially developed by Zalando research.
+- **Product Led Scientific Advances** We developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) that enabled easy discovery of new categories of customer feedback and product risks that made themselves present in incoming data. The team also developed one of the first [zero-shot classification](https://kishaloyhalder.github.io/pdfs/tars_coling2020.pdf) techniques built on top of the transformer archticture and contributed this into the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open source NLP project which was initially developed by Zalando research.
 
 **Board Member**  
 ***Zalando SE***  
 *May 2018 - Jun 2020*
 
-One of 3 employees representative who sat on the 8-seat supervisory board of Zalando charged with fiduciary care of the company. Along with my peers on the board we were accountable to ensure due diligence was applied to significant Zalando policy changes, investment, divestment's, reviewing executive-level promotions and remuneration, and partook in strategic investor and key brand relationship engagements.
+Member of the 8-seat supervisory board of Zalando alongside shareholder representatives Cristina Stenbeck (Kinevik), Anders Holch Povlsen (CEO Bestseller Group), Kelly Bennet (CMO Netflix), Mariella Röhm-Kottmann (KPMG),Alexander Samwer (Rocket Internet) and fellow Zalando employees Konrad Schäfers (Zalando) & Beate Siert (Zalando).  Together we were ultimately accountable with the fiduciary care of Zalando covering significant policy changes, investments, divestment's, executive-level promotions and remuneration, and strategic investor and key brand relationship engagements.
 
 **Head of Customer Data Platform**   
 ***Zalando***  
@@ -94,21 +94,24 @@ Some accomplishments include:
 ***IBM***  
 *Apr 2012 - Jan 2016*
 
-Lead Applied Scientist in the IBM SmartCloud division responsible for invention, optimization, and delivery of machine learning software to optimize and simplify IT Network monitoring.
+Lead Applied Scientist in the IBM SmartCloud division responsible for invention, optimization, and delivery of machine learning software to optimize and simplify IT Network monitoring. I was hired into a product group driving machine learning enabled Metrics Management and helped form a new team focused on machine learning based event analytics. 
 
-Event Analytics:
-- Part of a discovery team of 2 that explored and built new event analytics capabilities, which successfully warded off immediate competitive pressure.
-- Helped grow the team to 14 contributors covering the USA, UK, and Ireland with design, UX, engineering, and applied science.
-- Invented and developed a patented set of event analytics suite of algorithms that enables a 30% reduction of client workloads with a 10% reduction in Mean Time to Repair for the remaining workload.
-- Lead author on 16 patents, became a member of the IBM Ireland and Tivoli Patent Review Committees.
+Some notable achievements.
 
-Metrics Management:
-- Led a software and analytics engineering redesign of the core of the metrics anomaly generation product.
-- This yielded a 1000X improvement in disk IO (3.5 GB writes per interval reduced to 3.5 MB per interval) and a 40X speed up (5 minutes per interval reduced to 7 seconds) with a 2.5 X reduction in memory footprint (70GB reduced to 20GB).
-- Continuous Improvement was enabled by "pluggable" independently testable extensions. Using this, we doubled the number of anomaly methods provided by the system (e.g., adding memory leak detectors) and reduced the false alerts raised by the system by 50%.
+- **Event Analytics:** Part of a discovery team of two individual contributors that explored and built new event analytics capabilities, which successfully warded off immediate competitive pressure. Given clear market traction I helped grow a cross-functional team to 14 contributors covering the USA, UK, and Ireland with design, UX, engineering, and applied science. I prototyped, co-invented, co-developed concrete implementation of 16 patents around event analytics algorithms and technologies which when deployed enabled a 30% reduction of client workloads with a 10% reduction in Mean Time to Repair for the remaining workload.
+
+- **Metrics Management:** I drove a software and analytics engineering redesign of the core of the metrics anomaly generation product. This redesign yielded a 1000X improvement in disk IO (3.5 GB writes per 5 minute interval reduced to 3.5 MB per interval) and a 40X speed up (5 minutes per interval reduced to 7 seconds) with a 2.5 X reduction in memory footprint (70GB reduced to 20GB). The redesign enabled "pluggable" independently testable machine learning extensions. This doubled the number of detection methods provided by the system (e.g., adding memory leak detectors) and reduced the false alerts raised by the system by 50%.
 
 **Data Scientist / Software Engineer**  
 ***Swrve***  
 *June 2011 - Mar 2012*
 
 Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based on tracking event streams. Implemented front-end UX in Ruby & JQuery, backend in Java with a Redis, Cassandra, and MySQL storage layer, hosted on Amazon EC2.
+
+<p style="page-break-after: always;"></p>
+<hr/>
+**<u>Hobbies & Errata</u>**
+
+- **Open Water Swimming (Dublin Swimming Club) & Water Polo (Sandycove)**: I'm an active member of Ireland's oldest swimming club Dublin Swimming Club and once a year you will find me swimming Dublin's Liffey, Dun-Loaghaire Harbor, Glendalough and Irelands Eye to Howth (without a wetsuit, but with togs!). I play a little Water-Polo (without horses!) with Sandycove in the Leinster League and my kids.
+
+- **Technology Projects, 3D printing & building actual things** I'm a builder, I enjoy designing and building things tangible things, from Halloween gadgets, to 3D printed replacement parts to garden sheds. I also like to attack things with code, such as the site I build for my Dad which leveraged optical character recognition & generative text & image processing to help digitize his [lifes work](https://kevin-brew.github.io/sermons/). I also bake a mean pineapple upside down cake!
