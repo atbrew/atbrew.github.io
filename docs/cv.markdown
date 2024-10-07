@@ -74,7 +74,7 @@ Key accomplishments include:
 - **Product-Led Scientific Advances:** Developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) for identifying new categories of customer feedback and product risks. We also pioneered a zero-shot classification technique using transformer architecture and contributed to the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project, originally developed by Zalando Research.
 
 **Supervisory Board Member**
-***Zalando SE***  
+***Zalando SE***
 *May 2018 - Jun 2020*
 
 I served as a member of Zalando's 8-seat supervisory board, working alongside key shareholder representatives including Cristina Stenbeck (Kinnevik), Anders Holch Povlsen (CEO of Bestseller Group), Kelly Bennett (CMO of Netflix), Mariella Röhm-Kottmann (KPMG), Alexander Samwer (Rocket Internet), and fellow Zalando employees Konrad Schäfers and Beate Siert.
@@ -121,4 +121,4 @@ Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based
 
 - **Open Water Swimming (Dublin Swimming Club) & Water Polo (Sandycove)**: I'm an active member of Ireland's oldest swimming club Dublin Swimming Club and once a year you will find me swimming Dublin's Liffey, Dun-Loaghaire Harbor, Glendalough and Irelands Eye to Howth (without a wetsuit, but with togs!). I play a little Water-Polo (without horses!) with Sandycove in the Leinster League and my kids.
 
-- **Technology Projects, 3D printing & building actual things** I'm a builder, I enjoy designing and building things tangible things, from Halloween gadgets, to 3D printed replacement parts to garden sheds. I also like to attack things with code, such as the site I build for my Dad which leveraged optical character recognition & generative text & image processing to help digitize his [lifes work](https://kevin-brew.github.io/sermons/). I also bake a mean pineapple upside down cake!
+- **Technology Projects, 3D printing & building actual things** I'm a builder, I enjoy designing and building things tangible things, from Raspberry-PI enabled Halloween gadgets, to customer made 3D printed replacement parts, to hand-designed garden sheds. I also like to attack things with code, such as the site I build for my Dad which leveraged optical character recognition & generative text & image processing to help digitize his [lifes work](https://kevin-brew.github.io/sermons/). I also bake a mean pineapple upside down cake!
