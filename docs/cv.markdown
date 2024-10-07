@@ -27,15 +27,15 @@
 ***Shutterstock - Dublin, Ireland***  
 *July 2023 - Present*
 
-Shutterstock is a two-sided marketplace which enables contributors to sell images. Generative AI is a disruptor to this business model.
+Shutterstock is a two-sided marketplace that allows contributors to sell images. Generative AI disrupts this business model.
 
-My team enables Shutterstock to deliver state-of-the-art Generative AI-powered image creation and editing tools. We have built a profitable credits-based product offering that strategically leverages multiple text-to-image models from external vendors e.g. (OpenAI & Google) strategic partnerships (e.g. Databricks ) and our own internal models to deliver a state-of-the-art image generation suite. We attain a 70%+ monthly retention rate, and we are driving rapid market share growth within stock-photography, currently we surpass several other significant media types served by Shutterstock. This has been enabled by cohesive UX & functional integration into Shutterstock.com accelerated by the following technical machine learning strategy:
+I lead a team delivering Generative AI-powered image creation and editing tools. We built a profitable credits-based product by integrating text-to-image models from external vendors (OpenAI, Google), strategic partnerships (Databricks), and internal models. We achieve a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, supported by cohesive UX integration into Shutterstock.com and the following machine learning strategies:
 
-- **Generative Model Optimization**: We have developed and deployed techniques to maximize the connection between user-intent and their written prompts through automated prompt refinement and parameter selection, improving conversion rates by up to 30% on some vendor supplied models.
+- **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
 
-- **Generative Model Recomendations**: We have delivered an automated text-to-image recommendation system that leverages contextual data (such as user prompts) to select the best text-to-image generators, increasing conversion rates by over 10% while maintaining fixed costs. This was enabled by deploying an in-house testing system that enables traffic routing/testing system at the user-input/prompt level speeding up validation time by ~100%.  
+- **Generative Model Recomendations**: We implemented an automated text-to-image recommendation system that uses user prompts to select the best generators. This increased conversion rates by 10%. We enabled this by doubling the speed of validation using a purpose built traffic routing system.
 
-- **Safety and Indemnity**: We have rolled out novel automated safety and indemnity moderation mechanisms that have achieved ~100% recall for core brand integrity areas (e.g. child safety), while maintaining high precision to avoid impacting non-violating users.
+- **Safety and Indemnity**: We launched automated moderation mechanisms that achieved ~100% recall in key brand safety areas (e.g., child safety) while maintaining high precision to avoid penalizing non-violating users.
 
 
 **VP of AI & Engineering**  
