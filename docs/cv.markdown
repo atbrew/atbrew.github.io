@@ -108,7 +108,6 @@ Key accomplishments include:
 
 Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based on tracking event streams. Implemented front-end UX in Ruby & JQuery, backend in Java with a Redis, Cassandra, and MySQL storage layer, hosted on Amazon EC2.
 
-[//]: # (<p style="page-break-after: always;"></p>)
 <hr/>
 
 ***Formal Education:*** 
