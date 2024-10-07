@@ -97,17 +97,17 @@ Key accomplishments include:
 
 - **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
-**Lead Applied Scientist**  
-***IBM***  
+**Senior Applied Scientist**  
+*IBM*  
 *Apr 2012 - Jan 2016*
 
-Lead Applied Scientist in the IBM SmartCloud division responsible for invention, optimization, and delivery of machine learning software to optimize and simplify IT Network monitoring. I was hired into a product group driving machine learning enabled Metrics Management and helped form a new team focused on machine learning based event analytics. 
+I was the Lead Applied Scientist in IBM’s SmartCloud division, responsible for inventing, optimizing, and delivering machine learning software to enhance IT network monitoring. I was initially hired to drive machine learning-enabled metrics management and later helped form a new team focused on event analytics.
 
-Some notable achievements.
+Key accomplishments include:
 
-- **Event Analytics:** Part of a discovery team of two individual contributors that explored and built new event analytics capabilities, which successfully warded off immediate competitive pressure. Given clear market traction I helped grow a cross-functional team to 14 contributors covering the USA, UK, and Ireland with design, UX, engineering, and applied science. I prototyped, co-invented, co-developed concrete implementation of 16 patents around event analytics algorithms and technologies which when deployed enabled a 30% reduction of client workloads with a 10% reduction in Mean Time to Repair for the remaining workload.
+- **Event Analytics:** As part of a two-person discovery team, I co-developed new event analytics capabilities that helped protect IBM from immediate competitive threats. With market traction, I expanded the team to 14 contributors across the USA, UK, and Ireland. We covered design, UX, engineering, and applied science. I co-invented 16 patents in event analytics, reducing client workloads by 30% and decreasing Mean Time to Repair (MTTR) by 10%.
 
-- **Metrics Management:** I drove a software and analytics engineering redesign of the core of the metrics anomaly generation product. This redesign yielded a 1000X improvement in disk IO (3.5 GB writes per 5 minute interval reduced to 3.5 MB per interval) and a 40X speed up (5 minutes per interval reduced to 7 seconds) with a 2.5 X reduction in memory footprint (70GB reduced to 20GB). The redesign enabled "pluggable" independently testable machine learning extensions. This doubled the number of detection methods provided by the system (e.g., adding memory leak detectors) and reduced the false alerts raised by the system by 50%.
+- **Metrics Management:** I led a major redesign of the metrics anomaly generation product, improving disk I/O by 1000x (from 3.5 GB to 3.5 MB per 5-minute interval) and processing speed by 40x (from 5 minutes to 7 seconds per interval). The redesign also cut memory use by 2.5x (from 70 GB to 20 GB) and enabled independently testable machine learning extensions. This doubled the system's detection methods, added memory leak detectors, and cut false alerts by 50%.
 
 **Data Scientist / Software Engineer**  
 ***Swrve***  
