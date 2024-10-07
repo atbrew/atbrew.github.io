@@ -8,13 +8,6 @@
 
 **<u>Overview</u>** 
 
-***Formal Education:*** 
-
-- University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011
-- University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010
-- Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003
-- Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
-
 ***Hard Skills:*** Generative AI, Recommender Systems, Automated Content Moderation, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
 
 ***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
@@ -93,9 +86,9 @@ Key accomplishments include:
 
 - **Customer Preference Recommendations:** Our fashion attribute recommendation services, including category, brand, and price, powered customer preference collection, recommendation carousels, personalized navigation, gift card recommendations, newsletters, and offsite targeted advertising. These integrations drove double-digit improvements in A/B tests over existing solutions.
 
-- **Audience Targeting:** Our predictive audience generation tools, used by ZMS, Zalon, and Markets, achieved up to 40x performance over legacy systems in early campaigns.
+- **Audience Targeting:** Our predictive audience generation tools, used by ZMS, Zalon, and Markets, achieved up to 40x performance over legacy systems in early campaigns which externally drove client retention (ZMS) and internally enabled deeper market penetration (Zalon & Markets).
 
-- **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
+- **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales significantly enhancing Zalando’s marketing performance. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
 **Senior Applied Scientist**  
 *IBM*  
@@ -115,8 +108,16 @@ Key accomplishments include:
 
 Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based on tracking event streams. Implemented front-end UX in Ruby & JQuery, backend in Java with a Redis, Cassandra, and MySQL storage layer, hosted on Amazon EC2.
 
-<p style="page-break-after: always;"></p>
+[//]: # (<p style="page-break-after: always;"></p>)
 <hr/>
+
+***Formal Education:*** 
+
+- University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011
+- University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010
+- Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003
+- Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
+
 **<u>Hobbies & Errata</u>**
 
 - **Open Water Swimming (Dublin Swimming Club) & Water Polo (Sandycove)**: I'm an active member of Ireland's oldest swimming club Dublin Swimming Club and once a year you will find me swimming Dublin's Liffey, Dun-Loaghaire Harbor, Glendalough and Irelands Eye to Howth (without a wetsuit, but with togs!). I play a little Water-Polo (without horses!) with Sandycove in the Leinster League and my kids.
