@@ -73,7 +73,7 @@ Key accomplishments include:
 
 - **Product-Led Scientific Advances:** Developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) for identifying new categories of customer feedback and product risks. We also pioneered a zero-shot classification technique using transformer architecture and contributed to the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project, originally developed by Zalando Research.
 
-**Supervisory Board Member**
+**Supervisory Board Member**   
 ***Zalando SE***
 *May 2018 - Jun 2020*
 
