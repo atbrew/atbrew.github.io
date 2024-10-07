@@ -42,57 +42,60 @@ I lead a team delivering Generative AI-powered image creation and editing tools.
 ***Streetbees :: London & Lisbon (Remote)***   
 *Oct 2021 - July 2023*
 
-Streetbees is Series-B funded Marketing AI SaaS service that enables brands such as Pepsico and Unilever to understand market trends by aggregating insights from > 3.5 Million customers (Bees) "in-the-moment" of consumption. This is enabled via an AI-driven mobile chatbot platform which drives open-form surveys, automated annotation of survey responses and ML driven market insights based on the collected data.
+Streetbees is a Series-B funded AI SaaS service that helps brands like PepsiCo and Unilever understand market trends by aggregating insights from over 3.5 million customers. This is done via an AI-powered mobile chatbot platform that drives open-form surveys, automates survey response annotation, and delivers machine learning-driven market insights.
 
-I led the overall technology organization (>50) made up 3  [stream-alligned](https://teamtopologies.com/key-concepts) teams; i; acquisition, ii; annotation and iii; reporting. Each team had an engineering manager, leads, software developers, data science/machine learning, DevOps, QA, and data analysts with an embedded product lead. I was ultimately accountable for the technical and scientific direction for the overall organization and for each team to enable autonomous execution.
+I led the technology organization (>50 members), divided into three stream-aligned teams: acquisition, annotation, and reporting. Each team included engineering managers, software developers, data scientists, DevOps, QA, and data analysts. I was responsible for the technical and scientific strategy across the organization, ensuring each team could operate autonomously.
 
-The following are some notable achievements my teams achieved in line with our technology & machine learning strategy;
+Notable achievements under my leadership:
 
-- **Aquisition:** We enabled a 75% reduction in human moderation time needed for fraudulent image submission based on algorithms that automatically identified > 80% of near duplicate image submissions and screen captures as part of a review recommendation engine.
+- **Aquisition:** Reduced human moderation time for fraudulent image submissions by 75%. Our algorithm automatically identified over 80% of near-duplicate image submissions and screen captures as part of a review recommendation engine.
 
-- **Annotation:** Manual coding costs where additionally reduced by >60% through the (re-)implementation of cross-modality deep-learning image and text classification system enhancing a  legacy text-only classification system. This was achieved due to a 365% increase in automated codes discovered using a multimodal two-tower based classification paradigm to review the complete survey submission.
 
-- **Reporting:**  GPT-3's release enabled complete automation of the end-to-end survey curation & delivery, quality assurance, one-shot encoding, to also include automated research report writing based on the surveys we collected and annotated. The resulting product enabled client requirements and survey delivery to drop from > 2 weeks to days. This innovation led to a complete company pivot (away from syndicated survey's) to the green-field rapid deployment product we created [Streetbees-X](https://www.streetbees.com/SBX).
+- **Annotation:** Cut manual coding costs by over 60% by upgrading a legacy text-only classification system. Our cross-modality deep learning model increased automated code discovery by over 300%, almost removing the need for manual annotation in core areas.
+
+
+- **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the process time from over two weeks to just a few days, leading to a company pivot and the launch of a new product, [Streetbees-X](https://www.streetbees.com/SBX).
 
 
 **Head of NLP Centre of Excellence**   
 ***Zalando :: Berlin (Remote)***  
 *Jul 2020 - Oct 2021*
 
-Zalando set up four Centres of AI Excellence to drive focus on enabling and seeding other Zalando teams with innovations from rapidly developing fields of (NLP, Image Processing, Econometrics and Forecasting). 
+Zalando established four Centres of AI Excellence to drive innovation across areas such as NLP, Image Processing, Econometrics, and Forecasting. These centres enabled and seeded teams across Zalando with cutting-edge technologies.
 
-I helped to set up and led the NLP Centre of Excellence. I was accountable for the technical, product, and scientific direction of the centre of excellence. An expert cross-functional team of 10 was made up of senior researchers, senior product managers, senior data engineers, and a data analyst. The goal of out department was to support and seed new technology teams across Zalando by facilitating by building new teams with leaders & technical teams in place to take incubated technologies forward and drive further product focused research.
+I set up and led the NLP Centre of Excellence. I was responsible for the technical, product, and scientific direction of the centre. The team, consisting of 10 senior researchers, product managers, data engineers, and a data analyst, incubated technologies and supported the formation of new product-focused research teams across Zalando.
 
-Some accomplishments include:
+Key accomplishments include:
 
-- **Platform Capabilities** We developed and delivered a GDPR-compliant multilingual customer feedback search and message routing tool injested data from 18 languages from over 40 different customer journey touch-points (e.g., return slips & online feedback forms) effectively capturing all of Zalandos customer feedback in a single platform.
+- **Platform Capabilities:** Developed a GDPR-compliant, multilingual customer feedback search and message routing tool. This platform ingested data from 18 languages across 40 customer touchpoints, consolidating all customer feedback into a single platform.
 
-- **Content Moderation** We incubated an automated moderation team for product safety based feedback from customer returns built on a [state-of-the-art](https://arxiv.org/pdf/2210.14363) research developed by the center.  It had a high recall (95%+) human in the loop automated escalation tool to forward safety concerns to their manual inspection team to expedite the removal of potentially unsafe products from Zalando.
+- **Content Moderation:** Incubated an automated moderation team for product safety issues flagged by customer returns. The tool, based on [state-of-the-art](https://arxiv.org/pdf/2210.14363) research, achieved over 95% recall in flagging unsafe products, expediting their removal with human-in-the-loop escalation to the manual inspection team.
 
-- **Product Led Scientific Advances** We developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) that enabled easy discovery of new categories of customer feedback and product risks that made themselves present in incoming data. The team also developed one of the first [zero-shot classification](https://kishaloyhalder.github.io/pdfs/tars_coling2020.pdf) techniques built on top of the transformer archticture and contributed this into the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open source NLP project which was initially developed by Zalando research.
+- **Product-Led Scientific Advances:** Developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) for identifying new categories of customer feedback and product risks. We also pioneered a zero-shot classification technique using transformer architecture and contributed to the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project, originally developed by Zalando Research.
 
-**Board Member**  
+**Supervisory Board Member**
 ***Zalando SE***  
 *May 2018 - Jun 2020*
 
-Member of the 8-seat supervisory board of Zalando alongside shareholder representatives Cristina Stenbeck (Kinevik), Anders Holch Povlsen (CEO Bestseller Group), Kelly Bennet (CMO Netflix), Mariella Röhm-Kottmann (KPMG),Alexander Samwer (Rocket Internet) and fellow Zalando employees Konrad Schäfers (Zalando) & Beate Siert (Zalando).  Together we were ultimately accountable with the fiduciary care of Zalando covering significant policy changes, investments, divestment's, executive-level promotions and remuneration, and strategic investor and key brand relationship engagements.
+I served as a member of Zalando's 8-seat supervisory board, working alongside key shareholder representatives including Cristina Stenbeck (Kinnevik), Anders Holch Povlsen (CEO of Bestseller Group), Kelly Bennett (CMO of Netflix), Mariella Röhm-Kottmann (KPMG), Alexander Samwer (Rocket Internet), and fellow Zalando employees Konrad Schäfers and Beate Siert.
 
-**Head of Customer Data Platform**   
-***Zalando***  
+The board was responsible for fiduciary oversight of Zalando. This included making decisions on significant policy changes, investments, divestitures, executive promotions, remuneration, and managing relationships with strategic investors and key brand partners.
+
+**Head of Customer Data Platform**  
+*Zalando*  
 *Jan 2016 - Jul 2020*
 
-Zalando is the largest fashion e-commerce platform in Europe. In 2015, Zalando aimed to rapidly expand its technical workforce. It did this by opening new technology hubs in Dublin & Helsinki. 
+Zalando, Europe’s largest fashion e-commerce platform, expanded its technical workforce in 2015 by opening new technology hubs in Dublin and Helsinki.
 
-I was a founding team member of the Customer Data Platform and became the Head of applied science for that department (being promoted up from Senior Scientist, to Manager to Head). I led a team of 25 made up of managers, applied scientists, engineers, and product managers. This was made up of three teams. 1/ Customer Preference Recomendations, 2/ Customer Price Predictions and 3/ Cross Device Graph.
-My teams built and integrated services across all of 4 Zalandos business units: Lounge, Markets, Zalon, ZMS, and Fashion Store.
+I was a founding member of the Customer Data Platform and progressed from Senior Scientist to Head of Applied Science. I led a team of 25, including managers, applied scientists, engineers, and product managers, organized into three teams: 1) Customer Preference Recommendations, 2) Customer Price Predictions, and 3) Cross Device Graph. We integrated services across Zalando’s main business units: Lounge, Markets, Zalon, ZMS, and Fashion Store.
 
-Some accomplishments include:
+Key accomplishments include:
 
-- **Customer Preference Recomendations** Our fashion attribute recommendation services (e.g., category, brand, price) drove customer preference collection, recommendation carousels, personalized navigation, gift card recommendation, personalized newsletters, offsite targeted advertising, and as an implicit signal into search ranking. Each integration enabled by significant A/B test results that often demonstrated double-digit improvements in performance over existing solutions.
+- **Customer Preference Recommendations:** Our fashion attribute recommendation services, including category, brand, and price, powered customer preference collection, recommendation carousels, personalized navigation, gift card recommendations, newsletters, and offsite targeted advertising. These integrations drove double-digit improvements in A/B tests over existing solutions.
 
-- **Audience Targeting** Our predictive audience generation tools were used by ZMS, Zalon, and Markets teams for reach and performance-based campaign targeting. Some of our early campaigns outperformed legacy systems by 40x.
+- **Audience Targeting:** Our predictive audience generation tools, used by ZMS, Zalon, and Markets, achieved up to 40x performance over legacy systems in early campaigns.
 
-- **X-Device Graph** Our cross-device graph replaced the marketing team's user association model for advertising attribution, leading to a 40% increase in attributed sales. We also integrated this into Zalando's A/B testing platform with double-digit de-noising for tests that leveraged cookies.
+- **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
 **Lead Applied Scientist**  
 ***IBM***  
