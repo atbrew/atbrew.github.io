@@ -110,15 +110,15 @@ Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based
 
 <hr/>
 
-***Formal Education:*** 
+***<u>Formal Education:</u>*** 
 
 - University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011
 - University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010
 - Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003
 - Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
 
-**<u>Hobbies & Errata</u>**
+**<u>Hobbies & Errata:</u>**
 
-- **Open Water Swimming (Dublin Swimming Club) & Water Polo (Sandycove)**: I'm an active member of Ireland's oldest swimming club Dublin Swimming Club and once a year you will find me swimming Dublin's Liffey, Dun-Loaghaire Harbor, Glendalough and Irelands Eye to Howth (without a wetsuit, but with togs!). I play a little Water-Polo (without horses!) with Sandycove in the Leinster League and my kids.
+- **Open Water Swimming (Dublin Swimming Club) & Water Polo (Sandycove)**: I'm an active member of Ireland's oldest swimming club Dublin Swimming Club and once a year you will find me swimming Dublin's Liffey, Dun-Loaghaire Harbor, Glendalough and Ireland's Eye to Howth (without a wetsuit, but with togs!). I play a Water-Polo (without horses!) with Sandycove in the Leinster League and my kids.
 
 - **Technology Projects, 3D printing & building actual things** I'm a builder, I enjoy designing and building tangible things, from Raspberry-PI enabled Halloween gadgets, to custom-made 3D printed replacement parts, to hand-designed garden sheds. I also like to attack things with code, such as the site I build for my Dad which leveraged optical character recognition & generative text & image processing to help digitize his [lifes work](https://kevin-brew.github.io/sermons/). I also bake a mean pineapple upside down cake!
