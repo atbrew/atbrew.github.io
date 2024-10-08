@@ -2,7 +2,7 @@
 **Email:** atbrew@gmail.com | **Tel:** +353 87 917 9799 | [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
 
 
-**Researcher, engineer, and technology leader** with >20 years of experience across academia, startups, scale-ups, and enterprises. Experience leading and coaching cross-functional teams & managers, enabling small expert units (<10) and multi-department structures (>50) in delivering state-of-the-art AI-enabled product suites while minimizing technical and scientific uncertainty in tandem with continuous customer impact.
+**Researcher, engineer, and technology leader** with >20 years of experience across academia, startups, scale-ups, and enterprises. Experience leading and coaching individual contributors, cross-functional teams & managers, enabling small expert units (<10) and multi-department structures (>50) to deliver state-of-the-art AI-enabled product suites while minimizing technical and scientific uncertainty in tandem with continuous customer impact.
 
 <hr/>
 
@@ -20,13 +20,13 @@
 ***Shutterstock - Dublin, Ireland***  
 *July 2023 - Present*
 
-Shutterstock is a two-sided marketplace that allows contributors to sell images. Generative AI disrupts this business model.
+Shutterstock is a two-sided marketplace that allows contributors to sell images to customers. Generative AI disrupts this business model.
 
-I lead a team delivering Generative AI-powered image creation and editing tools. We built a profitable credits-based product by integrating text-to-image models from external vendors (OpenAI, Google), strategic partnerships (Databricks), and internal models. We achieve a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, supported by cohesive UX integration into Shutterstock.com and the following machine learning strategies:
+I lead the full stack team delivering Generative AI-powered image creation and editing tools and facilitate the wider community of practice within the department. We have built a profitable credits-based product by integrating text-to-image models from external vendors (e.g. OpenAI, Google, AWS), strategic partnerships (Databricks), and internal models. We achieve a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, supported by cohesive UX integration into Shutterstock.com by following machine learning strategies:
 
 - **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
 
-- **Generative Model Recomendations**: We implemented an automated text-to-image recommendation system that uses user prompts to select the best generators. This increased conversion rates by 10%. We enabled this by doubling the speed of validation using a purpose built traffic routing system.
+- **Generative Model Recomendations**: We implemented an automated text-to-image recommendation system that leverages user prompts and page context to select the best generators. This increased conversion rates by 20%+. We enabled this by doubling the speed of validation using a purpose built traffic routing system which enables  scientists to deploy independently.
 
 - **Safety and Indemnity**: We launched automated moderation mechanisms that achieved ~100% recall in key brand safety areas (e.g., child safety) while maintaining high precision to avoid penalizing non-violating users.
 
@@ -44,10 +44,10 @@ Notable achievements under my leadership:
 - **Aquisition:** Reduced human moderation time for fraudulent image submissions by 75%. Our algorithm automatically identified over 80% of near-duplicate image submissions and screen captures as part of a review recommendation engine.
 
 
-- **Annotation:** Cut manual coding costs by over 60% by upgrading a legacy text-only classification system. Our cross-modality deep learning model increased automated code discovery by over 300%, almost removing the need for manual annotation in core areas.
+- **Annotation:** Cut manual coding costs by over 60% by upgrading a legacy text-only classification system. Our cross-modality deep learning model increased automated code discovery by over 300%,  removing the need for extensive manual annotation in primary survey domains (such as beauty).
 
 
-- **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the process time from over two weeks to just a few days, leading to a company pivot and the launch of a new product, [Streetbees-X](https://www.streetbees.com/SBX).
+- **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the end-to-end client delivery time from over two weeks to days. This has ultimately led to a company pivot and the launch of a new product, [Streetbees-X](https://www.streetbees.com/SBX).
 
 
 **Head of NLP Centre of Excellence**   
@@ -62,7 +62,7 @@ Key accomplishments include:
 
 - **Platform Capabilities:** Developed a GDPR-compliant, multilingual customer feedback search and message routing tool. This platform ingested data from 18 languages across 40 customer touchpoints, consolidating all customer feedback into a single platform.
 
-- **Content Moderation:** Incubated an automated moderation team for product safety issues flagged by customer returns. The tool, based on [state-of-the-art](https://arxiv.org/pdf/2210.14363) research, achieved over 95% recall in flagging unsafe products, expediting their removal with human-in-the-loop escalation to the manual inspection team.
+- **Content Moderation:** Incubated an automated moderation team for product safety issues flagged by the customer returns process. The tool, based on our [state-of-the-art](https://arxiv.org/pdf/2210.14363) research, achieved over 95% recall in flagging unsafe products, expediting their removal with human-in-the-loop escalation to the manual inspection team.
 
 - **Product-Led Scientific Advances:** Developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) for identifying new categories of customer feedback and product risks. We also pioneered a zero-shot classification technique using transformer architecture and contributed to the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project, originally developed by Zalando Research.
 
@@ -121,4 +121,4 @@ Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based
 
 - **Open Water Swimming (Dublin Swimming Club) & Water Polo (Sandycove)**: I'm an active member of Ireland's oldest swimming club Dublin Swimming Club and once a year you will find me swimming Dublin's Liffey, Dun-Loaghaire Harbor, Glendalough and Irelands Eye to Howth (without a wetsuit, but with togs!). I play a little Water-Polo (without horses!) with Sandycove in the Leinster League and my kids.
 
-- **Technology Projects, 3D printing & building actual things** I'm a builder, I enjoy designing and building things tangible things, from Raspberry-PI enabled Halloween gadgets, to customer made 3D printed replacement parts, to hand-designed garden sheds. I also like to attack things with code, such as the site I build for my Dad which leveraged optical character recognition & generative text & image processing to help digitize his [lifes work](https://kevin-brew.github.io/sermons/). I also bake a mean pineapple upside down cake!
+- **Technology Projects, 3D printing & building actual things** I'm a builder, I enjoy designing and building tangible things, from Raspberry-PI enabled Halloween gadgets, to customer made 3D printed replacement parts, to hand-designed garden sheds. I also like to attack things with code, such as the site I build for my Dad which leveraged optical character recognition & generative text & image processing to help digitize his [lifes work](https://kevin-brew.github.io/sermons/). I also bake a mean pineapple upside down cake!
