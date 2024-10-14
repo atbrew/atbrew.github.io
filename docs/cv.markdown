@@ -12,6 +12,8 @@
 
 ***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
+***Recent Technologies:*** <u>AWS:</u>(Sagemaker, Lambdas, EventBridge, ECR), <u>Machine Learning/Big Data/Reporting</u> ( PyTorch, Scikit-learn, Snowflake, Apache Spark, Kafka, MLflow, Streamlit), <u>Web-Stack</u> (Play-Framework, Django, React, Ruby-on-Rails) <u>Deployments:</u> (Jenkins, GitHub Actions, SAM/Cloud-Formation, Terraform) 
+
 <hr/>
 
 **<u>Experience</u>**
@@ -29,7 +31,6 @@ I lead the full stack team delivering Generative AI-powered image creation and e
 - **Generative Model Recomendations**: We implemented an automated text-to-image recommendation system that leverages user prompts and page context to select the best generators. This increased conversion rates by 20%+. We enabled this by doubling the speed of validation using a purpose built traffic routing system which enables  scientists to deploy independently.
 
 - **Safety and Indemnity**: We launched automated moderation mechanisms that achieved ~100% recall in key brand safety areas (e.g., child safety) while maintaining high precision to avoid penalizing non-violating users.
-
 
 **VP of AI & Engineering**  
 ***Streetbees :: London & Lisbon (Remote)***   
@@ -117,8 +118,7 @@ Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based
 - Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003
 - Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
 
-**<u>Hobbies & Errata:</u>**
+***<u>Projects & Courses:</u>***
 
-- **Open Water Swimming (Dublin Swimming Club) & Water Polo (Sandycove)**: I'm an active member of Ireland's oldest swimming club Dublin Swimming Club and once a year you will find me swimming Dublin's Liffey, Dun-Loaghaire Harbor, Glendalough and Ireland's Eye to Howth (without a wetsuit, but with togs!). I play a Water-Polo (without horses!) with Sandycove in the Leinster League and my kids.
-
-- **Technology Projects, 3D printing & building actual things** I'm a builder, I enjoy designing and building tangible things, from Raspberry-PI enabled Halloween gadgets, to custom-made 3D printed replacement parts, to hand-designed garden sheds. I also like to attack things with code, such as the site I build for my Dad which leveraged optical character recognition & generative text & image processing to help digitize his [lifes work](https://kevin-brew.github.io/sermons/). I also bake a mean pineapple upside down cake!
+- *The Automated Anglican*: A automated digitization of my fathers history of sermons leveraging Google Tesseract for OCR, GPT for text correction & summarization and Dalle-3 for image creation served as a Jekyll [website](https://kevin-brew.github.io/) build and hosted by Github. Also made available as an [OpenAI custom GPT](https://chatgpt.com/g/g-iDHn6ujDW-the-automated-anglican) for sermons-on-demand.
+- *Stanford XCS224N - Natural Language Processing with Deep Learning*: Professional [qualification](https://digitalcredential.stanford.edu/check/3A828127FB09EBAE05F96911C5F17B50ABDBD9E899585F6CF02A952DD5D9E6BFUVY4cUNjRzM4QmZLWmtna2FaQVAzejZSUFVMamlBbjRWZ2NoTm4zRUJRSWNtZzFo) from Standford attained in order to bring my 2009 PhD knowledge up to the current state-of-the-art.  
