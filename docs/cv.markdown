@@ -91,6 +91,14 @@ Key accomplishments include:
 
 - **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales significantly enhancing Zalando’s marketing performance. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
+
+**Lecturer : Distributed Systems**  
+*Technical University of Dublin*  
+*2012 & 2013*
+
+Lecturer for final year software development course and masters transistion course focused on distributed systems. Course practical sessions facilitated in both Java and Python. Covering core modern software components such as No SQL (Cassandra), Map Reduce (Hadoop), distributed queuing (Kafka), network communication protocols (e.g. TCP and UDP). 
+
+
 **Senior Applied Scientist**  
 *IBM*  
 *Apr 2012 - Jan 2016*
