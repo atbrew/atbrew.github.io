@@ -12,7 +12,7 @@
 
 ***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
-***Recent Technologies:*** <u>AWS:</u>(Sagemaker, Lambdas, EventBridge, ECR), <u>Machine Learning/Big Data/Reporting</u> ( PyTorch, Scikit-learn, Snowflake, Apache Spark, Kafka, MLflow, Streamlit), <u>Web-Stack</u> (Play-Framework, Django, React, Ruby-on-Rails) <u>Deployments:</u> (Jenkins, GitHub Actions, SAM/Cloud-Formation, Terraform) 
+***Recent Technologies:*** <u>AWS:</u>(Sagemaker, Lambdas, EventBridge, ECR/EC2, EMR), <u>Machine Learning/Big Data</u> ( PyTorch, Scikit-learn, Snowflake, Spark, Flink, Kafka, MLflow), <u>Web-Stack</u> (Play-Framework, Django, React, Ruby-on-Rails, Streamlit) <u>Deployments:</u> (Jenkins, GitHub Actions, SAM/Cloud-Formation, Terraform) 
 
 <hr/>
 
