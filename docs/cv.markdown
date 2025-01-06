@@ -18,7 +18,7 @@
 
 **<u>Experience</u>**
 
-**Director, Generative AI**  
+**Director of Generative AI**  
 ***Shutterstock - Dublin, Ireland***  
 *July 2023 - Present*
 
