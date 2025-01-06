@@ -18,13 +18,13 @@
 
 **<u>Experience</u>**
 
-**Senior Manager, Generative AI**  
+**Director, Generative AI**  
 ***Shutterstock - Dublin, Ireland***  
 *July 2023 - Present*
 
 Shutterstock is a two-sided marketplace that allows contributors to sell images to customers. Generative AI disrupts this business model.
 
-I lead the full stack team delivering Generative AI-powered image creation and editing tools and facilitate the wider community of practice within the department. We have built a profitable credits-based product by integrating text-to-image models from external vendors (e.g. OpenAI, Google, AWS), strategic partnerships (Databricks), and internal models. We achieve a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, supported by cohesive UX integration into Shutterstock.com by following machine learning strategies:
+I lead the technology teams who deliver safe, indemnified Generative AI content at Shutterstock via API and through user interfaces. We are building a profitable credits-based product by integrating multiple models from external vendors (e.g. OpenAI, Google, Amazon) and working with strategic partnerships (Databricks & Nvidia) to build foundational models for different modalities. Our Image generator achieves a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, this is supported by a cohesive UX integration into Shutterstock.com driven by the following machine learning strategies:
 
 - **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
 
