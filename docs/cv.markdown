@@ -2,15 +2,17 @@
 [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
 
 
-**Researcher, engineer, and technology leader** with >20 years of experience across academia, startups, scale-ups, and enterprises. Experience leading and coaching individual contributors, cross-functional teams & managers, enabling small expert units (<10) and multi-department structures (>50) to deliver state-of-the-art AI-enabled product suites while minimizing technical and scientific uncertainty in tandem with continuous customer impact.
+**Technology executive with 20+ years of experience scaling AI-driven products across academia, startups, and global enterprises. Proven success leading cross-functional organizations (10–50+ members) across Generative AI, ML/DS, and software engineering. Specializes in delivering cutting-edge models into production at scale — combining scientific innovation with product thinking, organizational design, and operational excellence. Strategic leader known for reducing uncertainty, accelerating innovation, and delivering measurable customer and business impact.
+
 
 <hr/>
 
 **<u>Overview</u>** 
 
-***Hard Skills:*** Generative AI, Recommender Systems, Automated Content Moderation, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
+**Leadership & Strategic Capabilities:** AI/ML Research Leadership • Cross-Functional Team Management • Product & Program Ownership • Systems Thinking & Design • Strategic Planning & Roadmapping • Agile Execution & Scaling • Stakeholder Alignment across Engineering, Product, and Business
 
-***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
+**Technical Expertise:** Generative AI • Recommender Systems • Automated Content Moderation • Audience Targeting • Text & Image Processing • Classical Machine Learning & Deep Learning • Anomaly Detection & Statistical Process Control • Software Engineering • Distributed Systems Architecture
+
 
 ***Recent Technologies:*** <u>AWS:</u>(Sagemaker, Lambdas, EventBridge, ECR/EC2, EMR), <u>Machine Learning/Big Data</u> ( PyTorch, Scikit-learn, Snowflake, Spark, Flink, Kafka, MLflow), <u>Web-Stack</u> (Play-Framework, Django, React, Ruby-on-Rails, Streamlit) <u>Deployments:</u> (Jenkins, GitHub Actions, SAM/Cloud-Formation, Terraform) 
 
