@@ -2,7 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
 
 
-**Technology executive with 20+ years of experience scaling AI-driven products across academia, startups, and global enterprises. Proven success leading cross-functional organizations (10–50+ members) across Generative AI, ML/DS, and software engineering. Specializes in delivering cutting-edge models into production at scale — combining scientific innovation with product thinking, organizational design, and operational excellence. Strategic leader known for reducing uncertainty, accelerating innovation, and delivering measurable customer and business impact.
+Technology executive with 20+ years of experience scaling AI-driven products across academia, startups, and global enterprises. Proven success leading cross-functional organizations (10–50+ members) across Generative AI, ML/DS, and software engineering. Specializes in delivering cutting-edge models into production at scale — combining scientific innovation with product thinking, organizational design, and operational excellence. Strategic leader known for reducing uncertainty, accelerating innovation, and delivering measurable customer and business impact.
 
 
 <hr/>
