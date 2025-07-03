@@ -18,19 +18,22 @@
 
 **<u>Experience</u>**
 
-**Director of Generative AI**  
-***Shutterstock - Dublin, Ireland***  
-*July 2023 - Present*
+**Senior Director of Generative AI**  
+***Shutterstock – Dublin, Ireland***  
+*July 2023 – Present*
 
-Shutterstock is a two-sided marketplace that allows contributors to sell images to customers. Generative AI disrupts this business model.
+Shutterstock is a global content marketplace where contributors license media assets (images, videos, music) to customers. Generative AI presents both disruption and opportunity to this model.
 
-I lead the technology teams who deliver safe, indemnified Generative AI content at Shutterstock via API and through user interfaces. We are building a profitable credits-based product by integrating multiple models from external vendors (e.g. OpenAI, Google, Amazon) and working with strategic partnerships (Databricks & Nvidia) to build foundational models for different modalities. Our Image generator achieves a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, this is supported by a cohesive UX integration into Shutterstock.com driven by the following machine learning strategies:
+I lead four cross-functional teams responsible for delivering safe, high-performing Generative AI products and data services across Shutterstock’s platform and enterprise offerings. This includes real-time image generation via credits-based APIs, dataset curation for multi-million-dollar licensing deals, and strategic partnerships with OpenAI, Google, Amazon, Databricks, and NVIDIA. Our image generator achieves 70%+ monthly retention and is rapidly gaining market share in stock photography—outpacing other major media categories on the platform.
 
-- **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
+**Key accomplishments:**
 
-- **Generative Model Recomendations**: We implemented an automated text-to-image recommendation system that leverages user prompts and page context to select the best generators. This increased conversion rates by 20%+. We enabled this by doubling the speed of validation using a purpose built traffic routing system which enables  scientists to deploy independently.
+- **Model Performance & Personalization**: Delivered a 30% lift in conversion rates through prompt optimization and dynamic parameter tuning systems. Built a context-aware generator selection framework that automatically chooses the most effective model based on user prompts and page context, boosting conversion by a further 20%+. Enabled independent experimentation by creating a custom traffic-routing infrastructure for ML scientists.
 
-- **Safety and Indemnity**: We launched automated moderation mechanisms that achieved ~100% recall in key brand safety areas (e.g., child safety) while maintaining high precision to avoid penalizing non-violating users.
+- **Safety and Indemnity**: Launched automated moderation pipelines with ~100% recall in critical brand safety categories (e.g., child safety) while maintaining high precision to minimize false positives and protect contributors. Additionally, led the development of computer vision models to detect AI-generated content across image submissions. These systems support the scalability of human moderation workflows, allowing our review team to handle the increasing volume driven by generative content creation.
+
+- **Dataset Delivery & Model Training**: Established and lead a team focused on dataset curation and delivery for enterprise AI clients. Collaboratively built a custom Stable Diffusion model with Databricks by applying targeted fine-tuning techniques and metadata enrichment strategies. This resulted in the creation of qualitatively validated and commercially differentiated data assets used to power downstream training and evaluation pipelines for generative and multimodal AI use cases.
+
 
 **VP of AI & Engineering**  
 ***Streetbees :: London & Lisbon (Remote)***   
