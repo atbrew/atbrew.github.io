@@ -48,7 +48,7 @@ Notable achievements under my leadership:
 - **Annotation:** Cut manual coding costs by over 60% by upgrading a legacy text-only classification system. Our cross-modality deep learning model increased automated code discovery by over 300%,  removing the need for extensive manual annotation in primary survey domains (such as beauty).
 
 
-- **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the end-to-end client delivery time from over two weeks to days. This has ultimately led to a company pivot and the launch of a new product, [Streetbees-X](https://www.streetbees.com/SBX).
+- **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the end-to-end client delivery time from over two weeks to days. This has ultimately led to a company pivot and the launch of a new product, Streetbees-X.
 
 
 **Head of NLP Centre of Excellence**   
