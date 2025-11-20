@@ -104,31 +104,9 @@ After a bit of mishap wiring, I observed when the transistor was on I was drawin
 2. _I need more &#128170;_
 I will need an external power supply to provide enough 0.4 Amps current to the electro-magnet. After trying the strength of the 10kg electro magnet though the perpex chess board top  (using 0.33 Amps) I've decided  I need to beef up to a 25 kg magnet. Both these are now in the post to me ([25 kg electro magnet](https://thepihut.com/products/5v-electromagnet-25-kg-holding-force) & [5v 20A power supply](https://amzn.to/48k6f7Z)).  
 
-# Stepper Motors
+# Servos
+Let's cover servos next week
 
-<img src="/assets/img/content/gpio_pie/28BYJ48-Stepper-Motor-Coil-Structure.png" width="50%">
-
-Stepper motors allow for precise control of rotation, and so provide a precision way to move rails in one direction or another. I happen to have a stepper motor from my old ardunion kit, its a [28BYJ-48 - 5V Stepper Motor](https://components101.com/motors/28byj-48-stepper-motor) It also came with a driver. I also purchased a couple of additional stepper motors and drivers [CX28BYJ48-08](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/?utm_content=cmp-true). Similar to transistors it's pretty cool how these work. 
-
-
-
-28BYJ-48 engine (with gear)
-- torque at the gearbox output: 0.3 kg * cm (0.03 Nm)
-- gear ratio: 64: 1
-- rated voltage: 5V
-- current consumption per coil: 100 mA
-- coil resistance: 50Ω
-- pins: five wires
-- shaft diameter: 5mm with cuts
-- weight: 35g
-- distance between mounting holes: 35mm
-- dimensions: ϕ28 x 19mm (without shaft)
-- cable length: approx. 24 cm
-
-The 28BYJ-48 has two coils, each of which has a center tap. These two center taps are connected internally and brought out as the 5th wire (red wire).
-
-- 15 rotations per minute.
-- Torque :: 34.3 mN.m
 
 ######
 
