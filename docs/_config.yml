@@ -23,16 +23,18 @@ email: atbrew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Anthony Brew.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dontnegmeout.com" # the base hostname & protocol for your site
 
 # Build settings
 #theme: minima
-#theme: bay_jekyll_theme
-remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
+#remote_theme: eliottvincent/bay
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  #- jekyll-remote-theme
+
 
 header:
   pages:
@@ -44,8 +46,6 @@ header:
       slug: /cv
     - name: '✏️ Writing'  # <-- posts.md
       slug: /posts
-    - name: '&#128214; Reading'
-      slug: /links
 
 footer:
   show_powered_by: false

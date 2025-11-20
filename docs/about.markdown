@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 <h1 style="color:red">  HEALTH WARNING </h1>
 <span style="color:red"> I write to think. What's written here is to formalise my thinking. I believe it can help others understand me better and that's why I share it, and by sharing it I spend more time thinking about what I share. This aligns with one of my core principles to **Be who I am 100% of the time**, what you see is what you get! </span>
 
