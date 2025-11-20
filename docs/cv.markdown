@@ -1,5 +1,5 @@
 # Dr. Anthony Brew
-[LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
+**Email:** atbrew@gmail.com | **Tel:** +353 87 917 9799 | [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
 
 
 **Researcher, engineer, and technology leader** with >20 years of experience across academia, startups, scale-ups, and enterprises. Experience leading and coaching individual contributors, cross-functional teams & managers, enabling small expert units (<10) and multi-department structures (>50) to deliver state-of-the-art AI-enabled product suites while minimizing technical and scientific uncertainty in tandem with continuous customer impact.
@@ -18,13 +18,13 @@
 
 **<u>Experience</u>**
 
-**Director of Generative AI**  
+**Senior Manager, Generative AI**  
 ***Shutterstock - Dublin, Ireland***  
 *July 2023 - Present*
 
 Shutterstock is a two-sided marketplace that allows contributors to sell images to customers. Generative AI disrupts this business model.
 
-I lead the technology teams who deliver safe, indemnified Generative AI content at Shutterstock via API and through user interfaces. We are building a profitable credits-based product by integrating multiple models from external vendors (e.g. OpenAI, Google, Amazon) and working with strategic partnerships (Databricks & Nvidia) to build foundational models for different modalities. Our Image generator achieves a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, this is supported by a cohesive UX integration into Shutterstock.com driven by the following machine learning strategies:
+I lead the full stack team delivering Generative AI-powered image creation and editing tools and facilitate the wider community of practice within the department. We have built a profitable credits-based product by integrating text-to-image models from external vendors (e.g. OpenAI, Google, AWS), strategic partnerships (Databricks), and internal models. We achieve a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, supported by cohesive UX integration into Shutterstock.com by following machine learning strategies:
 
 - **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
 
@@ -48,7 +48,7 @@ Notable achievements under my leadership:
 - **Annotation:** Cut manual coding costs by over 60% by upgrading a legacy text-only classification system. Our cross-modality deep learning model increased automated code discovery by over 300%,  removing the need for extensive manual annotation in primary survey domains (such as beauty).
 
 
-- **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the end-to-end client delivery time from over two weeks to days. This has ultimately led to a company pivot and the launch of a new product, Streetbees-X.
+- **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the end-to-end client delivery time from over two weeks to days. This has ultimately led to a company pivot and the launch of a new product, [Streetbees-X](https://www.streetbees.com/SBX).
 
 
 **Head of NLP Centre of Excellence**   
