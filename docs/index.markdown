@@ -1,9 +1,7 @@
 ---
 layout: home
-profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
 ---
+# Hi! 
 
 I'm Dr. Anthony Brew, a technology leader with over 15 years of experience translating AI research into profitable business outcomes across startups, scale-ups, and public companies.
 

@@ -18,3 +18,84 @@ img {
 .container {
     padding: 2px 16px;
 }
+
+/* Create flex layout for body to accommodate floating image */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Make page-content a flex container */
+.page-content {
+    display: flex;
+    flex: 1;
+    position: relative;
+    padding-right: 0 !important;
+}
+
+/* Content wrapper takes remaining space */
+.page-content .wrapper {
+    flex: 1;
+    max-width: 100%;
+    padding-right: 0 !important;
+    margin-right: 320px; /* 300px image + 20px spacing */
+}
+
+/* Floating profile image container - fixed on right, below header */
+.floating-profile-image {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: auto; /* Don't stretch to top */
+    width: 300px;
+    max-height: calc(100vh - 80px); /* Full height minus approximate header height */
+    object-fit: contain;
+    object-position: bottom right;
+    z-index: 100;
+    border-radius: 0;
+}
+
+/* Keep header and footer full width - remove any margin restrictions */
+.site-header,
+.site-footer {
+    width: 100%;
+    max-width: 100%;
+}
+
+.site-header .wrapper,
+.site-footer .wrapper {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 1200px) {
+    .floating-profile-image {
+        width: 200px;
+    }
+    
+    .page-content .wrapper {
+        margin-right: 220px;
+    }
+}
+
+@media (max-width: 768px) {
+    .floating-profile-image {
+        width: 150px;
+    }
+    
+    .page-content .wrapper {
+        margin-right: 170px;
+    }
+}
+
+@media (max-width: 480px) {
+    .floating-profile-image {
+        display: none;
+    }
+    
+    .page-content .wrapper {
+        margin-right: auto;
+    }
+}
