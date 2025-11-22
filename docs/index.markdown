@@ -5,11 +5,15 @@ profile_picture:
   alt: website picture
 ---
 
-<p>I'm <b>Dr. Anthony Brew</b>, an experienced product and technology professional. I'm passionate about enabling teams to collaborate in developing innovative software products in high-uncertainty domains. </p> 
+I'm Dr. Anthony Brew, a technology leader with over 15 years of experience translating AI research into profitable business outcomes across startups, scale-ups, and public companies.
 
-<p>Typically, I have specialised in the specification, development and deployment of systems that leverage machine learning. This has ranged from basic and advanced statistical models (e.g. statistical process control & A/B testing), to predictive systems (e.g. churn prediction and recommender engines) to the latest state of the art in NLP and computer vision (e.g. LLM's and MultiModal classification systems) </p>
+My career has centered on leading teams that build innovative, business-impacting AI-powered software systems that typically require the automation of identifying and mitigating risk at scale or minimizing the need for human oversight. This began with my PhD in anomaly detection and continued at IBM, where I led the development of patented network monitoring systems that automatically surfaced critical issues in IT infrastructure. I've since directed efforts in content moderation and regulatory compliance across multiple domains—establishing human-in-the-loop product safety systems complying with European recall legislation at Zalando, leading technology teams that reduced fraud in open-form survey platforms at a Series B startup, and overseeing the deployment of automated content moderation at Shutterstock that handles the unprecedented volume of AI-generated content.
 
-<p> But above that I'm a Dad to 5 wonderful kids, and lucky to be the husband of an amazing woman (She puts up with me!). </p>
+Throughout my career, I've guided organizations through the critical transition from research exploration to strategic execution. This has included building and scaling cross-functional teams of 50+ across engineering, data science, and product, while maintaining the agility needed to deploy cutting-edge capabilities in rapidly evolving markets. At Zalando, I established and led the NLP Centre of Excellence, where we set the strategic direction for production-ready zero-shot classification systems using transformer architectures—establishing early foundations for today's generative AI landscape.
 
-<p>This website is primarily for <b>my personal use</b>. But you can use it to learn a bit more about <a href="/about">who I am</a>, what I have <a href="/cv">worked on</a> and occasionally I <a href="/posts">ramble</a> about projects I'm working on or things that I'm <a href="links">reading</a></p>
+I focus on enabling teams to navigate from research concepts to measurable business outcomes. My leadership has driven systems that achieved double-digit business improvements, captured significant market share in disrupted industries, and established new revenue streams in generative AI, NLP, computer vision, and recommender systems.
+
+I've worked at all levels, from an individual contributor with a track record of innovation, to leader of teams and business areas, to full technology functions, all the way up to serving on Zalando SE's supervisory board, working alongside major institutional investors and C-suite leaders to provide fiduciary oversight on strategic decisions, investments, and executive governance for one of Europe's largest e-commerce platforms.
+
+I maintain this site to keep my [CV](https://dontnegmeout.com/cv/) up to date, share a little about [who I am](https://dontnegmeout.com/about/) for folks who want to work with me, and as a forever learner to share a little about my most [recent projects & learnings](https://dontnegmeout.com/posts) (when I can).
 
