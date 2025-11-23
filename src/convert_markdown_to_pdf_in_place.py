@@ -12,6 +12,18 @@ def markdown_to_pdf(markdown_file_path, css_file_path=None):
     # Convert the Markdown file to HTML
     with open(markdown_file_path, 'r') as md_file:
         markdown_text = md_file.read()
+        
+        # Remove YAML front matter (content between --- delimiters at the start)
+        if markdown_text.startswith('---'):
+            # Find the closing --- delimiter
+            end_of_frontmatter = markdown_text.find('\n---\n', 3)
+            if end_of_frontmatter != -1:
+                # Skip past the closing --- and newline
+                markdown_text = markdown_text[end_of_frontmatter + 5:]
+        
+        # Remove the first <hr/> or <hr> tag if present
+        markdown_text = markdown_text.replace('<hr/>', '', 1).replace('<hr>', '', 1)
+        
         html_text = markdown2.markdown(markdown_text)
 
     # Read CSS content from all files in the specified directory
