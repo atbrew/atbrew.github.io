@@ -34,7 +34,7 @@ I lead the technology & AI teams who deliver safe, indemnified Generative AI con
 
 - **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
 
-- **Generative Model Recomendations**: We implemented an automated text-to-image recommendation system that leverages user prompts and page context to select the best generators. This increased conversion rates by 20%+. We enabled this by doubling the speed of validation using a purpose built traffic routing system which enables  scientists to deploy independently.
+- **Generative Model Recommendations**: We implemented an automated text-to-image recommendation system that leverages user prompts and page context to select the best generators. This increased conversion rates by 20%+. We enabled this by doubling the speed of validation using a purpose built traffic routing system which enables  scientists to deploy independently.
 
 - **Safety and Indemnity**: We launched automated moderation mechanisms that achieved ~100% recall in key brand safety areas (e.g., child safety) while maintaining high precision to avoid penalizing non-violating users.
 
@@ -48,7 +48,7 @@ I led the technology organization (>50 members), divided into three stream-align
 
 Notable achievements under my leadership:
 
-- **Aquisition:** Reduced human moderation time for fraudulent image submissions by 75%. Our algorithm automatically identified over 80% of near-duplicate image submissions and screen captures as part of a review recommendation engine.
+- **Acquisition:** Reduced human moderation time for fraudulent image submissions by 75%. Our algorithm automatically identified over 80% of near-duplicate image submissions and screen captures as part of a review recommendation engine.
 
 
 - **Annotation:** Cut manual coding costs by over 60% by upgrading a legacy text-only classification system. Our cross-modality deep learning model increased automated code discovery by over 300%,  removing the need for extensive manual annotation in primary survey domains (such as beauty).
@@ -135,4 +135,4 @@ Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based
 ***<u>Projects & Courses:</u>***
 
 - *The Automated Anglican*: A automated digitization of my fathers history of sermons leveraging Google Tesseract for OCR, GPT for text correction & summarization and Dalle-3 for image creation served as a Jekyll [website](https://kevin-brew.github.io/) build and hosted by Github. Also made available as an [OpenAI custom GPT](https://chatgpt.com/g/g-iDHn6ujDW-the-automated-anglican) for sermons-on-demand.
-- *Stanford XCS224N - Natural Language Processing with Deep Learning*: Professional [qualification](https://digitalcredential.stanford.edu/check/3A828127FB09EBAE05F96911C5F17B50ABDBD9E899585F6CF02A952DD5D9E6BFUVY4cUNjRzM4QmZLWmtna2FaQVAzejZSUFVMamlBbjRWZ2NoTm4zRUJRSWNtZzFo) from Standford attained in order to bring my 2009 PhD knowledge up to the current state-of-the-art.  
+- *Stanford XCS224N - Natural Language Processing with Deep Learning*: Professional [qualification](https://digitalcredential.stanford.edu/check/3A828127FB09EBAE05F96911C5F17B50ABDBD9E899585F6CF02A952DD5D9E6BFUVY4cUNjRzM4QmZLWmtna2FaQVAzejZSUFVMamlBbjRWZ2NoTm4zRUJRSWNtZzFo) from Stanford attained in order to bring my 2009 PhD knowledge up to the current state-of-the-art.  
