@@ -29,9 +29,9 @@ permalink: /cv/
 *July 2023 - Present*  
 *Reports to CTO. Org of 27 across 3 product teams (Generative Experience, Public API, Optimisation) plus a Principal Engineering group (peak 40).*
 
-Shutterstock is a two-sided marketplace that allows contributors to sell images to customers. Generative AI disrupts this business model.
+Shutterstock is a two-sided stock-media marketplace; Generative AI both disrupts and extends the business model.
 
-I lead the technology & AI teams who deliver safe, indemnified Generative AI content at Shutterstock via API and through user interfaces. We are building a profitable credits-based product by integrating multiple models from external vendors (e.g. OpenAI, Google, Amazon) and working with strategic partnerships (Databricks & Nvidia) to build foundational models for different modalities. Our Image generator achieves a 70%+ monthly retention rate and are rapidly gaining stock-photography market share. Our growth surpasses other significant media types on Shutterstock, this is supported by a cohesive UX integration into Shutterstock.com driven by the following machine learning strategies:
+I lead the AI and engineering teams delivering safe, indemnified Generative AI through Shutterstock's API and product surfaces — a credits-based product built on vendor models (OpenAI, Google, Amazon) and on foundational models co-developed with strategic partners (Databricks, Nvidia). The Image generator runs at 70%+ monthly retention and is the fastest-growing media type on Shutterstock, supported by three ML strategies:
 
 - **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
 
@@ -44,9 +44,9 @@ I lead the technology & AI teams who deliver safe, indemnified Generative AI con
 *Oct 2021 - July 2023*  
 *Reports to CPTO. Org of 50+ across 3 stream-aligned teams (acquisition, annotation, reporting).*
 
-Streetbees is a Series-B funded AI SaaS service that helps brands like PepsiCo and Unilever understand market trends by aggregating insights from over 3.5 million customers. This is done via an AI-powered mobile chatbot platform that drives open-form surveys, automates survey response annotation, and delivers machine learning-driven market insights.
+Streetbees is a Series-B AI SaaS that helps brands like PepsiCo and Unilever understand markets by aggregating insights from 3.5M+ consumers via an AI chatbot — driving open-form surveys, automating annotation, and producing ML-driven insights.
 
-I led the technology organization (>50 members), divided into three stream-aligned teams: acquisition, annotation, and reporting. Each team included engineering managers, software developers, data scientists, DevOps, QA, and data analysts. I was responsible for the technical and scientific strategy across the organization, ensuring each team could operate autonomously.
+I owned technical and scientific strategy across the organisation, with each stream-aligned team running autonomously.
 
 Notable achievements under my leadership:
 
@@ -64,9 +64,9 @@ Notable achievements under my leadership:
 *Jul 2020 - Oct 2021*  
 *Reports to SVP of Applied Science. Single expert team of 10.*
 
-Zalando established four Centres of AI Excellence to drive innovation across areas such as NLP, Image Processing, Econometrics, and Forecasting. These centres enabled and seeded teams across Zalando with cutting-edge technologies.
+Zalando established four Centres of AI Excellence (NLP, Image Processing, Econometrics, Forecasting) to seed cutting-edge technology into product teams.
 
-I set up and led the NLP Centre of Excellence. I was responsible for the technical, product, and scientific direction of the centre. The team, consisting of 10 senior researchers, product managers, data engineers, and a data analyst, incubated technologies and supported the formation of new product-focused research teams across Zalando.
+I founded and led the NLP CoE — owning technical, product, and scientific direction. The expert team incubated capabilities and seeded new product-focused research teams across Zalando.
 
 Key accomplishments include:
 
@@ -89,9 +89,9 @@ The board was responsible for fiduciary oversight of Zalando. This included maki
 *Jan 2016 - Jul 2020*  
 *Reports to VP of Engineering. Team of 25 across 3 sub-teams (Preference Recommendations, Price Predictions, Cross-Device Graph).*
 
-Zalando, Europe’s largest fashion e-commerce platform, expanded its technical workforce in 2015 by opening new technology hubs in Dublin and Helsinki.
+Zalando, Europe’s largest fashion e-commerce platform, expanded technical capability in 2015 by opening hubs in Dublin and Helsinki.
 
-I was a founding member of the Customer Data Platform and progressed from Senior Scientist to Head of Applied Science. I led a team of 25, including managers, applied scientists, engineers, and product managers, organized into three teams: 1) Customer Preference Recommendations, 2) Customer Price Predictions, and 3) Cross Device Graph. We integrated services across Zalando’s main business units: Lounge, Markets, Zalon, ZMS, and Fashion Store.
+I was a founding member of the Customer Data Platform, progressing from Senior Scientist to Head of Applied Science. The platform served Zalando’s main business units — Lounge, Markets, Zalon, ZMS, and Fashion Store — across customer preference recommendations, price predictions, and cross-device graph.
 
 Key accomplishments include:
 
