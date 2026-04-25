@@ -28,21 +28,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16'  # Specify the Node.js version you want to use
-      - name: Install Roboto
-        run: |
-          npm install @fontsource/roboto  # Install the Roboto font package
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Specify the Python version you need
-      - name: Install wkhtmltopdf
+          python-version: '3.x'
+      - name: Install wkhtmltopdf and Roboto font
         run: |
           sudo apt-get update
-          sudo apt-get install -y wkhtmltopdf
+          sudo apt-get install -y wkhtmltopdf fonts-roboto
       - name: Install Dependencies
         run: |
           pip install markdown2 pdfkit
