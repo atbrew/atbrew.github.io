@@ -66,7 +66,7 @@ Notable achievements under my leadership:
 
 Zalando established four Centres of AI Excellence (NLP, Image Processing, Econometrics, Forecasting) to seed cutting-edge technology into product teams.
 
-I founded and led the NLP CoE, owning technical, product, and scientific direction and the operating model. The expert team incubated capabilities and seeded new product-focused research teams across Zalando.
+I founded and led the NLP CoE, owning the operating model as well as technical, product, and scientific direction. The expert team incubated capabilities and seeded new product-focused research teams across Zalando.
 
 Key accomplishments include:
 
