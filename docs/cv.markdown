@@ -16,7 +16,7 @@ permalink: /cv/
 
 ***Hard Skills:*** Generative AI, Recommender Systems, Automated Content Moderation, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
 
-***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Systems Design, Strategic Planning, Program Management, Agile Methodologies
+***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Executive Stakeholder Engagement, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
 ***Recent Technologies:*** <u>AWS:</u>(Sagemaker, Lambdas, EventBridge, ECR/EC2, EMR), <u>Machine Learning/Big Data</u> ( PyTorch, Scikit-learn, Snowflake, Spark, Flink, Kafka, MLflow), <u>Web-Stack</u> (Play-Framework, Django, React, Ruby-on-Rails, Streamlit) <u>Deployments:</u> (Jenkins, GitHub Actions, SAM/Cloud-Formation, Terraform) 
 
@@ -31,7 +31,7 @@ permalink: /cv/
 
 Shutterstock is a two-sided stock-media marketplace; Generative AI both disrupts and extends the business model.
 
-I lead the AI and engineering teams delivering safe, indemnified Generative AI through Shutterstock's API and product surfaces — a credits-based product built on vendor models (OpenAI, Google, Amazon) and on foundational models co-developed with strategic partners (Databricks, Nvidia). The Image generator runs at 70%+ monthly retention and is the fastest-growing media type on Shutterstock, supported by three ML strategies:
+I lead the AI and engineering organisation delivering safe, indemnified Generative AI through Shutterstock's API and product surfaces, owning the technical, scientific, and operating-model strategy. The credits-based product is built on vendor models (OpenAI, Google, Amazon) and on foundational models co-developed with strategic partners (Databricks, Nvidia). The Image generator runs at 70%+ monthly retention and is the fastest-growing media type on Shutterstock, supported by three ML strategies:
 
 - **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
 
@@ -46,7 +46,7 @@ I lead the AI and engineering teams delivering safe, indemnified Generative AI t
 
 Streetbees is a Series-B AI SaaS that helps brands like PepsiCo and Unilever understand markets by aggregating insights from 3.5M+ consumers via an AI chatbot — driving open-form surveys, automating annotation, and producing ML-driven insights.
 
-I owned technical and scientific strategy across the organisation, with each stream-aligned team running autonomously.
+I owned the technical and scientific strategy and the operating model across the organisation, with each stream-aligned team running autonomously.
 
 Notable achievements under my leadership:
 
@@ -66,7 +66,7 @@ Notable achievements under my leadership:
 
 Zalando established four Centres of AI Excellence (NLP, Image Processing, Econometrics, Forecasting) to seed cutting-edge technology into product teams.
 
-I founded and led the NLP CoE — owning technical, product, and scientific direction. The expert team incubated capabilities and seeded new product-focused research teams across Zalando.
+I founded and led the NLP CoE, owning technical, product, and scientific direction and the operating model. The expert team incubated capabilities and seeded new product-focused research teams across Zalando.
 
 Key accomplishments include:
 
@@ -91,7 +91,7 @@ The board was responsible for fiduciary oversight of Zalando. This included maki
 
 Zalando, Europe’s largest fashion e-commerce platform, expanded technical capability in 2015 by opening hubs in Dublin and Helsinki.
 
-I was a founding member of the Customer Data Platform, progressing from Senior Scientist to Head of Applied Science. The platform served Zalando’s main business units — Lounge, Markets, Zalon, ZMS, and Fashion Store — across customer preference recommendations, price predictions, and cross-device graph.
+I was a founding member of the Customer Data Platform, progressing from Senior Scientist to Head of Applied Science. The platform partnered cross-functionally with Zalando’s main business units — Lounge, Markets, Zalon, ZMS, and Fashion Store — across customer preference recommendations, price predictions, and cross-device graph.
 
 Key accomplishments include:
 
