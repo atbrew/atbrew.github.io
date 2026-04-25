@@ -26,7 +26,8 @@ permalink: /cv/
 
 **Senior Director of Generative AI**  
 ***Shutterstock - Dublin, Ireland***  
-*July 2023 - Present*
+*July 2023 - Present*  
+*Reports to CTO. Org of 27 across 3 product teams (Generative Experience, Public API, Optimisation) plus a Principal Engineering group (peak 40).*
 
 Shutterstock is a two-sided marketplace that allows contributors to sell images to customers. Generative AI disrupts this business model.
 
@@ -40,7 +41,8 @@ I lead the technology & AI teams who deliver safe, indemnified Generative AI con
 
 **VP of AI & Engineering**  
 ***Streetbees :: London & Lisbon (Remote)***   
-*Oct 2021 - July 2023*
+*Oct 2021 - July 2023*  
+*Reports to CPTO. Org of 50+ across 3 stream-aligned teams (acquisition, annotation, reporting).*
 
 Streetbees is a Series-B funded AI SaaS service that helps brands like PepsiCo and Unilever understand market trends by aggregating insights from over 3.5 million customers. This is done via an AI-powered mobile chatbot platform that drives open-form surveys, automates survey response annotation, and delivers machine learning-driven market insights.
 
@@ -59,7 +61,8 @@ Notable achievements under my leadership:
 
 **Head of NLP Centre of Excellence**   
 ***Zalando :: Berlin (Remote)***  
-*Jul 2020 - Oct 2021*
+*Jul 2020 - Oct 2021*  
+*Reports to SVP of Applied Science. Single expert team of 10.*
 
 Zalando established four Centres of AI Excellence to drive innovation across areas such as NLP, Image Processing, Econometrics, and Forecasting. These centres enabled and seeded teams across Zalando with cutting-edge technologies.
 
@@ -83,7 +86,8 @@ The board was responsible for fiduciary oversight of Zalando. This included maki
 
 **Head of Customer Data Platform**  
 *Zalando*  
-*Jan 2016 - Jul 2020*
+*Jan 2016 - Jul 2020*  
+*Reports to VP of Engineering. Team of 25 across 3 sub-teams (Preference Recommendations, Price Predictions, Cross-Device Graph).*
 
 Zalando, Europe’s largest fashion e-commerce platform, expanded its technical workforce in 2015 by opening new technology hubs in Dublin and Helsinki.
 
