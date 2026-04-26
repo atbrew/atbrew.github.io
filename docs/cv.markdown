@@ -8,7 +8,7 @@ permalink: /cv/
 [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
 
 
-**Customer-Focused AI executive, researcher, and engineer** working in AI since 2003 — over 20 years spanning academia, startups, scale-ups, and enterprises. Remains hands-on across the AI stack while leading and coaching individual contributors, cross-functional teams & managers. Enables small expert units (<10) and multi-department structures (>50) to deliver state-of-the-art AI-enabled product suites while minimizing technical and scientific uncertainty in tandem with continuous customer impact.
+**Customer-Focused AI executive, researcher, and engineer.** 20+ years in AI since 2003, across academia, startups, scale-ups, and enterprises. Remains hands-on across the AI stack while leading ICs through managers; scales expert units (<10) to multi-department orgs (>50), shipping state-of-the-art AI products that minimise technical uncertainty alongside continuous customer impact.
 
 <hr/>
 
@@ -26,9 +26,7 @@ permalink: /cv/
 
 **<u>Experience</u>**
 
-**Senior Director of Generative AI**  
-***Shutterstock - Dublin, Ireland***  
-*July 2023 - Present*  
+*July 2023 - Present* :: **Senior Director of Generative AI** :: Shutterstock :: Dublin, Ireland  
 *Reports to CTO. Org of 27 across 3 product teams (Generative Experience, Public API, Optimisation) plus a Principal Engineering group (peak 40).*
 
 Shutterstock is a two-sided stock-media marketplace; Generative AI both disrupts and extends the business model.
@@ -45,9 +43,7 @@ Beyond product, reshaping engineering for the AI-coding era:
 
 - **AI Community of Practice — Agentic Engineering Adoption**: Drove a company-wide AI Community of Practice rollout. Seeded with the "AI(All)ready" early-adopter cohort, scaled via peer mentorship and automated coding standards, culminated in a hackathon. 75% voluntary adoption across engineering; 45 prototypes produced, 16 adopted into the product and technology roadmap.
 
-**VP of AI & Engineering**  
-***Streetbees :: London & Lisbon (Remote)***   
-*Oct 2021 - July 2023*  
+*Oct 2021 - July 2023* :: **VP of AI & Engineering** :: Streetbees :: London & Lisbon (Remote)  
 *Reports to CPTO. Org of 50+ across 3 stream-aligned teams (acquisition, annotation, reporting).*
 
 Streetbees is a Series-B AI SaaS that helps brands like PepsiCo and Unilever understand markets by aggregating insights from 3.5M+ consumers via an AI chatbot — driving open-form surveys, automating annotation, and producing ML-driven insights.
@@ -65,9 +61,7 @@ Notable achievements under my leadership:
 - **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the end-to-end client delivery time from over two weeks to days. This has ultimately led to a company pivot and the launch of a new product, Streetbees-X.
 
 
-**Head of NLP Centre of Excellence**   
-***Zalando :: Berlin (Remote)***  
-*Jul 2020 - Oct 2021*  
+*Jul 2020 - Oct 2021* :: **Head of NLP Centre of Excellence** :: Zalando :: Berlin (Remote)  
 *Reports to SVP of Applied Science. Single expert team of 10.*
 
 Zalando established four Centres of AI Excellence (NLP, Image Processing, Econometrics, Forecasting) to seed cutting-edge technology into product teams.
@@ -82,17 +76,13 @@ Key accomplishments include:
 
 - **Product-Led Scientific Advances:** Developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) for identifying new categories of customer feedback and product risks. We also pioneered a zero-shot classification technique using transformer architecture and contributed to the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project, originally developed by Zalando Research.
 
-**Supervisory Board Member**   
-***Zalando SE***   
-*May 2018 - Jun 2020*
+*May 2018 - Jun 2020* :: **Supervisory Board Member** :: Zalando SE
 
 I served as a member of Zalando's 8-seat supervisory board alongside representatives from Kinnevik, Bestseller Group, Netflix, KPMG, and Rocket Internet, plus two fellow Zalando employee representatives.
 
 Fiduciary oversight covered policy, investments, divestitures, executive promotions and remuneration, plus relationships with strategic investors and key brand partners.
 
-**Head of Customer Data Platform**  
-*Zalando*  
-*Jan 2016 - Jul 2020*  
+*Jan 2016 - Jul 2020* :: **Head of Customer Data Platform** :: Zalando  
 *Reports to VP of Engineering. Team of 25 across 3 sub-teams (Preference Recommendations, Price Predictions, Cross-Device Graph).*
 
 Zalando, Europe’s largest fashion e-commerce platform, expanded technical capability in 2015 by opening hubs in Dublin and Helsinki.
@@ -108,16 +98,12 @@ Key accomplishments include:
 - **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales significantly enhancing Zalando’s marketing performance. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
 
-**Lecturer : Distributed Systems**  
-*Technical University of Dublin*  
-*2012 & 2013*
+*2012 & 2013* :: **Lecturer : Distributed Systems** :: Technical University of Dublin
 
 Lecturer for final year software development course and masters transistion course focused on distributed systems. Course practical sessions facilitated in both Java and Python. Covering core modern software components such as No SQL (Cassandra), Map Reduce (Hadoop), distributed queuing (Kafka), network communication protocols (e.g. TCP and UDP). 
 
 
-**Senior Applied Scientist**  
-*IBM*  
-*Apr 2012 - Jan 2016*
+*Apr 2012 - Jan 2016* :: **Senior Applied Scientist** :: IBM
 
 I was the Lead Applied Scientist in IBM’s SmartCloud division, responsible for inventing, optimizing, and delivering machine learning software to enhance IT network monitoring. I was initially hired to drive machine learning-enabled metrics management and later helped form a new team focused on event analytics.
 
@@ -127,9 +113,7 @@ Key accomplishments include:
 
 - **Metrics Management:** I led a major redesign of the metrics anomaly generation product, improving disk I/O by 1000x (from 3.5 GB to 3.5 MB per 5-minute interval) and processing speed by 40x (from 5 minutes to 7 seconds per interval). The redesign also cut memory use by 2.5x (from 70 GB to 20 GB) and enabled independently testable machine learning extensions. This doubled the system's detection methods, added memory leak detectors, and cut false alerts by 50%.
 
-**Data Scientist / Software Engineer**  
-***Swrve***  
-*June 2011 - Mar 2012*
+*June 2011 - Mar 2012* :: **Data Scientist / Software Engineer** :: Swrve
 
 Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based on tracking event streams. Implemented front-end UX in Ruby & JQuery, backend in Java with a Redis, Cassandra, and MySQL storage layer, hosted on Amazon EC2.
 
