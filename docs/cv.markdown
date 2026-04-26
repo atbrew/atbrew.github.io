@@ -33,7 +33,7 @@ permalink: /cv/
 
 Shutterstock is a two-sided stock-media marketplace; Generative AI both disrupts and extends the business model.
 
-Image generator at 70%+ monthly retention; fastest-growing media on Shutterstock. I own strategy for safe, indemnified GenAI on vendor models (OpenAI, Google, Amazon), with foundational models previously co-built with Databricks and Nvidia. Three product pillars:
+Image generator at 70%+ monthly retention; fastest-growing media on Shutterstock. I own technical strategy for safe, indemnified GenAI on vendor models (OpenAI, Google, Black Forest Labs, ByteDance, and others), with foundational models previously co-built with Databricks and Nvidia. Three product pillars:
 
 - **Generative Model Optimisation & Recommendation**: LinUCB contextual bandit picks the best generator from user prompt and page context, learning from clicks. +20% over baseline, +30% on vendor models. Purpose-built traffic-routing doubled scientist deploy velocity.
 
