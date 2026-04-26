@@ -8,17 +8,19 @@ permalink: /cv/
 [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Publications](https://scholar.google.com/citations?user=zOlmrNIAAAAJ&hl=en&oi=ao) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
 
 
-**Researcher, engineer, and technology leader** with >20 years of experience across academia, startups, scale-ups, and enterprises. Experience leading and coaching individual contributors, cross-functional teams & managers, enabling small expert units (<10) and multi-department structures (>50) to deliver state-of-the-art AI-enabled product suites while minimizing technical and scientific uncertainty in tandem with continuous customer impact.
+**AI executive, researcher, and engineer** working in AI since 2003 — over 20 years spanning academia, startups, scale-ups, and enterprises. Experience leading and coaching individual contributors, cross-functional teams & managers, enabling small expert units (<10) and multi-department structures (>50) to deliver state-of-the-art AI-enabled product suites while minimizing technical and scientific uncertainty in tandem with continuous customer impact.
 
 <hr/>
 
-**<u>Overview</u>** 
+**<u>Overview</u>**
 
-***Hard Skills:*** Generative AI, Recommender Systems, Automated Content Moderation, Audience Targeting,Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems,      
+***Highlights:*** Inventor on 16 patents · Zalando SE Supervisory Board (2018-2020) · Stanford XCS224N — Natural Language Processing with Deep Learning (2024)
+
+***Hard Skills:*** Generative AI, LLMs & Agentic Systems, Model Context Protocol (MCP), AI Gateway Orchestration, Recommender Systems & Contextual Bandits, AI Content Authenticity, Automated Content Moderation, Audience Targeting, Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems      
 
 ***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Executive Stakeholder Engagement, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
-***Recent Technologies:*** <u>AWS:</u>(Sagemaker, Lambdas, EventBridge, ECR/EC2, EMR), <u>Machine Learning/Big Data</u> ( PyTorch, Scikit-learn, Snowflake, Spark, Flink, Kafka, MLflow), <u>Web-Stack</u> (Play-Framework, Django, React, Ruby-on-Rails, Streamlit) <u>Deployments:</u> (Jenkins, GitHub Actions, SAM/Cloud-Formation, Terraform) 
+***Recent Technologies:*** <u>AI/LLM:</u> (OpenAI, Google Gemini, multi-vendor APIs orchestrated via internal Gateway, Model Context Protocol (MCP), Agentic Code Review tooling), <u>AWS:</u> (Sagemaker, Lambdas, EventBridge, ECR/EC2, EMR), <u>Machine Learning/Big Data</u> (PyTorch, Scikit-learn, Snowflake, Spark, Flink, Kafka, MLflow), <u>Web-Stack</u> (Play-Framework, Django, React, Ruby-on-Rails, Streamlit), <u>Deployments:</u> (Jenkins, GitHub Actions, SAM/Cloud-Formation, Terraform) 
 
 <hr/>
 
