@@ -33,13 +33,17 @@ permalink: /cv/
 
 Shutterstock is a two-sided stock-media marketplace; Generative AI both disrupts and extends the business model.
 
-I lead the AI and engineering organisation delivering safe, indemnified Generative AI through Shutterstock's API and product surfaces, owning the technical, scientific, and operating-model strategy. The credits-based product is built on vendor models (OpenAI, Google, Amazon) and on foundational models co-developed with strategic partners (Databricks, Nvidia). The Image generator runs at 70%+ monthly retention and is the fastest-growing media type on Shutterstock, supported by three ML strategies:
+Image generator at 70%+ monthly retention; fastest-growing media on Shutterstock. I own strategy for safe, indemnified GenAI on vendor models (OpenAI, Google, Amazon), with foundational models previously co-built with Databricks and Nvidia. Three product pillars:
 
-- **Generative Model Optimization**: We developed automated prompt refinement and parameter selection techniques, improving conversion rates by 30% on vendor-supplied models.
+- **Generative Model Optimisation & Recommendation**: LinUCB contextual bandit picks the best generator from user prompt and page context, learning from clicks. +20% over baseline, +30% on vendor models. Purpose-built traffic-routing doubled scientist deploy velocity.
 
-- **Generative Model Recommendations**: We implemented an automated text-to-image recommendation system that leverages user prompts and page context to select the best generators. This increased conversion rates by 20%+. We enabled this by doubling the speed of validation using a purpose built traffic routing system which enables  scientists to deploy independently.
+- **AI Gateway, Public API & MCP — the orchestration spine**: My teams build the unified AI Gateway and Public API/MCP — the spine for AI across Shutterstock. Routes all third-party calls (OpenAI, Google, others) under one governance layer; runs every AI PR review. Our API-first approach exposes Recommendations and Safety as agent-addressable, powering the Shutterstock Generative Experience, the official Shutterstock app in ChatGPT, and chat-based search — ready for broader consumption.
 
-- **Safety and Indemnity**: We launched automated moderation mechanisms that achieved ~100% recall in key brand safety areas (e.g., child safety) while maintaining high precision to avoid penalizing non-violating users.
+- **Safety, Indemnity & Content Authenticity**: Moderation underpins customer indemnity on commercial use of generated assets. Decision automation: 0% → ~60% of Image assets; Video rollout underway. Brand-safety pillars (e.g. child safety) hold ~100% recall at production precision. State-of-the-art AI-content detector distinguishes camera-captured from algorithm-generated content — load-bearing for indemnity decisions and customer trust signals.
+
+Beyond product, reshaping engineering for the AI-coding era:
+
+- **AI Community of Practice — Agentic Engineering Adoption**: Drove a company-wide AI Community of Practice rollout. Seeded with the "AI(All)ready" early-adopter cohort, scaled via peer mentorship and automated coding standards, culminated in a hackathon. 75% voluntary adoption across engineering; 45 prototypes produced, 16 roadmap-ready and adopted into the product and technology roadmap.
 
 **VP of AI & Engineering**  
 ***Streetbees :: London & Lisbon (Remote)***   
