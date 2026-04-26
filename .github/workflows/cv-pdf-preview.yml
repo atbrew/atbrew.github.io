@@ -28,10 +28,10 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install wkhtmltopdf
+      - name: Install wkhtmltopdf and Roboto font
         run: |
           sudo apt-get update
-          sudo apt-get install -y wkhtmltopdf
+          sudo apt-get install -y wkhtmltopdf fonts-roboto
 
       - name: Install Python dependencies
         run: pip install markdown2 pdfkit
