@@ -8,7 +8,7 @@ permalink: /cv/
 [LinkedIn](https://www.linkedin.com/in/anthonybrew/) | [Patents](https://patents.google.com/?inventor=anthony+brew&status=GRANT) | [Personal Website](http://dontnegmeout.com/cv) | [CV](http://dontnegmeout.com/cv.pdf)
 
 
-**Customer-Focused AI executive, researcher, and engineer.** 20+ years in AI since 2003, across academia, startups, scale-ups, and enterprises. Remains hands-on across the AI and engineering stacks while leading ICs through managers; scales expert units (<10) to multi-department orgs (>50), shipping state-of-the-art AI products that minimise technical uncertainty alongside continuous customer impact.
+**Customer-Focused AI executive, researcher, and engineer.** 20+ years in AI since 2003, across academia, startups, scale-ups, and enterprises. Remains hands-on across the AI and engineering stacks while leading principal-level ICs and managers; scales expert units (<10) to multi-department orgs (>50), shipping state-of-the-art AI products that minimise technical uncertainty alongside continuous customer impact.
 
 <hr/>
 
