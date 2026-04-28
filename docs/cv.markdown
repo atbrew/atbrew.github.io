@@ -86,9 +86,9 @@ Key accomplishments include:
 ***Zalando SE***   
 *May 2018 - Jun 2020*
 
-I served as a member of Zalando's 8-seat supervisory board, working alongside key shareholder representatives including Cristina Stenbeck (Kinnevik), Anders Holch Povlsen (CEO of Bestseller Group), Kelly Bennett (CMO of Netflix), Mariella Röhm-Kottmann (KPMG), Alexander Samwer (Rocket Internet), and fellow Zalando employees Konrad Schäfers and Beate Siert.
+I served as a member of Zalando's 8-seat supervisory board alongside representatives from Kinnevik, Bestseller Group, Netflix, KPMG, and Rocket Internet, plus two fellow Zalando employee representatives.
 
-The board was responsible for fiduciary oversight of Zalando. This included making decisions on significant policy changes, investments, divestitures, executive promotions, remuneration, and managing relationships with strategic investors and key brand partners.
+Fiduciary oversight covered policy, investments, divestitures, executive promotions and remuneration, plus relationships with strategic investors and key brand partners.
 
 **Head of Customer Data Platform**  
 *Zalando*  
