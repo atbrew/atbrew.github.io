@@ -97,12 +97,6 @@ Key accomplishments include:
 
 - **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales significantly enhancing Zalando’s marketing performance. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
-
-*2012 & 2013* :: **Lecturer : Distributed Systems** :: Technical University of Dublin
-
-Lecturer for final year software development course and masters transistion course focused on distributed systems. Course practical sessions facilitated in both Java and Python. Covering core modern software components such as No SQL (Cassandra), Map Reduce (Hadoop), distributed queuing (Kafka), network communication protocols (e.g. TCP and UDP). 
-
-
 *April 2012 - January 2016* :: **Senior Applied Scientist** :: IBM
 
 I was the Lead Applied Scientist in IBM’s SmartCloud division, responsible for inventing, optimizing, and delivering machine learning software to enhance IT network monitoring. I was initially hired to drive machine learning-enabled metrics management and later helped form a new team focused on event analytics.
@@ -112,10 +106,6 @@ Key accomplishments include:
 - **Event Analytics:** As part of a two-person discovery team, I co-developed new event analytics capabilities that helped protect IBM from immediate competitive threats. With market traction, I expanded the team to 14 contributors across the USA, UK, and Ireland. We covered design, UX, engineering, and applied science. I co-invented 16 patents in event analytics, reducing client workloads by 30% and decreasing Mean Time to Repair (MTTR) by 10%.
 
 - **Metrics Management:** I led a major redesign of the metrics anomaly generation product, improving disk I/O by 1000x (from 3.5 GB to 3.5 MB per 5-minute interval) and processing speed by 40x (from 5 minutes to 7 seconds per interval). The redesign also cut memory use by 2.5x (from 70 GB to 20 GB) and enabled independently testable machine learning extensions. This doubled the system's detection methods, added memory leak detectors, and cut false alerts by 50%.
-
-*June 2011 - March 2012* :: **Data Scientist / Software Engineer** :: Swrve
-
-Developed Swrve's SaaS A/B testing engine and implemented tracking metrics based on tracking event streams. Implemented front-end UX in Ruby & JQuery, backend in Java with a Redis, Cassandra, and MySQL storage layer, hosted on Amazon EC2.
 
 <hr/>
 
