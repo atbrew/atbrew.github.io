@@ -14,7 +14,7 @@ permalink: /cv/
 
 **<u>Overview</u>**
 
-***Highlights:*** Ph.D. Machine Learning (16 publications) · M.Sc High Performance Computing · Inventor on 16 patents · Zalando SE Supervisory Board (2018-2020) · Stanford XCS224N — Natural Language Processing with Deep Learning (2024)
+***Highlights:*** Ph.D. Machine Learning (16 publications) · M.Sc High Performance Computing · Inventor on 16 patents · University Mathematics Tutor (Trinity College Dublin) · Zalando SE Supervisory Board (2018-2020) · Stanford XCS224N — Natural Language Processing with Deep Learning (2024)
 
 ***Hard Skills:*** Generative AI, LLMs & Agentic Systems, Model Context Protocol (MCP), AI Gateway Orchestration, Recommender Systems & Contextual Bandits, AI Content Authenticity, Automated Content Moderation, Audience Targeting, Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems
 
@@ -106,6 +106,14 @@ Key accomplishments include:
 - **Event Analytics:** As part of a two-person discovery team, I co-developed new event analytics capabilities that helped protect IBM from immediate competitive threats. With market traction, I expanded the team to 14 contributors across the USA, UK, and Ireland. We covered design, UX, engineering, and applied science. I co-invented 16 patents in event analytics, reducing client workloads by 30% and decreasing Mean Time to Repair (MTTR) by 10%.
 
 - **Metrics Management:** I led a major redesign of the metrics anomaly generation product, improving disk I/O by 1000x (from 3.5 GB to 3.5 MB per 5-minute interval) and processing speed by 40x (from 5 minutes to 7 seconds per interval). The redesign also cut memory use by 2.5x (from 70 GB to 20 GB) and enabled independently testable machine learning extensions. This doubled the system's detection methods, added memory leak detectors, and cut false alerts by 50%.
+
+**<u>Early Career</u>**
+
+*June 2011 - March 2012* :: **Data Scientist** :: Swrve — A/B testing engine and event-stream analytics for mobile gaming
+
+*October 2004 - October 2006* :: **Application Developer** :: Murex — software modules for the Murex Limits Controller (financial risk)
+
+*February 2004 - October 2004* :: **Open Source Software Consultant** :: OpenApp
 
 <hr/>
 
