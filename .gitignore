@@ -1,3 +1,6 @@
 /node_modules/
 /package-lock.json
 /package.json
+
+# MCP server configs are personal-machine-only — not for the public repo
+.mcp.json
