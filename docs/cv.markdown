@@ -46,35 +46,25 @@ Beyond product, reshaping engineering for the AI-coding era:
 <u>**VP of AI & Engineering** :: Streetbees :: London & Lisbon (Remote) :: *October 2021 - July 2023*</u>  
 *Reports to CPTO. Org of 50+ across 3 stream-aligned teams (acquisition, annotation, reporting).*
 
-Streetbees is a Series-B AI SaaS that helps brands like PepsiCo and Unilever understand markets by aggregating insights from 3.5M+ consumers via an AI chatbot — driving open-form surveys, automating annotation, and producing ML-driven insights.
+Series-B AI SaaS — PepsiCo, Unilever, and others use 3.5M+ consumer insights via AI chatbot to understand markets. Owned technical and scientific strategy and operating model; teams ran autonomously.
 
-I owned the technical and scientific strategy and the operating model across the organisation, with each stream-aligned team running autonomously.
+- **Acquisition:** 75% reduction in human moderation for fraudulent submissions. Algorithm auto-identified 80%+ near-duplicate images and screen captures via a review recommendation engine.
 
-Notable achievements under my leadership:
+- **Annotation:** Cut manual coding costs 60%+ by replacing a text-only classifier with a cross-modality deep learning model. +300% automated code discovery; removed manual annotation in primary domains (e.g. beauty).
 
-- **Acquisition:** Reduced human moderation time for fraudulent image submissions by 75%. Our algorithm automatically identified over 80% of near-duplicate image submissions and screen captures as part of a review recommendation engine.
-
-
-- **Annotation:** Cut manual coding costs by over 60% by upgrading a legacy text-only classification system. Our cross-modality deep learning model increased automated code discovery by over 300%,  removing the need for extensive manual annotation in primary survey domains (such as beauty).
-
-
-- **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the end-to-end client delivery time from over two weeks to days. This has ultimately led to a company pivot and the launch of a new product, Streetbees-X.
+- **Reporting:** Fully automated survey curation, delivery, and report creation using GPT-3. Client delivery: weeks → days. Led to a company pivot and launch of Streetbees-X.
 
 
 <u>**Head of NLP Centre of Excellence** :: Zalando :: Berlin (Remote) :: *July 2020 - October 2021*</u>  
 *Reports to SVP of Applied Science. Single expert team of 10.*
 
-Zalando established four Centres of AI Excellence (NLP, Image Processing, Econometrics, Forecasting) to seed cutting-edge technology into product teams.
+Founded and led one of Zalando's four AI Centres of Excellence (NLP, Image Processing, Econometrics, Forecasting). Owned operating model, technical, product, and scientific direction. Incubated capabilities and seeded new product-focused research teams.
 
-I founded and led the NLP CoE, owning the operating model as well as technical, product, and scientific direction. The expert team incubated capabilities and seeded new product-focused research teams across Zalando.
+- **Platform Capabilities:** GDPR-compliant multilingual feedback search and routing tool. 18 languages, 40 customer touchpoints consolidated into one platform.
 
-Key accomplishments include:
+- **Content Moderation:** Incubated automated moderation for product safety via [state-of-the-art](https://arxiv.org/pdf/2210.14363) research. 95%+ recall in flagging unsafe products with human-in-the-loop escalation.
 
-- **Platform Capabilities:** Developed a GDPR-compliant, multilingual customer feedback search and message routing tool. This platform ingested data from 18 languages across 40 customer touchpoints, consolidating all customer feedback into a single platform.
-
-- **Content Moderation:** Incubated an automated moderation team for product safety issues flagged by the customer returns process. The tool, based on our [state-of-the-art](https://arxiv.org/pdf/2210.14363) research, achieved over 95% recall in flagging unsafe products, expediting their removal with human-in-the-loop escalation to the manual inspection team.
-
-- **Product-Led Scientific Advances:** Developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) for identifying new categories of customer feedback and product risks. We also pioneered a zero-shot classification technique using transformer architecture and contributed to the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project, originally developed by Zalando Research.
+- **Product-Led Scientific Advances:** [Novel text clustering](https://arxiv.org/abs/2212.00086) for new feedback and risk categories. Pioneered zero-shot classification on transformers; contributed to [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project (Zalando Research).
 
 <u>**Supervisory Board Member** :: Zalando SE :: *May 2018 - June 2020*</u>
 
@@ -85,27 +75,21 @@ Fiduciary oversight covered policy, investments, divestitures, executive promoti
 <u>**Head of Customer Data Platform** :: Zalando :: *January 2016 - July 2020*</u>  
 *Reports to VP of Engineering. Team of 25 across 3 sub-teams (Preference Recommendations, Price Predictions, Cross-Device Graph).*
 
-Zalando, Europe’s largest fashion e-commerce platform, expanded technical capability in 2015 by opening hubs in Dublin and Helsinki.
+Founding member of the Customer Data Platform, progressing from Senior Scientist to Head of Applied Science. Cross-functional partnership with Zalando’s main business units (Lounge, Markets, Zalon, ZMS, Fashion Store).
 
-I was a founding member of the Customer Data Platform, progressing from Senior Scientist to Head of Applied Science. The platform partnered cross-functionally with Zalando’s main business units — Lounge, Markets, Zalon, ZMS, and Fashion Store — across customer preference recommendations, price predictions, and cross-device graph.
+- **Customer Preference Recommendations:** Fashion attribute recommendations (category, brand, price) powered preference collection, carousels, personalised navigation, newsletters, and offsite ads. Double-digit A/B test improvements over existing solutions.
 
-Key accomplishments include:
+- **Audience Targeting:** Predictive audience tools (ZMS, Zalon, Markets) achieved 40x over legacy in early campaigns. Drove client retention externally, deeper market penetration internally.
 
-- **Customer Preference Recommendations:** Our fashion attribute recommendation services, including category, brand, and price, powered customer preference collection, recommendation carousels, personalised navigation, gift card recommendations, newsletters, and offsite targeted advertising. These integrations drove double-digit improvements in A/B tests over existing solutions.
-
-- **Audience Targeting:** Our predictive audience generation tools, used by ZMS, Zalon, and Markets, achieved up to 40x performance over legacy systems in early campaigns which externally drove client retention (ZMS) and internally enabled deeper market penetration (Zalon & Markets).
-
-- **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales significantly enhancing Zalando’s marketing performance. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
+- **Cross-Device Graph:** Replaced the marketing team’s user association model. +40% attributed sales. Integrated into A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
 <u>**Senior Applied Scientist** :: IBM :: *April 2012 - January 2016*</u>
 
-I was the Lead Applied Scientist in IBM’s SmartCloud division, responsible for inventing, optimising, and delivering machine learning software to enhance IT network monitoring. I was initially hired to drive machine learning-enabled metrics management and later helped form a new team focused on event analytics.
+Lead Applied Scientist in IBM’s SmartCloud division. Invented, optimised, and delivered ML software for IT network monitoring. Started on metrics management; formed a new event analytics team.
 
-Key accomplishments include:
+- **Event Analytics:** Co-developed from a 2-person discovery team to 14 contributors across USA, UK, Ireland (design, UX, engineering, applied science). 16 co-invented patents. Reduced client workloads 30%, MTTR 10%.
 
-- **Event Analytics:** As part of a two-person discovery team, I co-developed new event analytics capabilities that helped protect IBM from immediate competitive threats. With market traction, I expanded the team to 14 contributors across the USA, UK, and Ireland. We covered design, UX, engineering, and applied science. I co-invented 16 patents in event analytics, reducing client workloads by 30% and decreasing Mean Time to Repair (MTTR) by 10%.
-
-- **Metrics Management:** I led a major redesign of the metrics anomaly generation product, improving disk I/O by 1000x (from 3.5 GB to 3.5 MB per 5-minute interval) and processing speed by 40x (from 5 minutes to 7 seconds per interval). The redesign also cut memory use by 2.5x (from 70 GB to 20 GB) and enabled independently testable machine learning extensions. This doubled the system's detection methods, added memory leak detectors, and cut false alerts by 50%.
+- **Metrics Management:** Redesigned the metrics anomaly product: 1000x I/O improvement (3.5 GB → 3.5 MB), 40x speed-up (5 min → 7 sec), 2.5x memory reduction (70 GB → 20 GB). Doubled detection methods, added memory leak detectors, cut false alerts 50%.
 
 **<u>Early Career</u>**
 
