@@ -20,13 +20,13 @@ permalink: /cv/
 
 ***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Executive Stakeholder Engagement, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
-***Recent Technologies:*** <u>AI/LLM:</u> (OpenAI, Google Gemini, multi-vendor APIs orchestrated via internal Gateway, Model Context Protocol (MCP), Agentic Code Review tooling), <u>AWS:</u> (Sagemaker, Lambdas, EventBridge, ECR/EC2, EMR), <u>Machine Learning/Big Data:</u> (PyTorch, Scikit-learn, Snowflake, Spark, Flink, Kafka, MLflow), <u>Web-Stack:</u> (Play-Framework, Django, React, Ruby-on-Rails, Streamlit), <u>Deployments:</u> (Jenkins, GitHub Actions, SAM/Cloud-Formation, Terraform)
+***Recent Technologies:*** OpenAI, Google Gemini, MCP, PyTorch, Snowflake, Spark, Kafka, MLflow, AWS (Sagemaker, Lambda), Terraform, GitHub Actions
 
 <hr/>
 
 **<u>Experience</u>**
 
-*July 2023 - Present* :: **Senior Director of Generative AI** :: Shutterstock :: Dublin, Ireland  
+<u>**Senior Director of Generative AI** :: Shutterstock :: Dublin, Ireland :: *July 2023 - Present*</u>  
 *Reports to CTO. Org of 27 across 3 product teams (Generative Experience, Public API, Optimisation) plus a Principal Engineering group (peak 40).*
 
 Shutterstock is a two-sided stock-media marketplace; Generative AI both disrupts and extends the business model.
@@ -43,7 +43,7 @@ Beyond product, reshaping engineering for the AI-coding era:
 
 - **AI Community of Practice — Agentic Engineering Adoption**: Drove a company-wide AI Community of Practice rollout. Seeded with the "AI(All)ready" early-adopter cohort, scaled via peer mentorship and automated coding standards, culminated in a hackathon. 75% voluntary adoption across engineering; 45 prototypes produced, 16 adopted into the product and technology roadmap.
 
-*October 2021 - July 2023* :: **VP of AI & Engineering** :: Streetbees :: London & Lisbon (Remote)  
+<u>**VP of AI & Engineering** :: Streetbees :: London & Lisbon (Remote) :: *October 2021 - July 2023*</u>  
 *Reports to CPTO. Org of 50+ across 3 stream-aligned teams (acquisition, annotation, reporting).*
 
 Streetbees is a Series-B AI SaaS that helps brands like PepsiCo and Unilever understand markets by aggregating insights from 3.5M+ consumers via an AI chatbot — driving open-form surveys, automating annotation, and producing ML-driven insights.
@@ -61,7 +61,7 @@ Notable achievements under my leadership:
 - **Reporting:**  Fully automated the survey curation, delivery, and research report creation using GPT-3. This innovation cut the end-to-end client delivery time from over two weeks to days. This has ultimately led to a company pivot and the launch of a new product, Streetbees-X.
 
 
-*July 2020 - October 2021* :: **Head of NLP Centre of Excellence** :: Zalando :: Berlin (Remote)  
+<u>**Head of NLP Centre of Excellence** :: Zalando :: Berlin (Remote) :: *July 2020 - October 2021*</u>  
 *Reports to SVP of Applied Science. Single expert team of 10.*
 
 Zalando established four Centres of AI Excellence (NLP, Image Processing, Econometrics, Forecasting) to seed cutting-edge technology into product teams.
@@ -76,13 +76,13 @@ Key accomplishments include:
 
 - **Product-Led Scientific Advances:** Developed [novel text clustering techniques](https://arxiv.org/abs/2212.00086) for identifying new categories of customer feedback and product risks. We also pioneered a zero-shot classification technique using transformer architecture and contributed to the [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project, originally developed by Zalando Research.
 
-*May 2018 - June 2020* :: **Supervisory Board Member** :: Zalando SE
+<u>**Supervisory Board Member** :: Zalando SE :: *May 2018 - June 2020*</u>
 
 I served as a member of Zalando's 8-seat supervisory board alongside representatives from Kinnevik, Bestseller Group, Netflix, KPMG, and Rocket Internet, plus two fellow Zalando employee representatives.
 
 Fiduciary oversight covered policy, investments, divestitures, executive promotions and remuneration, plus relationships with strategic investors and key brand partners.
 
-*January 2016 - July 2020* :: **Head of Customer Data Platform** :: Zalando  
+<u>**Head of Customer Data Platform** :: Zalando :: *January 2016 - July 2020*</u>  
 *Reports to VP of Engineering. Team of 25 across 3 sub-teams (Preference Recommendations, Price Predictions, Cross-Device Graph).*
 
 Zalando, Europe’s largest fashion e-commerce platform, expanded technical capability in 2015 by opening hubs in Dublin and Helsinki.
@@ -97,7 +97,7 @@ Key accomplishments include:
 
 - **Cross-Device Graph:** Our cross-device graph improved advertising attribution by replacing the marketing team’s user association model. This led to a 40% increase in attributed sales significantly enhancing Zalando’s marketing performance. We also integrated this system into Zalando’s A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
-*April 2012 - January 2016* :: **Senior Applied Scientist** :: IBM
+<u>**Senior Applied Scientist** :: IBM :: *April 2012 - January 2016*</u>
 
 I was the Lead Applied Scientist in IBM’s SmartCloud division, responsible for inventing, optimising, and delivering machine learning software to enhance IT network monitoring. I was initially hired to drive machine learning-enabled metrics management and later helped form a new team focused on event analytics.
 
@@ -109,11 +109,11 @@ Key accomplishments include:
 
 **<u>Early Career</u>**
 
-*June 2011 - March 2012* :: **Data Scientist** :: Swrve — A/B testing engine and event-stream analytics for mobile gaming
+<u>**Data Scientist** :: Swrve :: *June 2011 - March 2012*</u> — A/B testing engine and event-stream analytics for mobile gaming
 
-*October 2004 - October 2006* :: **Application Developer** :: Murex — software modules for the Murex Limits Controller (financial risk)
+<u>**Application Developer** :: Murex :: *October 2004 - October 2006*</u> — software modules for the Murex Limits Controller (financial risk)
 
-*February 2004 - October 2004* :: **Open Source Software Consultant** :: OpenApp
+<u>**Open Source Software Consultant** :: OpenApp :: *February 2004 - October 2004*</u>
 
 <hr/>
 
@@ -122,9 +122,5 @@ Key accomplishments include:
 - University College Dublin, Post Doc, Machine Learning :: Commercialisation; 2010 - 2011
 - University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010
 - Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003
-- Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
+- Trinity College Dublin, B.A. (Mod./Honours) :: Mathematics, 1998 - 2002
 
-***<u>Projects & Courses:</u>***
-
-- *The Automated Anglican*: A automated digitisation of my fathers history of sermons leveraging Google Tesseract for OCR, GPT for text correction & summarisation and Dalle-3 for image creation served as a Jekyll [website](https://kevin-brew.github.io/) build and hosted by Github. Also made available as an [OpenAI custom GPT](https://chatgpt.com/g/g-iDHn6ujDW-the-automated-anglican) for sermons-on-demand.
-- *Stanford XCS224N - Natural Language Processing with Deep Learning*: Professional [qualification](https://digitalcredential.stanford.edu/check/3A828127FB09EBAE05F96911C5F17B50ABDBD9E899585F6CF02A952DD5D9E6BFUVY4cUNjRzM4QmZLWmtna2FaQVAzejZSUFVMamlBbjRWZ2NoTm4zRUJRSWNtZzFo) from Stanford attained in order to bring my 2009 PhD knowledge up to the current state-of-the-art.  
