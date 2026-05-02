@@ -91,7 +91,7 @@ I was a founding member of the Customer Data Platform, progressing from Senior S
 
 Key accomplishments include:
 
-- **Customer Preference Recommendations:** Our fashion attribute recommendation services, including category, brand, and price, powered customer preference collection, recommendation carousels, personalized navigation, gift card recommendations, newsletters, and offsite targeted advertising. These integrations drove double-digit improvements in A/B tests over existing solutions.
+- **Customer Preference Recommendations:** Our fashion attribute recommendation services, including category, brand, and price, powered customer preference collection, recommendation carousels, personalised navigation, gift card recommendations, newsletters, and offsite targeted advertising. These integrations drove double-digit improvements in A/B tests over existing solutions.
 
 - **Audience Targeting:** Our predictive audience generation tools, used by ZMS, Zalon, and Markets, achieved up to 40x performance over legacy systems in early campaigns which externally drove client retention (ZMS) and internally enabled deeper market penetration (Zalon & Markets).
 
@@ -99,7 +99,7 @@ Key accomplishments include:
 
 *April 2012 - January 2016* :: **Senior Applied Scientist** :: IBM
 
-I was the Lead Applied Scientist in IBM’s SmartCloud division, responsible for inventing, optimizing, and delivering machine learning software to enhance IT network monitoring. I was initially hired to drive machine learning-enabled metrics management and later helped form a new team focused on event analytics.
+I was the Lead Applied Scientist in IBM’s SmartCloud division, responsible for inventing, optimising, and delivering machine learning software to enhance IT network monitoring. I was initially hired to drive machine learning-enabled metrics management and later helped form a new team focused on event analytics.
 
 Key accomplishments include:
 
@@ -119,12 +119,12 @@ Key accomplishments include:
 
 ***<u>Formal Education:</u>*** 
 
-- University College Dublin, Post Doc, Machine Learning :: Comercialization; 2010 - 2011
+- University College Dublin, Post Doc, Machine Learning :: Commercialisation; 2010 - 2011
 - University College Dublin, Doctor of Philosophy, Machine Learning :: Speaker Verification 2006 - 2010
 - Trinity College Dublin, Master of Science :: High Performance Computing, 2002 - 2003
 - Trinity College Dublin, Bachelor of Arts :: Mathematics, 1998 - 2002
 
 ***<u>Projects & Courses:</u>***
 
-- *The Automated Anglican*: A automated digitization of my fathers history of sermons leveraging Google Tesseract for OCR, GPT for text correction & summarization and Dalle-3 for image creation served as a Jekyll [website](https://kevin-brew.github.io/) build and hosted by Github. Also made available as an [OpenAI custom GPT](https://chatgpt.com/g/g-iDHn6ujDW-the-automated-anglican) for sermons-on-demand.
+- *The Automated Anglican*: A automated digitisation of my fathers history of sermons leveraging Google Tesseract for OCR, GPT for text correction & summarisation and Dalle-3 for image creation served as a Jekyll [website](https://kevin-brew.github.io/) build and hosted by Github. Also made available as an [OpenAI custom GPT](https://chatgpt.com/g/g-iDHn6ujDW-the-automated-anglican) for sermons-on-demand.
 - *Stanford XCS224N - Natural Language Processing with Deep Learning*: Professional [qualification](https://digitalcredential.stanford.edu/check/3A828127FB09EBAE05F96911C5F17B50ABDBD9E899585F6CF02A952DD5D9E6BFUVY4cUNjRzM4QmZLWmtna2FaQVAzejZSUFVMamlBbjRWZ2NoTm4zRUJRSWNtZzFo) from Stanford attained in order to bring my 2009 PhD knowledge up to the current state-of-the-art.  
