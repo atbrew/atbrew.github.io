@@ -14,7 +14,7 @@ permalink: /cv/
 
 **<u>Overview</u>**
 
-***Highlights:*** Ph.D. Machine Learning (16 publications) · M.Sc High Performance Computing · Inventor on 16 patents · University Mathematics Tutor (Trinity College Dublin) · Zalando SE Supervisory Board (2018-2020) · Stanford XCS224N — Natural Language Processing with Deep Learning (2024)
+***Highlights:*** Ph.D. Machine Learning (16 publications) · M.Sc High Performance Computing · Inventor on 16 patents · University Mathematics Tutor (Trinity College Dublin) · Zalando SE Supervisory Board (2018-2020) · Stanford XCS224N — Natural Language Processing with Deep Learning (2020)
 
 ***Hard Skills:*** Generative AI, LLMs & Agentic Systems, Model Context Protocol (MCP), AI Gateway Orchestration, Recommender Systems & Contextual Bandits, AI Content Authenticity, Automated Content Moderation, Audience Targeting, Text and Image Processing, Classical Machine Learning & Deep Learning, Anomaly Detection/Statistical Process Control, Software Engineering & Distributed Systems
 
@@ -26,7 +26,7 @@ permalink: /cv/
 
 **<u>Experience</u>**
 
-<u>**Senior Director of Generative AI** :: Shutterstock :: Dublin, Ireland :: *July 2023 - Present*</u>  
+<u>**Senior Director of AI** :: Shutterstock :: Dublin, Ireland :: *July 2023 - Present*</u>  
 *Reports to CTO. Org of 27 across 3 product teams (Generative Experience, Public API, Optimisation) plus a Principal Engineering group (peak 40).*
 
 Shutterstock is a two-sided stock-media marketplace; Generative AI both disrupts and extends the business model.
