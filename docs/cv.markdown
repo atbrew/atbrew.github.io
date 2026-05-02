@@ -20,7 +20,7 @@ permalink: /cv/
 
 ***Soft Skills:*** Research Management, Product Management, Cross-Functional Team Leadership, Executive Stakeholder Engagement, Systems Design, Strategic Planning, Program Management, Agile Methodologies
 
-***Recent Technologies:*** OpenAI, Google Gemini, MCP, PyTorch, Snowflake, Spark, Kafka, MLflow, AWS (Sagemaker, Lambda), Terraform, GitHub Actions
+***Recent Technologies:*** OpenAI, Google Gemini, MCP, Claude Code, Codex, Replicate, PyTorch, Snowflake, Spark, Kafka, MLflow, AWS (Sagemaker, Lambda), Terraform, GitHub Actions
 
 <hr/>
 
