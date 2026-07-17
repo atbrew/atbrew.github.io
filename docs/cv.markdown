@@ -26,7 +26,7 @@ permalink: /cv/
 
 **<u>Experience</u>**
 
-<u>**Senior Director of AI** :: Shutterstock :: Dublin, Ireland :: *July 2023 - Present*</u>  
+**Senior Director of AI** :: Shutterstock :: Dublin, Ireland :: *July 2023 - Present*  
 *Reports to CTO. Org of 27 across 3 product teams (Generative Experience, Public API, Optimisation) plus a Principal Engineering group (peak 40).*
 
 Shutterstock is a two-sided stock-media marketplace; Generative AI both disrupts and extends the business model.
@@ -43,7 +43,7 @@ Beyond product, reshaping engineering for the AI-coding era:
 
 - **AI Community of Practice — Agentic Engineering Adoption**: Drove a company-wide AI Community of Practice rollout. Seeded with the "AI(All)ready" early-adopter cohort, scaled via peer mentorship and automated coding standards, culminated in a hackathon. 75% voluntary adoption across engineering; 45 prototypes produced, 16 adopted into the product and technology roadmap.
 
-<u>**VP of AI & Engineering** :: Streetbees :: London & Lisbon (Remote) :: *October 2021 - July 2023*</u>  
+**VP of AI & Engineering** :: Streetbees :: London & Lisbon (Remote) :: *October 2021 - July 2023*  
 *Reports to CPTO. Org of 50+ across 3 stream-aligned teams (acquisition, annotation, reporting).*
 
 Series-B AI SaaS — PepsiCo, Unilever, and others use 3.5M+ consumer insights via AI chatbot to understand markets. Owned technical and scientific strategy and operating model; teams ran autonomously.
@@ -55,7 +55,7 @@ Series-B AI SaaS — PepsiCo, Unilever, and others use 3.5M+ consumer insights v
 - **Reporting:** Fully automated survey curation, delivery, and report creation using GPT-3. Client delivery: weeks → days. Led to a company pivot and launch of Streetbees-X.
 
 
-<u>**Head of NLP Centre of Excellence** :: Zalando :: Berlin (Remote) :: *July 2020 - October 2021*</u>  
+**Head of NLP Centre of Excellence** :: Zalando :: Berlin (Remote) :: *July 2020 - October 2021*  
 *Reports to SVP of Applied Science. Single expert team of 10.*
 
 Founded and led one of Zalando's four AI Centres of Excellence (NLP, Image Processing, Econometrics, Forecasting). Owned operating model, technical, product, and scientific direction. Incubated capabilities and seeded new product-focused research teams.
@@ -66,13 +66,13 @@ Founded and led one of Zalando's four AI Centres of Excellence (NLP, Image Proce
 
 - **Product-Led Scientific Advances:** [Novel text clustering](https://arxiv.org/abs/2212.00086) for new feedback and risk categories. Pioneered zero-shot classification on transformers; contributed to [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_10_TRAINING_ZERO_SHOT_MODEL.md) open-source NLP project (Zalando Research).
 
-<u>**Supervisory Board Member** :: Zalando SE :: *May 2018 - June 2020*</u>
+**Supervisory Board Member** :: Zalando SE :: *May 2018 - June 2020*
 
 I served as a member of Zalando's 8-seat supervisory board alongside representatives from Kinnevik, Bestseller Group, Netflix, KPMG, and Rocket Internet, plus two fellow Zalando employee representatives.
 
 Fiduciary oversight covered policy, investments, divestitures, executive promotions and remuneration, plus relationships with strategic investors and key brand partners.
 
-<u>**Head of Customer Data Platform** :: Zalando :: *January 2016 - July 2020*</u>  
+**Head of Customer Data Platform** :: Zalando :: *January 2016 - July 2020*  
 *Reports to VP of Engineering. Team of 25 across 3 sub-teams (Preference Recommendations, Price Predictions, Cross-Device Graph).*
 
 Founding member of the Customer Data Platform, progressing from Senior Scientist to Head of Applied Science. Cross-functional partnership with Zalando’s main business units (Lounge, Markets, Zalon, ZMS, Fashion Store).
@@ -83,7 +83,7 @@ Founding member of the Customer Data Platform, progressing from Senior Scientist
 
 - **Cross-Device Graph:** Replaced the marketing team’s user association model. +40% attributed sales. Integrated into A/B testing platform, reducing test noise by double digits for cookie-based tests.
 
-<u>**Senior Applied Scientist** :: IBM :: *April 2012 - January 2016*</u>
+**Senior Applied Scientist** :: IBM :: *April 2012 - January 2016*
 
 Lead Applied Scientist in IBM’s SmartCloud division. Invented, optimised, and delivered ML software for IT network monitoring. Started on metrics management; formed a new event analytics team.
 
@@ -93,11 +93,11 @@ Lead Applied Scientist in IBM’s SmartCloud division. Invented, optimised, and 
 
 **<u>Early Career</u>**
 
-<u>**Data Scientist** :: Swrve :: *June 2011 - March 2012*</u> — A/B testing engine and event-stream analytics for mobile gaming
+**Data Scientist** :: Swrve :: *June 2011 - March 2012* — A/B testing engine and event-stream analytics for mobile gaming
 
-<u>**Application Developer** :: Murex :: *October 2004 - October 2006*</u> — software modules for the Murex Limits Controller (financial risk)
+**Application Developer** :: Murex :: *October 2004 - October 2006* — software modules for the Murex Limits Controller (financial risk)
 
-<u>**Open Source Software Consultant** :: OpenApp :: *February 2004 - October 2004*</u>
+**Open Source Software Consultant** :: OpenApp :: *February 2004 - October 2004*
 
 <hr/>
 
