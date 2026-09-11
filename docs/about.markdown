@@ -38,6 +38,7 @@ These principles guide my decision-making in professional and personal contexts:
 **On Authenticity**
 - [Be who I am 100% of the time](#be-who-i-am-100-of-the-time)
 - [All dimensions matter](#all-dimensions-matter)
+- [Start with yes](#start-with-yes)
 
 **On Learning**
 - [Seek out truth seekers](#seek-out-truth-seekers)
@@ -81,6 +82,12 @@ I've historically over-indexed on Purpose and Product. My focus on "why" natural
 **Mastery** is at risk when purpose is clear but execution standards or ways of working are inadequate. I align strongly with mission-focused cross-functional teams where inter-team communication overhead is minimized. I find functionally-split organizations challenging.
 
 Similarly, over-focusing on **Product** can blind you to technical debt that makes velocity impossible, or to fundamental misalignment in senior leadership philosophy. As a leader, it's impossible to be authentic if your organization doesn't share your core values. Don't make excuses for organizational inadequacies—we all have enough of our own to address.
+
+### Start With Yes
+
+I believe most things can be achieved with enough effort. When something seems impossible, I start by imagining the outcome and working backwards to explore what would make it possible.
+
+That means looking for a way forward and persisting through setbacks. I'm willing to pivot as we learn, while continuing to seek opportunities to get there.
 
 ### Seek Out Truth Seekers
 
