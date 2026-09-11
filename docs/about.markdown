@@ -126,4 +126,3 @@ I maintain several ongoing objectives that guide my personal and professional de
 **Mastery**: Building tangible projects that challenge me to work with my hands and think in new ways, reconnecting with the maker mindset that initially drew me to technology.
 
 **Mind & Body**: Maintaining routines that support mental clarity and physical health, building on established habits like sea swimming and cycling while continuing to refine practices that sustain long-term performance.
-  
